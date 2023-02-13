@@ -7,6 +7,8 @@ class GuessingGame:
     self.points: int = 5
 
   def start(self, welcome_msg: bool = False) -> None:
+    """ starts the new word guessing game """
+
     if welcome_msg:
       print_msg("Let's play a word guessing game!")
 
@@ -20,6 +22,8 @@ class GuessingGame:
         print("Guess another word")
 
   def initialize(self) -> None:
+    """ initializes the new word for guessing and guessed_leters are reset """
+
     # Randomly choose a word
     self.word = choice(self.words)
 
@@ -27,6 +31,7 @@ class GuessingGame:
     self.guessed_leters: list[str] = ["_" for _ in self.word]
 
   def play(self) -> None:
+    """ plays the game for the randomly selected word until the score is below 0 or the user inputs `!` """
 
     while self.points > 0:
       self.display_word()
@@ -77,12 +82,16 @@ class GuessingGame:
     return True
 
   def display_word(self) -> None:
+    """ displays letters of the word in `_` format until guessed by the user """
+
     for l in self.guessed_leters:
       print(l, end=' ')
     print()
 
 
 def print_msg(msg: str) -> None:
+  """ prints the message in a specific format """
+
   print(f"\n{'':=^50}")
   print("{:=^50}".format(f" {msg} "))
   print(f"{'':=^50}")

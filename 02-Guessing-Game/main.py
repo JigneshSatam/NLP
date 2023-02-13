@@ -5,11 +5,12 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
 
-def load() -> None:
+def load() -> list[str]:
   """
   loads the data from the input file provided.
-
   Exits if no argument for input file is provided.
+
+  Returns: The 50 most common nouns in the input file.
   """
 
   parser = argparse.ArgumentParser(
@@ -37,10 +38,10 @@ def load() -> None:
   count_sorted_nouns = sorted(
       nouns_dict.items(), key=lambda x: x[1], reverse=True)
 
-  game_words = [w[0] for w in count_sorted_nouns[:50]]
+  print("\nThe 50 most common words and their counts:")
+  print(count_sorted_nouns[:50])
 
-  gg = GuessingGame(game_words)
-  gg.start(welcome_msg=True)
+  return [w[0] for w in count_sorted_nouns[:50]]
 
 
 def calculate_lexical_diversity(tokens: list[str]) -> None:
@@ -99,4 +100,7 @@ def preprocess(raw_text: str) -> tuple[list[str], list[str]]:
 
 
 if __name__ == "__main__":
-  load()
+  game_words = load()
+
+  gg = GuessingGame(game_words)
+  gg.start(welcome_msg=True)
