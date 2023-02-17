@@ -1,71 +1,449 @@
-.Supermassive black holes: Characteristics and formation | Space.Skip to main content.Open menu.Close menu.Space.Space .Search.
-.Search Space.
-.Subscribe.RSS.
-.
-.
-.
-.
-.All About Space Magazine  Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 View Deal .News.Astronomy.Spaceflight.The Moon.Our Solar System.Skywatching.More.Videos.Search for LIfe.Technology.Entertainment.Reference.SpaceX.Expert Voices.Forums.All Topics.Subscribe to "All About Space" Magazine!.Space.com Store.About Us.Web Notifications.
-.TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.When you purchase through links on our site, we may earn an affiliate commission.
-Here’s how it works.Home.References.Supermassive black holes: Theory, characteristics and formation .By Andrew MayContributions from Scott Dutfield published 10 March 2022 .A look at the supermassive black holes that lurk at the heart of most galaxies.
 .
 .
 .
 .
 .
-.An artist’s impression of a quasar powered by a supermassive black hole.
-(Image credit: ESO/M.
-Kornmesser).Jump to:.Size.Examples.At the center of the galaxy.Formation.Additional resources.Bibliography.Only a handful of supermassive black holes have been confirmed by scientists, but the universe could be filled with billions of these gravitational giants.
-Theoretically, if you compress a sufficient amount of matter into a small enough space, it will create such a powerful gravitational field that nothing — not even light — can escape from it.
-That’s the basic idea behind black holes, and it’s so bizarre that for many years people thought they couldn’t possibly exist in reality, according to University of Texas in Austin .Yet today we know the universe is filled with them — perhaps as many as one for every ten visible stars, according to Live Science .
-A few of those black holes are truly enormous, with masses millions of times greater than the sun.
-Here we take a closer look at the strange world of supermassive black holes.How big are supermassive black holes?It’s impossible to observe a black hole directly, because — as their name suggests — they don’t emit any light or other radiation.
-But they can be detected via their gravitational effect on visible stars in their neighbourhood, which orbit around the black hole much faster than they would around a normal object of similar size.
-By measuring the speed of stars close to the black hole, astronomers can estimate its mass.
-That’s how they know, for example, that the black hole at the center of our own galaxy has a mass around four million times that of the sun, according to NASA .As big as that sounds, it’s really quite tiny compared to the largest supermassive black holes that have been measured — some of which approach 100 billion solar masses ,Supermassive black hole examplesImage 1 of 4(Image credit: Scott Anttila/CC BY 3.0)Leo I dwarf galaxy Although this tiny galaxy is only about 20 million solar masses in total, its central black hole is proportionately huge, at around 3 million solar masses.
-(Image credit: ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al.
-(Submillimetre); NASA/CXC/CfA/R.Kraft et al.
-(X-ray))Centaurus A This huge elliptical galaxy – a cosmic neighbour at just 13 million light-years – is a powerful radio emitter thanks to the 55 million solar mass black hole at its center.
-(Image credit: ESO/VST ATLAS team.
-Acknowledgement- Durham University/CASU/WFAU)NGC 7727 The product of two merging galaxies, NGC 7727 still retains two separate supermassive black holes – of 154 and 6.3 million solar masses – just 1,600 light-years apart near its center.
-(Image credit: NASA; ESA; M. Postman, STScI; T. Lauer, NOAO, Tucson; CLASH team)Abell 2261 This cluster of galaxies is estimated to have a black hole of up to 100 billion solar masses near its center.
-Frustratingly, its exact location continues to elude detection.
-Black holes at the center of galaxiesRather than devouring anything that ventures too close to them, the black holes at the centers of most galaxies only give away their existence through subtle effects on nearby stars.
-In an active galaxy, however, the supermassive black hole behaves a lot differently.
-When surrounded by a swirling "accretion disk" of rapidly rotating gas and dust, matter is constantly spiralling down into the black hole.
-In the process, it releases enormous amounts of energy, sometimes even outshining the rest of the galaxy.
-In 2019 the Event Horizon Telescope succeeded in photographing one such galaxy — Messier 87 — producing a direct image of the accretion disc.
-The ominous shadow of the galaxy’s 6.5 billion solar mass black hole is clearly visible, quite literally as a "black hole" at the center of the disk.How supermassive black holes are formedMovies often portray black holes as giant cosmic vacuum cleaners, relentlessly sucking in other material until there’s nothing left.
-If that was how real black holes worked, there’d be no mystery as to where the supermassive kind came from: once an "ordinary" black hole had formed from stellar collapse, it would simply grow and grow until it reached enormous size.
-But real black holes don’t suck matter in like this; they merely attract it with the same law of gravity as a normal object of the same mass.Their exceptional nature comes from the fact that they’re super-condensed and the force of gravity increases as distance decreases.
-So it’s possible for an orbiting object to stray into a region where gravity becomes incredibly strong.
-At larger distances, however, a black hole’s gravity is perfectly normal.
-But if a black hole is incapable of sucking in distant matter, how does it ever grow to supermassive size?
-At present no one knows the answer to this, although there are several promising theories.Related links– What happens at the center of a black hole?– White holes: What we know about black holes' neglected twins– Where do black holes lead to?– Black dwarf stars: The (theoretical) end of stellar evolutionAlthough they may not be the rapacious predators portrayed in sci-fi, we know that some black holes do absorb new material and that’s what’s going on in the accretion disks of active galaxies, for example.
-Occasionally pairs of black holes crash into each other and merge to produce a single, larger black hole and we know that from the evidence of gravitational waves, which have been observed on a regular basis since they were first discovered in 2015.But accretion and mergers, while undoubtedly part of the solution, aren’t enough in themselves to explain the observational evidence for supermassive black holes.
-That’s because we know the first active galaxies — which must have been powered by central black holes – were formed very early in the life of the universe.
-For example, a supermassive black hole of a billion solar masses is believed to have existed in one galaxy more than 12 billion years ago — around 90% of the way back to the Big Bang.It’s possible that the stellar life cycle, which is so crucial to the standard model of black hole formation, had nothing to do with the creation of the oldest supermassive black holes.
-Instead, they may have formed almost immediately from the gravitational collapse of an enormous cloud of gas — one that already contained as much matter as millions of stars.
-According to this theory, a "direct collapse black hole" of this kind would have taken around 150 million years to form — the blink of an eye in cosmic terms.Another hypothesis invokes the idea of primordial black holes, which are theorised to have been created in the Big Bang itself.
-These are sometimes proposed as a possible explanation for dark matter, and are generally assumed to have been quite small in size.
-However, they might have served as the basic seeds from which present-day supermassive black holes grew .Additional resources For more information about black holes check out " Death by Black Hole - and Other Cosmic Quandaries " by Neil deGrasse Tyson and "Gravity's Fatal Attraction: Black Holes in the Universe " by Mitchell Begelman and Martin Rees.
-BibliographyPatchen Barss, "The mysterious origins of Universe's biggest black holes ", BBC, August 2021.
-University of Texas in Austin, "History of Black Holes ", accessed January 2022.
-Stephen Batttersby, "Monster munch: How did black holes get vast so fast?
-", New Scientist, March 2013.
-Alison Klesman, "What are primordial black holes?
-", Astronomy, July 2019.ESA, "​​What happens when two supermassive black holes merge?
-", May 2019.
-NASA, "Exploring Active Galactic Nuclei ", February 2016.
-Shobha Kaicker, "How do astronomers calculate the mass of a black hole?
-", Astronomy, April 2020.
-NASA, "Black Holes ", March 2022.
-NASA, "Active Galaxies ", September 2021.
-NASA, "Stars ", September 2021.
-.Join our Space Forums to keep talking space on the latest missions, night sky and more!
-And if you have a news tip, correction or comment, let us know at: community@space.com.Andrew MaySocial Links NavigationAstrophysicistAndrew May holds a Ph.D. in astrophysics from Manchester University, U.K. For 30 years, he worked in the academic, government and private sectors, before becoming a science writer where he has written for Fortean Times, How It Works, All About Space, BBC Science Focus, among others.
-He has also written a selection of books including Cosmic Impact and Astrobiology: The Search for Life Elsewhere in the Universe, published by Icon Books.With contributions fromScott DutfieldContributor.MORE FROM SPACE.1Be hypnotized by this mesmerizing blue and gold spiral galaxy (photo)2Russian Progress cargo craft at space station springs a leak  3Hubble captures dazzling star cluster that may soon disperse4India tests recovery of spacecraft for Gaganyaan astronaut mission (photos) 5Russian cargo ship arrives at space station after 2-day orbital trek.Space is part of Future US Inc, an international media group and leading digital publisher.
-Visit our corporate site .About Us .Terms and conditions .Privacy policy .Cookies policy .Accessibility Statement .Topics .Advertise with us .Web notifications .Careers .©.Future US, Inc. Full 7th Floor, 130 West 42nd Street,.New York,.NY 10036. .
+.
+Rare Missing Link Black Hole Apparently Found | Space.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+Open menu.
+Close menu.
+.
+.
+.
+.
+.
+.
+Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space .
+.
+.
+.
+.
+Search.
+.
+ .
+.
+.
+Search Space.
+.
+.
+.
+ .
+.
+.
+.
+Subscribe.
+.
+.
+.
+RSS.
+.
+.
+.
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+.
+.
+.
+.
+All About Space Magazine . .Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code LOVE5Issues delivered straight to your door or deviceFrom$3.99 .View .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+News.
+.
+.
+.
+.
+Astronomy.
+.
+.
+.
+.
+Spaceflight.
+.
+.
+.
+.
+The Moon.
+.
+.
+.
+.
+Our Solar System.
+.
+.
+.
+.
+Skywatching.
+.
+.
+.
+.
+More.
+.
+.
+.
+.
+Videos.
+.
+.
+Search for LIfe.
+.
+.
+Technology.
+.
+.
+Entertainment.
+.
+.
+Reference.
+.
+.
+SpaceX.
+.
+.
+Expert Voices.
+.
+.
+Forums.
+.
+.
+All Topics.
+.
+.
+Subscribe to "All About Space" Magazine!.
+.
+.
+Space.com Store.
+.
+.
+About Us.
+.
+.
+Web Notifications.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.
+.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+.
+.
+.
+.
+.
+.
+Home.
+.
+.
+News.
+.
+.
+Science & Astronomy.
+.
+.
+.
+Rare Missing Link Black Hole Apparently Found.
+.
+.
+By Mike Wall published 27 February 2015 .
+.
+.
+.
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+ .
+.
+.
+.
+.
+ .
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+The newly discovered object NGC 2276-3c (shown in inset) appears to be an intermediate-mass black hole, astronomers say.
+(Image credit: X-ray: NASA/CXC/SAO/M.Mezcua et al & NASA/CXC/INAF/A.Wolter et al; Optical: NASA/STScI and DSS; Inset: Radio: EVN/VLBI).
+.
+.
+.
+.
+A newfound cosmic object may be a long-sought missing link that could help flesh out the black hole family tree.The object appears to be an intermediate-mass black hole (IMBH), astronomers say. Called NGC-2276-3c, it lies in an arm of the spiral galaxy NGC-2276, about 100 million light-years from Earth.IMBHs are thought to contain the mass of a few hundred to a few hundred thousand suns. The black holes are therefore intermediate in size between stellar-mass black holes and the behemoths that lurk at the hearts of galaxies, which can harbor billions of solar masses. [Images: Black Holes of the Universe]Researchers have long hypothesized the existence of IMBHs, which are believed to be the seeds from which supermassive black holes grow. But the midsize structures have proven elusive thus far."Astronomers have been looking very hard for these medium-sized black holes," study co-author Tim Roberts, of the University of Durham in the United Kingdom, said in a statement. "There have been hints that they exist, but the IMBHs have been acting like a long-lost relative that isnt interested in being found."Roberts and his colleagues — led by Mar Mezcua of the Harvard-Smithsonian Center for Astrophysics in Cambridge, Massachusetts — studied NGC-2276-3c in X-ray light using NASAs Chandra X-ray Observatoryand in radio light using the European Very Long Baseline Interferometry Network.Combining these observations with the known relationship between black hole mass and luminosity in X-ray and radio wavelengths, the team calculated NGC-2276-3cs mass: the equivalanet of about 50,000 suns."We found that NGC 2276-3c has traits similar to both stellar-mass black holes and supermassive black holes," said co-author Andrei Lobanov, of the Max Planck Institute for Radio Astronomy in Bonn, Germany. "In other words, this object helps tie the whole black hole family together."The researchers also noted that the black hole is firing off a powerful radio jet, which extends about 2,000 light-years out into space. Young stars are missing along this path for 1,000 light-years or so, suggesting that the jet has cleared out clouds of gas that otherwise would have condensed to form stars, researchers said.A separate study delves into the possible origin of the NGC 2276-3c black hole. A team of researchers led by Anna Wolter, of the National Institute for Astrophysics in Milan, Italy, used Chandra observations to determine that the equivalent of five to 15 suns are forming every year in the NGC 2276 galaxy. This high rate suggests that the galaxy recently collided with a neighboring dwarf galaxy. (Mergers generally spur star formation.) So NGC 2276-3c may actually have taken shape near the core of a dwarf galaxy, astronomers said.Both studies will be published in the journal Monthly Notices of the Royal Astronomical Society.Follow Mike Wall on Twitter @michaeldwall and Google+. Follow us @Spacedotcom, Facebook or Google+. Originally published on Space.com.
+.
+.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+.
+Mike WallSocial Links NavigationSenior Space WriterMichael Wall is a Senior Space Writer with Space.com . and joined the team in 2010. He primarily covers exoplanets, spaceflight and military space, but has been known to dabble in the space art beat. His book about the search for alien life, "Out There," was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelors degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MORE FROM SPACE.1How the superfast flight of astronauts and fighter pilots changes their brains2What is the Nancy Grace Roman Space Telescope?3Elegoo Neptune 3 Plus review: the total package4New satellite photos show surface cracks from devastating Turkey earthquake5Task complete! Perseverance Mars rover snaps photo of filled sample depot.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
+.
+.
+About Us .
+Terms and conditions .
+Privacy policy .
+Cookies policy .
+Accessibility Statement .
+Topics .
+Advertise with us .
+Web notifications .
+Careers .
+.
+.
+©.
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,.
+New York,.
+NY 10036. .
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .

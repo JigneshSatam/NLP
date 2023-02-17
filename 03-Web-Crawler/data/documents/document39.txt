@@ -4,7 +4,6 @@
 
 
 
-Behold! This is the first photo of the Milky Way's monster black hole Sagittarius A* | Space
 
 
 
@@ -16,48 +15,7 @@ Behold! This is the first photo of the Milky Way's monster black hole Sagittariu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Black Holes
 
 
 
@@ -123,18 +81,7 @@ Skip to main content
 
 
 
-
-
-
-Open menu
-Close menu
-
-
-
-
-
-
-Space
+Hubblesite.org
 
 
 
@@ -150,197 +97,142 @@ Space
 
 
 
+Close search
 
 
-Space 
 
+
+
+Open search
 
 
 
 Search
 
- 
 
 
-Search Space
+Search for news, events, etc.
 
 
 
- 
 
 
 
-Subscribe
 
 
 
-RSS
+ Search Method
 
 
 
 
-  (opens in new tab)
 
-  (opens in new tab)
+All These Words
+This Exact Phrase
+Any of These Words
+Advanced
 
-  (opens in new tab)
 
-  (opens in new tab)
+Do not include words like a, and, for, the, etc.
 
-  (opens in new tab)
 
+Advanced Query Syntax
 
 
+ Content Type
 
+Page
+Press Release
+Image
+Video
+Article
+Event
+File
+All Searchable Content
 
-All About Space Magazine (opens in new tab) (opens in new tab)Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 (opens in new tab)View (opens in new tab)
 
+ Sort By
 
 
+Relevancy Score
+Date
 
 
 
 
 
 
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and Terms of Service apply.
 
 
 
-News
 
 
 
 
-Astronomy
 
 
 
 
-Spaceflight
+Menu
 
 
 
 
-The Moon
 
 
 
+				Menu
+				
 
-Our Solar System
 
 
 
-
-Skywatching
-
-
-
-
-More
-
-
-
-
-Videos
-
-
-Search for LIfe
-
-
-Technology
-
-
-Entertainment
-
-
-Reference
-
-
-SpaceX
-
-
-Expert Voices
-
-
-Forums
-
-
-All Topics
-
-
-Subscribe to "All About Space" Magazine!
-
-
-Space.com Store
-
-
-About Us
-
-
-Web Notifications
-
-
-
-
-
- 
-
-
-
-
-
-TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts
-
-When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
-
-
-
-
+Main Navigation
 
 
 Home
 
+ScienceKey ConceptsSolar SystemExoplanetsStars and NebulasGalaxiesUniverseCosmic WondersNewsNews ReleasesMission and TelescopeThe TelescopeHubble StatsMission TimelineInstrumentsServicing MissionsCollaborating MissionsHubble’s ULLYSES ProgramQuick FactsTelescope Quick FactsScience Quick FactsMission Quick FactsAll Quick FactsResource GalleryImagesVideosArticleseBooksLearning ResourcesTonight's SkyPublic Lecture SeriesLithographsHubble HeritageRecursos en EspañolSistema solarExoplanetasEstrellas y nebulosasGalaxiasUniversoMaravillas cósmicasEl telescopioAnunciosLitografíasWall MuralsActivitiesHubble 30th AnniversaryImagesEventsResourcesHubble’s Exciting UniverseFinding Supermassive Black HolesMeasuring the Universe's Expansion RateDiscovering Dark EnergyUnveiling Galaxy EvolutionBeholding the Birth and Death of StarsCharacterizing Planets Around Other StarsSurveying the Solar SystemFour Successful Women Behind the Hubble Space Telescope's AchievementsAbout UsGlossaryContact Us
 
-News
 
 
-Science & Astronomy
 
 
 
-Behold! This is the first photo of the Milky Way's monster black hole Sagittarius A*
 
 
-By Keith Cooper last updated 12 May 2022 
 
-Say hello to Sagittarius A*.
 
 
 
 
-  (opens in new tab)
 
 
 
-  (opens in new tab)
+Breadcrumbs Navigation
 
 
 
- 
+                                Home
+                            
 
 
 
 
- (opens in new tab)
+(+)
 
 
 
-  (opens in new tab)
 
+                                Resource Gallery
+                            
 
 
-  (opens in new tab)
 
+                                Articles
+                            
 
 
 
@@ -353,12 +245,12 @@ Say hello to Sagittarius A*.
 
 
 
-The Event Horizon Telescope has captured a historic first image of the supermassive black hole at the center of our galaxy.The image, which was taken in the light of submillimeter radio waves, confirms that there is a black hole in the heart of the Milky Way that is feeding on a trickle of hydrogen gas."Until now, we didn't have the direct picture to prove that this gentle giant in the center of our galaxy is a black hole," Feryal Özel, an astrophysicist at the University of Arizona, said during a National Science Foundation news conference held Thursday (May 12). "It shows a bright ring surrounding the darkness, and the telltale sign of the shadow of the black hole."Related: Here's how scientists turned the world into a telescope (to see a black hole)An image of the supermassive black hole at the center of the Milky Way, a behemoth dubbed Sagittarius A*, revealed by the Event Horizon Telescope on May 12, 2022. (Image credit: Event Horizon Telescope collaboration)"This is an astounding achievement," Ryan Hickox, an astrophysicist at Dartmouth College who is not a member of the EHT team, told Space.com. "I think I speak for a large number of my astronomy colleagues when I say how remarkably grateful we are."In 2019, the Event Horizon Telescope (EHT) made headlines when it succeeded in producing the first ever image of the event horizon of a black hole, specifically the black hole at the center of the active elliptical galaxy Messier 87. At the same time as it gathered the data that became that image, the EHT also performed observations of Sagittarius A*, which is the name given to the Milky Way's supermassive black hole. However, producing an image of Sagittarius A* proved more difficult than for M87.For one thing, Earth's water-laden atmosphere can absorb the submillimeter radio waves that the EHT relies on. Moreover, gas and dust in the intervening 27,000 light-years between us and Sagittarius A* can scatter the submillimeter waves and blur the image. Lastly, whereas M87's black hole has a voracious appetite and appears bright because it is consuming a lot of gas, the flow of material onto Sagittarius A* is far more feeble, meaning it is much fainter."Getting to this image wasn't an easy journey," Özel said. "It took several years to refine the image and confirm what he had."Black holes are the densest objects in the universe, and their gravity is irresistible, to the extent that within a certain distance of a black hole, not even light can escape. Scientists call this "point of no return" the event horizon.The EHT is able to see light, in the form of radio waves, from hot gas swirling around the edge of the event horizon. The black hole feeds from the material within its immediate environment, whether gas clouds, asteroids or even stars that might wander too close and be ripped apart by gravitational tides. However, Sagittarius A* is being starved."We only see a trickle of material making it all the way to the black hole," Harvard astrophysicist Michael Johnson said during the NSF press conference. "In human terms, it would be like eating just one grain of rice every million years."Why the accretion of gas onto Sagittarius A* is so slow has been a puzzle for many years, Nobel Prize laureate Andrea Ghez, an astrophysicist at the University of California, Los Angeles, told Space.com. "There's a lot of mysteries associated with the accretion flow, in terms of why it is so faint," she added. A collage shows the first image of the black hole at the center of the Milky Way at its location on the sky. (Image credit: ESO/José Francisco Salgado (josefrancisco.org), EHT Collaboration)Ghez shared the 2020 Nobel Prize in Physics for measuring the mass of Sagittarius A* by observing the motions of stars orbiting close to it. Ghez and her team calculated a mass that was 4.3 million times the mass of our sun. Since the size of the event horizon is connected to the mass of the black hole, it was therefore possible to make a prediction, Ghez said. "The power of imaging the black hole's ring is that, if you know the mass and distance to the black hole — in other words, the size of the event horizon — then you can use that to compare to theory."The new image shows that the size of Sagittarius A*'s event horizon is 51.8 microarcseconds on the sky."Our image is in very close agreement with theoretical predictions," said Özel, who described it as the biggest test of Einstein's theory of general relativity ever made, noting that the theory passed with flying colors."It's a great laboratory for trying to understand how gravity works in the vicinity of a supermassive black hole," Ghez said.A comparison of Event Horizon Telescope views of the black holes at the center of the galaxy M87, on the left, and of the one in the Milky Way, at right. (Image credit: EHT Collaboration)More uncertain are our explanations for the turbulence seen in the gas ring. The black hole of M87 is much larger than Sagittarius A*, and therefore it takes days for changes to become apparent, whereas Sagittarius A* is much smaller and, as material whips around it, the brightness of the ring can change in mere minutes."It is teeming with activity, always gurgling with turbulent energy," Johnson said of the ring around the event horizon.To try to explain what they were seeing, the EHT team — which is made up of more than 300 researchers across 80 institutions — performed more than 5 million supercomputer simulations to try and find one that was a match for what they observed. "We were left with only a handful of simulations that share the features that we observe, but none of them explain all the features," Johnson said. In particular, the simulations all predicted more and faster variability than what was actually seen, and could relate to how gas is accreting onto the ring, or how magnetic fields are interacting with that inflow.Reacting to the image, Hickox said that "it's just remarkable to see an image of the black hole that we know best, and to see the ring and measure the shadow size as accurately as they did."Furthermore, this image of Sagittarius A* can now act as a template for other quiescent black holes in the universe."This black hole is more typical of the overall set of black holes in the universe than the one in M87," Hickox said. “If you were just to take a picture of a random supermassive black hole in a galaxy somewhere in the universe, then this is what it would look like."This image of Sagittarius A*, and of the black hole in M87 before it, has been made possible through the magic of a technique known as Very Long Baseline Interferometry, which allows astronomers to combine data from radio telescopes all across the world as though they were one large telescope, effectively making the EHT the largest telescope on Earth.  At the time when the observations were made, the network consisted of eight telescopes (including one, the South Polar Telescope, that was too far south to study M87), although three more have since been added to the network. The eight-telescope configuration means that the EHT's maximum baseline — which is equivalent to a telescope's aperture — for observing Sagittarius A* was 6,650 miles (10,700 kilometers) across.Future observations will now focus on getting sharper images to better understand the physics of turbulence in the ring around the black hole, as well as how the black hole affects the environment of the galaxy around it."This is driving us to make even better measurements and sharper images," Johnson said.Sagittarius A* and the black hole in M87 were the EHT's top two targets because of their relatively large angular size on the sky. Supermassive black holes in other galaxies appear far smaller on the sky, beyond even the abilities of the EHT to image their event horizon. To be able to do so would require a lengthening of the baseline — that is, to widen the EHT's aperture — between the two widest points in the EHT's network. In this sense, the resolution that the EHT can achieve is limited by the size of Earth, but Hickox says there are possibilities beyond Earth."I've heard talk about potentially having a space-based addition to the EHT, which would significantly increase the overall angular resolution," he told Space.com. "That would be an exciting step forward."Editor's note: This story was updated at 10:45 a.m. and 1:20 p.m. ET to include additional information about the finding. Follow us on Twitter @Spacedotcom and on Facebook. 
 
 
-Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+                        Black Holes
+                    
 
-Keith CooperSocial Links NavigationContributing writerKeith Cooper is a freelance science journalist and editor in the United Kingdom, and has a degree in physics and astrophysics from the University of Manchester. He's the author of "The Contact Paradox: Challenging Our Assumptions in the Search for Extraterrestrial Intelligence" (Bloomsbury Sigma, 2020) and has written articles on astronomy, space, physics and astrobiology for a multitude of magazines and websites.
+View All Articles
 
 
 
@@ -366,27 +258,55 @@ Keith CooperSocial Links NavigationContributing writerKeith Cooper is a freelanc
 
 
 
+Almost Every Galaxy Has One
 
 
 
 
+What are Black Holes?
+A black hole is a region of space packed with so much matter that its own gravity prevents anything from escaping — even a ray of light. Although we can’t see a black hole, the material around it is visible. Material falling into a black hole forms a disk, similar to a whirlpool in a bathtub drain. Matter swirling around a black hole heats up and emits radiation that can be detected. Around a stellar black hole, this matter is composed of gas. Around a supermassive black hole in the center of a galaxy, the swirling disk is made not only of gas but also of stars.
+Stellar Black Holes
+Stellar black holes form when the center of a very massive, dying star collapses in upon itself. This collapse may also cause a supernova, or an exploding star, that blasts the outer parts of the star into space. If the core remaining after the supernova is very massive, gravity completely collapses the core into a black hole with infinite density. Black holes created by supernovas can be about five to 50 times the mass of the Sun.
+Only stars with very large masses can become black holes. Our sun, for example, is not massive enough to become a black hole. Five billion years from now when the Sun runs out of the available nuclear fuel in its core, it will end its life as a white dwarf. 
+Hubble’s ultraviolet instruments detect the particle winds coming off accretion disks from stellar-mass black holes. As light from the disk moves through the winds, some of it is absorbed by material in the wind. Disk winds turn on when a black hole is gobbling material nearly as fast as it can. These eating binges usually happen in a matter of months, unlike with supermassive black holes, whose meals take much longer than the course of a human lifetime. Hubble’s unique ultraviolet capabilities make it an ideal tool for understanding matter falling into a black hole.
+Supermassive Black Holes
 
+This illustration shows IGR J17091-3624, a binary system that likely contains a stellar-mass black hole. The strong gravity of the black hole (on the left) is pulling gas away from a companion star (right). This forms a disk of hot gas around the black hole; the particle wind is driven off this disk. Credit: NASA/CXC/M.Weiss
 
+Stellar black holes are miniscule in comparison to the beasts that astronomers think lie at the centers of most galaxies. These black holes are supermassive — millions to billions of times the mass of our Sun.
+Prior to Hubble, astronomers did not have conclusive evidence that supermassive black holes existed in the universe. Thanks to Hubble and other observatories, we now know that supermassive black holes are intricately tied to the evolution of the galaxies in which they reside. These black holes formed at the same time as their host galaxies. They are thought to have grown from seeds from the earliest massive stars.
 
+Spectacular jets are powered by the gravitational energy of a supermassive black hole in the core of the elliptical galaxy Hercules A. The jets shoot through space for millions of trillions of miles. Credit: NASA, ESA, S. Baum and C. O'Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA) NEWS RELEASE: 2012-47 >
 
+When astronomers first turned radio telescopes on the sky, they tracked radio wave sources to some typical cosmic objects, including the remains of supernovas, distant galaxies and powerful areas of star birth. One particular type of object looked like nothing more than a point of light, perhaps a star. Further observations showed that these objects were extremely far away, meaning they could only be in very distant galaxies. The objects, called quasars, were thought to be the incredibly bright centers of those faraway galaxies. 
+We now know quasars are the small but intensely luminous, bidirectional beacons of light produced and powered by supermassive black holes at the centers of galaxies. Galactic material such as gas, dust and even stars, if located too close to a black hole, will succumb to its relentless tug of gravity and be pulled inside. As this happens, the infalling material stretches, heats and accelerates, creating enormous forces near the event horizon, the point of no return from the black hole’s pull. These forces produce powerful, twisting magnetic fields that launch jets of material at near the speed of light and stretch thousands or even millions of light-years across. The intense forces create strong radiation across the spectrum, from gamma rays to radio waves.
+The distance to quasars is so great and their actual size so small — about the size of our solar system — that the mere fact that we can see them via telescope makes quasars the brightest objects we’ve discovered in the universe. In fact, one of Hubble’s contributions to the quasar mystery was to prove with its high resolution there actually was a galaxy hidden behind the glare. Hubble observations also helped determine that these brilliant galactic centers are powered by supermassive black holes.
+Hubble found quasars in the centers of galaxies that are colliding or brushing up against one another, as well as in elliptical galaxies, which are thought to have developed as a result of multiple galactic mergers. These interactions may help "feed" the supermassive black hole and light up the quasar.
+How Does Hubble Find Black Holes?
+Many of Hubble’s first observations showed the effects of supermassive black holes on their immediate galactic environment. In 1990, shortly after launch, Hubble imaged a 30,000-light-year-long jet emanating from a galaxy known to be a prodigious emitter of radio light. With Hubble’s observations, astronomers had the data they needed to determine that these jets come from very small regions in the centers of galaxies and are likely powered by supermassive black holes.
+Hubble’s fine resolution — the ability to see tiny details — helped propel the case for supermassive black holes even further in 1994, when astronomers took spectra of the gas in the center of the elliptical galaxy M87. Spectra, or the breaking up of light into component colors, can give astronomers a great deal of information about the gas, including its velocity. Astronomers noted that in M87 the central gas was circling in a disk at very high speeds around a small but massive object. The only type of object that can be that massive and yet very small in size is a black hole. These observations by Hubble helped confirm nearly two centuries of theories and conjectures about the existence of black holes.
+The Space Telescope Imaging Spectrograph (STIS), an instrument installed on Hubble in February 1997, is the space telescope’s main “black hole hunter.” A spectrograph uses prisms or diffraction gratings to split the incoming light into its rainbow pattern. Each element interacts with light in a unique rainbow signature. The position and strength of those signatures in a spectrum gives scientists valuable information, such as how fast the stars and gas are moving. STIS can take a spectrum of many places at once across the center of a galaxy. With that information, the central mass that the stars are orbiting can be calculated. The faster the stars go, the more massive the central object must be.
 
 
+A supermassive black hole creates a jet of particles traveling at nearly the speed of light from the center of galaxy M87. A bright knot in the jet (HST-1) bursts forth from the disk of material swirling around the black hole. Credit: NASA and The Hubble Heritage Team (STScI/AURA) NEWS RELEASE: 2000-20 >
 
 
+How Does a Supermassive Black Hole Affect Its Host Galaxy?
+From the wealth of Hubble data, astronomers now understand that black holes can have profound influences on the galaxy as a whole. For example, the jets from supermassive black holes can propel massive amounts of gas and dust into intergalactic space, thus ridding the galaxy of much-needed fuel for ongoing star formation. Or in the case of a 2015 result using Hubble observations of large elliptical galaxies, jets from supermassive black holes may regulate star formation in such a way that it keeps going, albeit at a slower rate.
+Perhaps the most surprising result from Hubble’s observations is that supermassive black holes must reside in the majority, or even in all, galaxies. Once the objects of extreme speculation, supermassive black holes are now considered integral components of galaxies and crucial to the study of how galaxies evolve over time.
 
 
+ About this Article
+Last Updated:
+September 30, 2022
 
 
 
 
 
-MORE FROM SPACE...1Green comet C/2022 E3 (ZTF) may be heading out of the solar system for good2A total solar eclipse and a 'ring of fire' make 2023 special for eclipse-chasers3US shoots down 'UFO' over Canada4The sun just erupted with a major X-class solar flare. Here's what it looked like on video.5'Black history is American history': NASA celebrates African Americans and space achievements at Smithsonian event
 
+                Related Materials
+            
 
 
 
@@ -395,32 +315,19 @@ MORE FROM SPACE...1Green comet C/2022 E3 (ZTF) may be heading out of the solar s
 
 
 
+Video: Birth of a Black Holes
 
-Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
 
 
-About Us (opens in new tab)
-Terms and conditions (opens in new tab)
-Privacy policy (opens in new tab)
-Cookies policy (opens in new tab)
-Accessibility Statement (opens in new tab)
-Topics (opens in new tab)
-Advertise with us (opens in new tab)
-Web notifications (opens in new tab)
-Careers (opens in new tab)
 
 
-©
-Future US, Inc. Full 7th Floor, 130 West 42nd Street,
-New York,
-NY 10036. 
 
 
- 
 
 
 
 
+Video: Zoom in to Black Hole Jet
 
 
 
@@ -428,8 +335,175 @@ NY 10036.
 
 
 
- 
 
 
 
- 
+
+How Do We Know There Are Black Holes? (WebbTelescope.org)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pagination
+
+
+Previous
+
+
+
+
+
+
+
+
+        The Electromagnetic Spectrum
+    
+
+
+
+
+5
+11
+
+
+
+Next
+
+
+
+
+
+
+
+
+        The Meaning of Light and Color
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+
+Footer
+
+
+
+The NASA Hubble Space Telescope is a project of international cooperation between NASA and ESA. AURA’s Space Telescope Science Institute in Baltimore, Maryland, conducts Hubble science operations.
+
+
+Secondary Navigation
+
+
+
+
+
+
+About Us
+                    
+Contact Us
+                    
+Glossary
+                    
+Privacy Policy
+                    
+Copyright
+                    
+Sitemap
+                    
+
+
+Social Media
+
+
+
+
+
+Link tofacebook
+
+
+
+
+
+
+
+
+Link totwitter
+
+
+
+
+
+
+
+
+Link toinstagram
+
+
+
+
+
+
+
+
+Link toyoutube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

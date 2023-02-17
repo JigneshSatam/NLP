@@ -1,123 +1,487 @@
-.Black holes: Everything you need to know | Space.Skip to main content.Open menu.Close menu.Space.Space .Search.
-.Search Space.
-.Subscribe.RSS.
-.
-.
-.
-.
-.All About Space Magazine  Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 View Deal .News.Astronomy.Spaceflight.The Moon.Our Solar System.Skywatching.More.Videos.Search for LIfe.Technology.Entertainment.Reference.SpaceX.Expert Voices.Forums.All Topics.Subscribe to "All About Space" Magazine!.Space.com Store.About Us.Web Notifications.
-.TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.When you purchase through links on our site, we may earn an affiliate commission.
-Here’s how it works.Home.References.Science & Astronomy.Black holes: Everything you need to know.By Daisy Dobrijevic, Nola Taylor Tillman, Ben Biggs last updated 11 May 2022 .These gluttonous beasts are some of the most fascinating objects in space.
 .
 .
 .
 .
 .
-.Black holes are some of the most fascinating objects in space.
-(Image credit: solarseven via Getty Images ).Jump to:.Black hole discovery.How many black holes are there?.Black hole images.What do black holes look like?.Types of black holes.Black hole facts.Additional resources.Black holes are some of the strangest and most fascinating objects in space.
-They're extremely dense, with such strong gravitational attraction that not even light can escape their grasp.
-The Milky Way could contain over 100 million black holes, though detecting these gluttonous beasts is very difficult.
-At the heart of the Milky Way lies a supermassive black hole — Sagittarius A*.
-The colossal structure is about 4 million times the mass of the sun and lies approximately 26,000 light-years away from Earth, according to a statement from NASA .The first image of a black hole was captured in 2019 by the Event Horizon Telescope (EHT) collaboration.
-The striking photo of the black hole at the center of the M87 galaxy 55 million light-years from Earth thrilled scientists around the world.
-Related: White holes: What we know about black holes' neglected twins Black hole discovery Albert Einstein first predicted the existence of black holes in 1916, with his general theory of relativity.
-The term "black hole" was coined many years later in 1967 by American astronomer John Wheeler.
-After decades of black holes being known only as theoretical objects.
-The first black hole ever discovered was Cygnus X-1, located within the Milky Way in the constellation of Cygnus, the Swan.
-Astronomers saw the first signs of the black hole in 1964 when a sounding rocket detected celestial sources of X-rays according to NASA .
-In 1971, astronomers determined that the X-rays were coming from a bright blue star orbiting a strange dark object.
-It was suggested that the detected X-rays were a result of stellar material being stripped away from the bright star and "gobbled" up by the dark object — an all-consuming black hole.
-How many black holes are there?At the center of the Milky Way lies a supermassive black hole Sagittarius A* (Sgr A*).
-(Image credit: NASA/UMass/D.Wang et al., IR: NASA/STScI) According to the Space Telescope Science Institute  (STScI) approximately one out of every thousand stars is massive enough to become a black hole.
-Since the Milky Way contains over 100 billion stats, our home galaxy must harbor some 100 million black holes.
-Though detecting black holes is a difficult task and estimates from NASA  suggest there could be as many as 10 million to a billion stellar black holes in the Milky Way.
-The closest black hole to Earth is dubbed "The Unicorn" and is situated approximately 1,500 light-years away.
-The nickname has a double meaning.
-Not only does the black hole candidate reside in the constellation Monoceros ("the unicorn"), its incredibly low mass — about three times that of the sun — makes it nearly one of a kind.Related: How many black holes are there in the universe?Black hole images The Event Horizon Telescope, a planet-scale array of eight ground-based radio telescopes forged through international collaboration, captured this image of the supermassive black hole in the center of the galaxy M87 and its shadow.
-(Image credit: EHT Collaboration) In 2019 the Event Horizon Telescope (EHT) collaboration released the first image ever recorded of a black hole.
-The EHT saw the black hole in the center of galaxy M87 while the telescope was examining the event horizon or the area past which nothing can escape from a black hole.
-The image maps the sudden loss of photons (particles of light).
-It also opens up a whole new area of research in black holes, now that astronomers know what a black hole looks like.In 2021, astronomers revealed a new view of the giant black hole at the center of M87, showing what the colossal structure looks like in polarized light.
-As polarized light waves have a different orientation and brightness compared to unpolarized light, the new image shows the black hole in even more detail.
-Polarization is a signature of magnetic fields and the image makes it clear that the black hole's ring is magnetized.
-Following the release of the first image of a black hole in 2019, astronomers captured a new polarized view of the black hole.
-(Image credit: EHT Collaboration) What do black holes look like?
-Black holes have three "layers": the outer and inner event horizon, and the singularity.The event horizon of a black hole is the boundary around the mouth of the black hole, past which light cannot escape.
-Once a particle crosses the event horizon, it cannot leave.
-Gravity is constant across the event horizon.The inner region of a black hole, where the object's mass lies, is known as its singularity, the single point in space-time where the mass of the black hole is concentrated.Scientists can't see black holes the way they can see stars and other objects in space.
-Instead, astronomers must rely on detecting the radiation black holes emit as dust and gas are drawn into the dense creatures.
-But supermassive black holes, lying in the center of a galaxy, may become shrouded by the thick dust and gas around them, which can block the telltale emissions.Related stories: — What happens at the center of a black hole?— Where do black holes lead to?— What is the biggest thing in the universe?
-Sometimes, as matter is drawn toward a black hole, it ricochets off the event horizon and is hurled outward, rather than being tugged into the maw.
-Bright jets of material traveling at near-relativistic speeds are created.
-Although the black hole remains unseen, these powerful jets can be viewed from great distances.The EHT's image of a black hole in M87 (released in 2019) was an extraordinary effort, requiring two years of research even after the images were taken.
-That's because the collaboration of telescopes, which stretches across many observatories worldwide, produces an astounding amount of data that is too large to transfer via the internet.
-With time, researchers expect to image other black holes and build up a repository of what the objects look like.
-The next target is likely Sagittarius A*, which is the black hole in the center of our own Milky Way galaxy.
-Sagittarius A* is intriguing because it is quieter than expected, which may be due to magnetic fields smothering its activity, a 2019 study reported.
-Another study that year showed that a cool gas halo surrounds Sagittarius A*, which gives unprecedented insight into what the environment around a black hole looks like.ESO's black hole anatomy diagram shows what a black hole looks like and labels the different components.
-(Image credit: ESO) Types of black holes So far, astronomers have identified three types of black holes: stellar black holes, supermassive black holes and intermediate black holes.
-Stellar black holes — small but deadly When a star burns through the last of its fuel, the object may collapse, or fall into itself.
-For smaller stars (those up to about three times the sun's mass), the new core will become a neutron star or a white dwarf.
-But when a larger star collapses, it continues to compress and creates a stellar black hole.Black holes formed by the collapse of individual stars are relatively small but incredibly dense.
-One of these objects packs more than three times the mass of the sun into the diameter of a city.
-This leads to a crazy amount of gravitational force pulling on objects around the object.
-Stellar black holes then consume the dust and gas from their surrounding galaxies, which keeps them growing in size.Supermassive black holes — the birth of giants Small black holes populate the universe, but their cousins, supermassive black holes, dominate.
-These enormous black holes are millions or even billions of times as massive as the sun but are about the same size in diameter.
-Such black holes are thought to lie at the center of pretty much every galaxy, including the Milky Way.Scientists aren't certain how such large black holes spawn.
-Once these giants have formed, they gather mass from the dust and gas around them, material that is plentiful in the center of galaxies, allowing them to grow to even more enormous sizes.Supermassive black holes may be the result of hundreds or thousands of tiny black holes that merge.
-Large gas clouds could also be responsible, collapsing together and rapidly accreting mass.
-A third option is the collapse of a stellar cluster, a group of stars all falling together.
-Fourth, supermassive black holes could arise from large clusters of dark matter.
-This is a substance that we can observe through its gravitational effect on other objects; however, we don't know what dark matter is composed of because it does not emit light and cannot be directly observed.Intermediate black holes Scientists once thought that black holes came in only small and large sizes, but research has revealed the possibility that midsize, or intermediate, black holes (IMBHs) could exist.
-Such bodies could form when stars in a cluster collide in a chain reaction.
-Several of these IMBHs forming in the same region could then eventually fall together in the center of a galaxy and create a supermassive black hole.In 2014, astronomers found what appeared to be an intermediate-mass black hole in the arm of a spiral galaxy.
-And in 2021 astronomers took advantage of an ancient gamma-ray burst to detect one.
-"Astronomers have been looking very hard for these medium-sized black holes," study co-author Tim Roberts, of the University of Durham in the United Kingdom, said in a statement .
-"There have been hints that they exist, but IMBHs have been acting like a long-lost relative that isn't interested in being found.
-"Research, from 2018, suggested that these IMBHs may exist in the heart of dwarf galaxies (or very small galaxies).
-Observations of 10 such galaxies (five of which were previously unknown to science before this latest survey) revealed X-ray activity — common in black holes — suggesting the presence of black holes of from 36,000 to 316,000 solar masses.
-The information came from the Sloan Digital Sky Survey, which examines about 1 million galaxies and can detect the kind of light often observed coming from black holes that are picking up nearby debris.
-Binary black holes: double trouble  Artist's illustration of a supermassive black hole with a companion black hole orbiting around it.
-(Image credit: Caltech-IPAC) In 2015, astronomers using the Laser Interferometer Gravitational-Wave Observatory (LIGO) detected gravitational waves from merging stellar black holes.
-"We have further confirmation of the existence of stellar-mass black holes that are larger than 20 solar masses — these are objects we didn't know existed before LIGO detected them," David Shoemaker, the spokesperson for the LIGO Scientific Collaboration (LSC), said in a statement .
-LIGO's observations also provide insights into the direction a black hole spins.
-As two black holes spiral around one another, they can spin in the same direction or the opposite direction.There are two theories on how binary black holes form.
-The first suggests that the two black holes in a binary form at about the same time, from two stars that were born together and died explosively at about the same time.
-The companion stars would have had the same spin orientation as one another, so the two black holes left behind would as well.Under the second model, black holes in a stellar cluster sink to the center of the cluster and pair up.
-These companions would have random spin orientations compared to one another according to LIGO Scientific Collaboration.
-LIGO's observations of companion black holes with different spin orientations provide stronger evidence for this formation theory.
-"We're starting to gather real statistics on binary black hole systems," said LIGO scientist Keita Kawabe of Caltech, who is based at the LIGO Hanford Observatory.
-"That's interesting because some models of black hole binary formation are somewhat favored over the others even now, and in the future, we can further narrow this down.
-"Black hole factsIf you fell into a black hole, theory has long suggested that gravity would stretch you out like spaghetti, though your death would come before you reached the singularity.
-But a 2012 study published in the journal Nature  suggested that quantum effects would cause the event horizon to act much like a wall of fire, which would instantly burn you to death.Black holes don't suck.
-Suction is caused by pulling something into a vacuum, which the massive black hole definitely is not.
-Instead, objects fall into them just as they fall toward anything that exerts gravity, like the Earth.The first object considered to be a black hole is Cygnus X-1.
-Cygnus X-1 was the subject of a 1974 friendly wager between Stephen Hawking and fellow physicist Kip Thorne, with Hawking betting that the source was not a black hole.
-In 1990, Hawking conceded defeat.Miniature black holes may have formed immediately after the Big Bang.
-Rapidly expanding space may have squeezed some regions into tiny, dense black holes less massive than the sun.If a star passes too close to a black hole, the star can be torn apart .Astronomers estimate that the Milky Way has anywhere from 10 million to 1 billion stellar black holes, with masses roughly three times that of the sun.Black holes remain terrific fodder for science fiction books and movies.
-Check out the movie "Interstellar," which relied heavily on Thorne to incorporate science.
-Thorne's work with the movie's special effects team led to scientists' improved understanding of how distant stars might appear when seen near a fast-spinning black hole.Additional resourcesDive deeper into the mystery of black holes  with NASA Science.
-Watch videos and read more about black holes  from NASA's Hubblesite.
-Discover more about black holes  with the National Science Foundation.
-BibliographyHubblesite: Black holes: Gravity's relentless pull interactive : Encyclopedia.
-STScI Home.
-Retrieved May 6, 2022.NASA.
-Imagine the universe!
-NASA.
-Retrieved May 6, 2022.Boen, B.
-(2013, August 29 ).
-Supermassive black hole Sagittarius A*.
-NASA.
-Retrieved May 6, 2022.NASA's Chandra Finds Intriguing Member of Black Hole Family Tree.
-Chandra X-ray Observatory.
-(2015, February 25).
-Retrieved May 6, 2022.Join our Space Forums to keep talking space on the latest missions, night sky and more!
-And if you have a news tip, correction or comment, let us know at: community@space.com.Daisy DobrijevicSocial Links NavigationReference WriterDaisy Dobrijevic joined Space.com in February 2022 as a reference writer having previously worked for our sister publication All About Space magazine as a staff writer.
-Before joining us, Daisy completed an editorial internship with the BBC Sky at Night Magazine and worked at the National Space Centre in Leicester, U.K., where she enjoyed communicating space science to the public.
-In 2021, Daisy completed a PhD in plant physiology and also holds a Master's in Environmental Science, she is currently based in Nottingham, U.K.MORE FROM SPACE.1'Sphere' is 25 and coming to TV soon.
-Here's why Michael Crichton's mind-bending sci-fi tale is still awesome2What are these mystery objects that US fighter jets keep shooting down?3SpaceX to launch 1st Saudi woman to space on private Ax-2 mission4Pictures from space!
-Our image of the day5SpaceX Starlink launch grazes the moon in gorgeous photos.Space is part of Future US Inc, an international media group and leading digital publisher.
-Visit our corporate site .About Us .Terms and conditions .Privacy policy .Cookies policy .Accessibility Statement .Topics .Advertise with us .Web notifications .Careers .©.Future US, Inc. Full 7th Floor, 130 West 42nd Street,.New York,.NY 10036. .
+.
+Supermassive black holes: Characteristics and formation | Space.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+Open menu.
+Close menu.
+.
+.
+.
+.
+.
+.
+Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space .
+.
+.
+.
+.
+Search.
+.
+ .
+.
+.
+Search Space.
+.
+.
+.
+ .
+.
+.
+.
+Subscribe.
+.
+.
+.
+RSS.
+.
+.
+.
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+.
+.
+.
+.
+All About Space Magazine . .Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code LOVE5Issues delivered straight to your door or deviceFrom$3.99 .View Deal .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+News.
+.
+.
+.
+.
+Astronomy.
+.
+.
+.
+.
+Spaceflight.
+.
+.
+.
+.
+The Moon.
+.
+.
+.
+.
+Our Solar System.
+.
+.
+.
+.
+Skywatching.
+.
+.
+.
+.
+More.
+.
+.
+.
+.
+Videos.
+.
+.
+Search for LIfe.
+.
+.
+Technology.
+.
+.
+Entertainment.
+.
+.
+Reference.
+.
+.
+SpaceX.
+.
+.
+Expert Voices.
+.
+.
+Forums.
+.
+.
+All Topics.
+.
+.
+Subscribe to "All About Space" Magazine!.
+.
+.
+Space.com Store.
+.
+.
+About Us.
+.
+.
+Web Notifications.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.
+.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+.
+.
+.
+.
+.
+.
+Home.
+.
+.
+References.
+.
+.
+.
+Supermassive black holes: Theory, characteristics and formation .
+.
+.
+By Andrew MayContributions from Scott Dutfield published 10 March 2022 .
+.
+A look at the supermassive black holes that lurk at the heart of most galaxies.
+.
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+ .
+.
+.
+.
+.
+ .
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+An artist’s impression of a quasar powered by a supermassive black hole.
+(Image credit: ESO/M. Kornmesser).
+.
+.
+.
+.
+.
+Jump to:.
+.
+.
+.
+Size.
+.
+.
+.
+.
+Examples.
+.
+.
+.
+.
+At the center of the galaxy.
+.
+.
+.
+.
+Formation.
+.
+.
+.
+.
+Additional resources.
+.
+.
+.
+.
+Bibliography.
+.
+.
+.
+.
+.
+.
+.
+.
+Only a handful of supermassive black holes have been confirmed by scientists, but the universe could be filled with billions of these gravitational giants. Theoretically, if you compress a sufficient amount of matter into a small enough space, it will create such a powerful gravitational field that nothing — not even light — can escape from it. That’s the basic idea behind black holes, and it’s so bizarre that for many years people thought they couldn’t possibly exist in reality, according to University of Texas in Austin .Yet today we know the universe is filled with them — perhaps as many as one for every ten visible stars, according to Live Science . A few of those black holes are truly enormous, with masses millions of times greater than the sun. Here we take a closer look at the strange world of supermassive black holes.How big are supermassive black holes?It’s impossible to observe a black hole directly, because — as their name suggests — they don’t emit any light or other radiation. But they can be detected via their gravitational effect on visible stars in their neighbourhood, which orbit around the black hole much faster than they would around a normal object of similar size. By measuring the speed of stars close to the black hole, astronomers can estimate its mass. That’s how they know, for example, that the black hole at the center of our own galaxy has a mass around four million times that of the sun, according to NASA .As big as that sounds, it’s really quite tiny compared to the largest supermassive black holes that have been measured — some of which approach 100 billion solar masses .,Supermassive black hole examplesImage 1 of 4(Image credit: Scott Anttila/CC BY 3.0)Leo I dwarf galaxy Although this tiny galaxy is only about 20 million solar masses in total, its central black hole is proportionately huge, at around 3 million solar masses. (Image credit: ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al. (Submillimetre); NASA/CXC/CfA/R.Kraft et al. (X-ray))Centaurus A This huge elliptical galaxy – a cosmic neighbour at just 13 million light-years – is a powerful radio emitter thanks to the 55 million solar mass black hole at its center. (Image credit: ESO/VST ATLAS team. Acknowledgement- Durham University/CASU/WFAU)NGC 7727 The product of two merging galaxies, NGC 7727 still retains two separate supermassive black holes – of 154 and 6.3 million solar masses – just 1,600 light-years apart near its center. (Image credit: NASA; ESA; M. Postman, STScI; T. Lauer, NOAO, Tucson; CLASH team)Abell 2261 This cluster of galaxies is estimated to have a black hole of up to 100 billion solar masses near its center. Frustratingly, its exact location continues to elude detection. Black holes at the center of galaxiesRather than devouring anything that ventures too close to them, the black holes at the centers of most galaxies only give away their existence through subtle effects on nearby stars. In an active galaxy, however, the supermassive black hole behaves a lot differently. When surrounded by a swirling "accretion disk" of rapidly rotating gas and dust, matter is constantly spiralling down into the black hole. In the process, it releases enormous amounts of energy, sometimes even outshining the rest of the galaxy. In 2019 the Event Horizon Telescope succeeded in photographing one such galaxy — Messier 87 — producing a direct image of the accretion disc. The ominous shadow of the galaxy’s 6.5 billion solar mass black hole is clearly visible, quite literally as a "black hole" at the center of the disk.How supermassive black holes are formedMovies often portray black holes as giant cosmic vacuum cleaners, relentlessly sucking in other material until there’s nothing left. If that was how real black holes worked, there’d be no mystery as to where the supermassive kind came from: once an "ordinary" black hole had formed from stellar collapse, it would simply grow and grow until it reached enormous size. But real black holes don’t suck matter in like this; they merely attract it with the same law of gravity as a normal object of the same mass.Their exceptional nature comes from the fact that they’re super-condensed and the force of gravity increases as distance decreases. So it’s possible for an orbiting object to stray into a region where gravity becomes incredibly strong. At larger distances, however, a black hole’s gravity is perfectly normal. But if a black hole is incapable of sucking in distant matter, how does it ever grow to supermassive size? At present no one knows the answer to this, although there are several promising theories.Related links– What happens at the center of a black hole?– White holes: What we know about black holes neglected twins– Where do black holes lead to?– Black dwarf stars: The (theoretical) end of stellar evolutionAlthough they may not be the rapacious predators portrayed in sci-fi, we know that some black holes do absorb new material and that’s what’s going on in the accretion disks of active galaxies, for example. Occasionally pairs of black holes crash into each other and merge to produce a single, larger black hole and we know that from the evidence of gravitational waves, which have been observed on a regular basis since they were first discovered in 2015.But accretion and mergers, while undoubtedly part of the solution, aren’t enough in themselves to explain the observational evidence for supermassive black holes. That’s because we know the first active galaxies — which must have been powered by central black holes – were formed very early in the life of the universe. For example, a supermassive black hole of a billion solar masses is believed to have existed in one galaxy more than 12 billion years ago — around 90% of the way back to the Big Bang.It’s possible that the stellar life cycle, which is so crucial to the standard model of black hole formation, had nothing to do with the creation of the oldest supermassive black holes. Instead, they may have formed almost immediately from the gravitational collapse of an enormous cloud of gas — one that already contained as much matter as millions of stars. According to this theory, a "direct collapse black hole" of this kind would have taken around 150 million years to form — the blink of an eye in cosmic terms.Another hypothesis invokes the idea of primordial black holes, which are theorised to have been created in the Big Bang itself. These are sometimes proposed as a possible explanation for dark matter, and are generally assumed to have been quite small in size. However, they might have served as the basic seeds from which present-day supermassive black holes grew .Additional resources For more information about black holes check out " Death by Black Hole - and Other Cosmic Quandaries ." by Neil deGrasse Tyson and "Gravitys Fatal Attraction: Black Holes in the Universe ." by Mitchell Begelman and Martin Rees. BibliographyPatchen Barss, "The mysterious origins of Universes biggest black holes .", BBC, August 2021. University of Texas in Austin, "History of Black Holes .", accessed January 2022. Stephen Batttersby, "Monster munch: How did black holes get vast so fast? .", New Scientist, March 2013. Alison Klesman, "What are primordial black holes? .", Astronomy, July 2019.ESA, "​​What happens when two supermassive black holes merge? .", May 2019. NASA, "Exploring Active Galactic Nuclei .", February 2016. Shobha Kaicker, "How do astronomers calculate the mass of a black hole? .", Astronomy, April 2020. NASA, "Black Holes .", March 2022. NASA, "Active Galaxies .", September 2021. NASA, "Stars .", September 2021. .
+.
+.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+.
+Andrew MaySocial Links NavigationAstrophysicistAndrew May holds a Ph.D. in astrophysics from Manchester University, U.K. For 30 years, he worked in the academic, government and private sectors, before becoming a science writer where he has written for Fortean Times, How It Works, All About Space, BBC Science Focus, among others. He has also written a selection of books including Cosmic Impact and Astrobiology: The Search for Life Elsewhere in the Universe, published by Icon Books.With contributions fromScott DutfieldContributor.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MORE FROM SPACE.1Chelyabinsk meteor explosion was a planetary defense wakeup call2Heres how Chinas astronauts keep fit aboard Tiangong space station (video)3Virgin Orbit traces failed UK rocket launch to dislodged fuel filter4Star Trek Annual 2023 is a holodeck trip through Trek history5Big asteroid to zoom by Earth on Wednesday.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
+.
+.
+About Us .
+Terms and conditions .
+Privacy policy .
+Cookies policy .
+Accessibility Statement .
+Topics .
+Advertise with us .
+Web notifications .
+Careers .
+.
+.
+©.
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,.
+New York,.
+NY 10036. .
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .

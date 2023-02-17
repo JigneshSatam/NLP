@@ -65,6 +65,17 @@ class KnowledgeBase:
 
     return facts
 
+  def delete_all(self) -> None:
+    query = "delete from knowledge_base;"
+    try:
+      conn = Database.create_connection()
+      conn.execute(query)
+    except Error as e:
+      print("Records delete error.")
+      print(e)
+
+    conn.close()
+
 
 if __name__ == 'db.knowledge_base':
   KnowledgeBase.create_knowledge_base()

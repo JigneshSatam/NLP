@@ -1,46 +1,451 @@
-.Photographing a Black Hole: Historic Campaign Now Underway | Space.Skip to main content.Open menu.Close menu.Space.Space .Search.
-.Search Space.
-.Subscribe.RSS.
-.
-.
-.
-.
-.All About Space Magazine  Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 View .News.Astronomy.Spaceflight.The Moon.Our Solar System.Skywatching.More.Videos.Search for LIfe.Technology.Entertainment.Reference.SpaceX.Expert Voices.Forums.All Topics.Subscribe to "All About Space" Magazine!.Space.com Store.About Us.Web Notifications.
-.TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.When you purchase through links on our site, we may earn an affiliate commission.
-Here’s how it works.Home.News.Science & Astronomy.Photographing a Black Hole: Historic Campaign Now Underway.By Mike Wall published 5 April 2017 .
 .
 .
 .
 .
 .
-.A computer-simulation view of a supermassive black hole at the heart of a galaxy.
-The edge of the black central region represents the event horizon, beyond which no light can escape.
-(Image credit: NASA, ESA, and D. Coe, J. Anderson, and R. van der Marel (STScI)).The campaign to capture the first-ever image of a black hole has begun.From today (April 5) through April 14, astronomers will use a system of radio telescopes around the world to peer at the gigantic black hole at the center of the Milky Way, a behemoth called Sagittarius A* (Sgr A*) that's 4 million times more massive than the sun.The researchers hope to photograph Sgr A*'s event horizon — the "point of no return" beyond which nothing, not even light, can escape.
-(The interior of a black hole can never be imaged, because light cannot make it out.)
-[The Strangest Black Holes in the Universe]A Hubble Space Telescope view of the Milky Way galaxy’s center in infrared light.
-The inset shows X-rays in the region around Sagittarius A*, the supermassive black hole at the Milky Way’s heart.
-(Image credit: X-ray: NASA/UMass/D.Wang et al., IR: NASA/STScI)"These are the observations that will help us to sort through all the wild theories about black holes — and there are many wild theories," Gopal Narayanan, an astronomy research professor at the University of Massachusetts Amherst, said in a statement.
-"With data from this project, we will understand things about black holes that we have never understood before."
-The project, known as the Event Horizon Telescope (EHT), links up observatories in Hawaii, Arizona, California, Mexico, Chile, Spain and Antarctica to create the equivalent of a radio instrument the size of the entire Earth.
-Such a powerful tool is necessary to view the event horizon of Sgr A*, which lies 26,000 light-years from our planet, EHT team members said.
-"That's like trying to image a grapefruit on the surface of the moon," Narayanan said.During the current campaign, EHT is also eyeing the supermassive black hole at the core of the galaxy M87, which lies 53.5 million light-years from Earth.
-This monster black hole's mass is about 6 billion times that of the sun, so its event horizon is larger than that of Sgr A*, Narayanan said.These observations should help astronomers determine the mass, spin and other characteristics of supermassive black holes with better precision, team members said.
-The researchers also aim to learn more about how material accretes into disks around black holes, and the mechanics of the plasma jets that blast from these light-gobbling giants.EHT could also reveal more about the "information paradox" — a long-standing puzzle about whether information about the material gobbled up by black holes can be destroyed — and other deep cosmological mysteries, team members said.
-"At the very heart of Einstein's general theory of relativity, there is a notion that quantum mechanics and general relativity can be melded, that there is a grand, unified theory of fundamental concepts," Narayanan said.
-"The place to study that is at the event horizon of a black hole.
-"Though the current observing campaign will be over soon, it will take a while for astronomers to piece together the images.
-For starters, so much information will be collected by the participating telescopes around the world that it will be physically flown, rather than transmitted, to the central processing facility at the Massachusetts Institute of Technology's Haystack Observatory.Then, the data will have to be calibrated to account for different weather, atmospheric and other conditions at the various sites.
-The first results from the campaign will likely be published next year, EHT team members said.Follow Mike Wall on Twitter @michaeldwall and Google+.
-Follow us @Spacedotcom, Facebook or Google+.
-Originally published on Space.com.Join our Space Forums to keep talking space on the latest missions, night sky and more!
-And if you have a news tip, correction or comment, let us know at: community@space.com.Mike WallSocial Links NavigationSenior Space WriterMichael Wall is a Senior Space Writer with Space.com  and joined the team in 2010.
-He primarily covers exoplanets, spaceflight and military space, but has been known to dabble in the space art beat.
-His book about the search for alien life, "Out There," was published on Nov. 13, 2018.
-Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist.
-He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz.
-To find out what his latest project is, you can follow Michael on Twitter.MORE FROM SPACE.1US shoots down 'UFO' over Canada2The sun just erupted with a major X-class solar flare.
-Here's what it looked like on video.3'Black history is American history': NASA celebrates African Americans and space achievements at Smithsonian event4Cracks on Pluto's moon Charon may be evidence of a frozen subsurface ocean5The James Webb Space Telescope catches distant young galaxy devouring its neighbors.Space is part of Future US Inc, an international media group and leading digital publisher.
-Visit our corporate site .About Us .Terms and conditions .Privacy policy .Cookies policy .Accessibility Statement .Topics .Advertise with us .Web notifications .Careers .©.Future US, Inc. Full 7th Floor, 130 West 42nd Street,.New York,.NY 10036. .
+.
+Magnetic Fields May Muzzle Milky Ways Monster Black Hole | Space.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+Open menu.
+Close menu.
+.
+.
+.
+.
+.
+.
+Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space .
+.
+.
+.
+.
+Search.
+.
+ .
+.
+.
+Search Space.
+.
+.
+.
+ .
+.
+.
+.
+Subscribe.
+.
+.
+.
+RSS.
+.
+.
+.
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+.
+.
+.
+.
+All About Space Magazine . .Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code LOVE5Issues delivered straight to your door or deviceFrom$3.99 .View .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+News.
+.
+.
+.
+.
+Astronomy.
+.
+.
+.
+.
+Spaceflight.
+.
+.
+.
+.
+The Moon.
+.
+.
+.
+.
+Our Solar System.
+.
+.
+.
+.
+Skywatching.
+.
+.
+.
+.
+More.
+.
+.
+.
+.
+Videos.
+.
+.
+Search for LIfe.
+.
+.
+Technology.
+.
+.
+Entertainment.
+.
+.
+Reference.
+.
+.
+SpaceX.
+.
+.
+Expert Voices.
+.
+.
+Forums.
+.
+.
+All Topics.
+.
+.
+Subscribe to "All About Space" Magazine!.
+.
+.
+Space.com Store.
+.
+.
+About Us.
+.
+.
+Web Notifications.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+TrendingMeteorite from European fireball!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.
+.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+.
+.
+.
+.
+.
+.
+Home.
+.
+.
+News.
+.
+.
+Science & Astronomy.
+.
+.
+.
+Magnetic Fields May Muzzle Milky Ways Monster Black Hole.
+.
+.
+By Nola Taylor Tillman published 14 June 2019 .
+.
+Magnetic fields may keep the Milky Ways supermassive black hole quiet.
+.
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+ .
+.
+.
+.
+.
+ .
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+In this image, streamlines showing magnetic fields overlay a color image of the dusty ring surrounding the Milky Ways supermassive black hole. Warm material falling toward the black hole creates a Y-shaped structure, with the black hole lying near the intersection of the two arms. .
+(Image credit: Dust and magnetic fields: NASA/SOFIA; Star field image: NASA/Hubble Space Telescope).
+.
+.
+.
+.
+Magnetic forces may explain why the supermassive black hole at the heart of the Milky Way is so much quieter than its counterparts in other galaxies. New observations, taken by NASAs Stratospheric Observatory for Infrared Astronomy (SOFIA) mission, reveal unprecedented information about the strong magnetic field lines at the center of the galaxy.The strong gravitational pull of the Milky Ways central black hole, which is known as Sagittarius A*, dominates the heart of the galaxy. In general, as material falls into black holes, the dark giants emit high-energy radiation that reveals their presence. Compared to black holes seen in other galaxies, however, the Milky Ways heart is relatively quiet, emitting far less radiation than expected. Understanding how black holes interact with their magnetic fields can help scientists understand the difference between active and quiet black holes.Related: Images: Black Holes of the UniverseWhether they exist around refrigerator magnets or black holes, magnetic fields are invisible. To study the ones connected to Sagittarius A*, researchers relied on SOFIA, which is a modified Boeing 747SP aircraft. Specifically, they employed SOFIAs newest instrument, the High-resolution Airborne Wideband Camera-Plus (HAWC+), to track polarized far-infrared light emitted by dust particles. Because dust grains line up perpendicular to magnetic fields, astronomers were able to map the shape and infer the strength of the magnetic field around the black hole. Combining the new map with mid- and far-infrared images of Sagittarius A* revealed the direction of the magnetic field. While some of the material from the surrounding ring of gas and dust is falling toward the black hole, the magnetic field also directs material away from the hungry giant, researchers said."The spiral shape of the magnetic field channels the gas into an orbit around the black hole,"  HAWC+ principal investigator Darren Dowell, of NASAs Jet Propulsion Laboratory in Pasadena, California, said in a statement. "This could explain why our black hole is quiet while others are active," added Dowell, lead author of a new study reporting the SOFIA results.Sagittarius A* is the closest supermassive black hole to the sun and therefore provides a good opportunity to learn how the mysterious giants function."This is one of the first instances where we can really see how magnetic fields and interstellar matter interact with each other," said study co-author Joan Schmelz, an astrophysicist at NASA Ames Research Center in California. "HAWC+ is a game-changer."The results were presented at the 234th semiannual meeting of the American Astronomical Society, which was held this week in St. Louis.Photos from SOFIA, NASAs Flying Telescope (Gallery)Black Hole Quiz: How Well Do You Know Natures Weirdest Creations?Our Milky Way Galaxy: A Travelers Guide (Infographic)Follow Nola on Facebook and on Twitter at @NolaTRedd. Follow us on Twitter @Spacedotcom and on Facebook. .
+.
+.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+.
+Nola Taylor TillmanSocial Links NavigationContributing WriterNola Taylor Tillman is a contributing writer for Space.com. She loves all things space and astronomy-related, and enjoys the opportunity to learn more. She has a Bachelor’s degree in English and Astrophysics from Agnes Scott college and served as an intern at Sky & Telescope magazine. In her free time, she homeschools her four children. Follow her on Twitter at @NolaTRedd.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MORE FROM SPACE.1Japans new H3 rocket aborts 1st-ever launch attempt2Virgin Galactic carrier plane flies for 1st time since 202133 mystery objects shot down by US likely werent spy craft, Biden says4Black holes may be the source of mysterious dark energy5Pictures from space! Our image of the day.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
+.
+.
+About Us .
+Terms and conditions .
+Privacy policy .
+Cookies policy .
+Accessibility Statement .
+Topics .
+Advertise with us .
+Web notifications .
+Careers .
+.
+.
+©.
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,.
+New York,.
+NY 10036. .
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .

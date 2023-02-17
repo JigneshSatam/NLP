@@ -1,71 +1,449 @@
-.Supermassive black holes: Characteristics and formation | Space.Skip to main content.Open menu.Close menu.Space.Space .Search.
-.Search Space.
-.Subscribe.RSS.
-.
-.
-.
-.
-.All About Space Magazine  Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 View Deal .News.Astronomy.Spaceflight.The Moon.Our Solar System.Skywatching.More.Videos.Search for LIfe.Technology.Entertainment.Reference.SpaceX.Expert Voices.Forums.All Topics.Subscribe to "All About Space" Magazine!.Space.com Store.About Us.Web Notifications.
-.TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.When you purchase through links on our site, we may earn an affiliate commission.
-Here’s how it works.Home.References.Supermassive black holes: Theory, characteristics and formation .By Andrew MayContributions from Scott Dutfield published 10 March 2022 .A look at the supermassive black holes that lurk at the heart of most galaxies.
 .
 .
 .
 .
 .
-.An artist’s impression of a quasar powered by a supermassive black hole.
-(Image credit: ESO/M.
-Kornmesser).Jump to:.Size.Examples.At the center of the galaxy.Formation.Additional resources.Bibliography.Only a handful of supermassive black holes have been confirmed by scientists, but the universe could be filled with billions of these gravitational giants.
-Theoretically, if you compress a sufficient amount of matter into a small enough space, it will create such a powerful gravitational field that nothing — not even light — can escape from it.
-That’s the basic idea behind black holes, and it’s so bizarre that for many years people thought they couldn’t possibly exist in reality, according to University of Texas in Austin .Yet today we know the universe is filled with them — perhaps as many as one for every ten visible stars, according to Live Science .
-A few of those black holes are truly enormous, with masses millions of times greater than the sun.
-Here we take a closer look at the strange world of supermassive black holes.How big are supermassive black holes?It’s impossible to observe a black hole directly, because — as their name suggests — they don’t emit any light or other radiation.
-But they can be detected via their gravitational effect on visible stars in their neighbourhood, which orbit around the black hole much faster than they would around a normal object of similar size.
-By measuring the speed of stars close to the black hole, astronomers can estimate its mass.
-That’s how they know, for example, that the black hole at the center of our own galaxy has a mass around four million times that of the sun, according to NASA .As big as that sounds, it’s really quite tiny compared to the largest supermassive black holes that have been measured — some of which approach 100 billion solar masses ,Supermassive black hole examplesImage 1 of 4(Image credit: Scott Anttila/CC BY 3.0)Leo I dwarf galaxy Although this tiny galaxy is only about 20 million solar masses in total, its central black hole is proportionately huge, at around 3 million solar masses.
-(Image credit: ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al.
-(Submillimetre); NASA/CXC/CfA/R.Kraft et al.
-(X-ray))Centaurus A This huge elliptical galaxy – a cosmic neighbour at just 13 million light-years – is a powerful radio emitter thanks to the 55 million solar mass black hole at its center.
-(Image credit: ESO/VST ATLAS team.
-Acknowledgement- Durham University/CASU/WFAU)NGC 7727 The product of two merging galaxies, NGC 7727 still retains two separate supermassive black holes – of 154 and 6.3 million solar masses – just 1,600 light-years apart near its center.
-(Image credit: NASA; ESA; M. Postman, STScI; T. Lauer, NOAO, Tucson; CLASH team)Abell 2261 This cluster of galaxies is estimated to have a black hole of up to 100 billion solar masses near its center.
-Frustratingly, its exact location continues to elude detection.
-Black holes at the center of galaxiesRather than devouring anything that ventures too close to them, the black holes at the centers of most galaxies only give away their existence through subtle effects on nearby stars.
-In an active galaxy, however, the supermassive black hole behaves a lot differently.
-When surrounded by a swirling "accretion disk" of rapidly rotating gas and dust, matter is constantly spiralling down into the black hole.
-In the process, it releases enormous amounts of energy, sometimes even outshining the rest of the galaxy.
-In 2019 the Event Horizon Telescope succeeded in photographing one such galaxy — Messier 87 — producing a direct image of the accretion disc.
-The ominous shadow of the galaxy’s 6.5 billion solar mass black hole is clearly visible, quite literally as a "black hole" at the center of the disk.How supermassive black holes are formedMovies often portray black holes as giant cosmic vacuum cleaners, relentlessly sucking in other material until there’s nothing left.
-If that was how real black holes worked, there’d be no mystery as to where the supermassive kind came from: once an "ordinary" black hole had formed from stellar collapse, it would simply grow and grow until it reached enormous size.
-But real black holes don’t suck matter in like this; they merely attract it with the same law of gravity as a normal object of the same mass.Their exceptional nature comes from the fact that they’re super-condensed and the force of gravity increases as distance decreases.
-So it’s possible for an orbiting object to stray into a region where gravity becomes incredibly strong.
-At larger distances, however, a black hole’s gravity is perfectly normal.
-But if a black hole is incapable of sucking in distant matter, how does it ever grow to supermassive size?
-At present no one knows the answer to this, although there are several promising theories.Related links– What happens at the center of a black hole?– White holes: What we know about black holes' neglected twins– Where do black holes lead to?– Black dwarf stars: The (theoretical) end of stellar evolutionAlthough they may not be the rapacious predators portrayed in sci-fi, we know that some black holes do absorb new material and that’s what’s going on in the accretion disks of active galaxies, for example.
-Occasionally pairs of black holes crash into each other and merge to produce a single, larger black hole and we know that from the evidence of gravitational waves, which have been observed on a regular basis since they were first discovered in 2015.But accretion and mergers, while undoubtedly part of the solution, aren’t enough in themselves to explain the observational evidence for supermassive black holes.
-That’s because we know the first active galaxies — which must have been powered by central black holes – were formed very early in the life of the universe.
-For example, a supermassive black hole of a billion solar masses is believed to have existed in one galaxy more than 12 billion years ago — around 90% of the way back to the Big Bang.It’s possible that the stellar life cycle, which is so crucial to the standard model of black hole formation, had nothing to do with the creation of the oldest supermassive black holes.
-Instead, they may have formed almost immediately from the gravitational collapse of an enormous cloud of gas — one that already contained as much matter as millions of stars.
-According to this theory, a "direct collapse black hole" of this kind would have taken around 150 million years to form — the blink of an eye in cosmic terms.Another hypothesis invokes the idea of primordial black holes, which are theorised to have been created in the Big Bang itself.
-These are sometimes proposed as a possible explanation for dark matter, and are generally assumed to have been quite small in size.
-However, they might have served as the basic seeds from which present-day supermassive black holes grew .Additional resources For more information about black holes check out " Death by Black Hole - and Other Cosmic Quandaries " by Neil deGrasse Tyson and "Gravity's Fatal Attraction: Black Holes in the Universe " by Mitchell Begelman and Martin Rees.
-BibliographyPatchen Barss, "The mysterious origins of Universe's biggest black holes ", BBC, August 2021.
-University of Texas in Austin, "History of Black Holes ", accessed January 2022.
-Stephen Batttersby, "Monster munch: How did black holes get vast so fast?
-", New Scientist, March 2013.
-Alison Klesman, "What are primordial black holes?
-", Astronomy, July 2019.ESA, "​​What happens when two supermassive black holes merge?
-", May 2019.
-NASA, "Exploring Active Galactic Nuclei ", February 2016.
-Shobha Kaicker, "How do astronomers calculate the mass of a black hole?
-", Astronomy, April 2020.
-NASA, "Black Holes ", March 2022.
-NASA, "Active Galaxies ", September 2021.
-NASA, "Stars ", September 2021.
-.Join our Space Forums to keep talking space on the latest missions, night sky and more!
-And if you have a news tip, correction or comment, let us know at: community@space.com.Andrew MaySocial Links NavigationAstrophysicistAndrew May holds a Ph.D. in astrophysics from Manchester University, U.K. For 30 years, he worked in the academic, government and private sectors, before becoming a science writer where he has written for Fortean Times, How It Works, All About Space, BBC Science Focus, among others.
-He has also written a selection of books including Cosmic Impact and Astrobiology: The Search for Life Elsewhere in the Universe, published by Icon Books.With contributions fromScott DutfieldContributor.MORE FROM SPACE.1Be hypnotized by this mesmerizing blue and gold spiral galaxy (photo)2Russian Progress cargo craft at space station springs a leak  3Hubble captures dazzling star cluster that may soon disperse4India tests recovery of spacecraft for Gaganyaan astronaut mission (photos) 5Russian cargo ship arrives at space station after 2-day orbital trek.Space is part of Future US Inc, an international media group and leading digital publisher.
-Visit our corporate site .About Us .Terms and conditions .Privacy policy .Cookies policy .Accessibility Statement .Topics .Advertise with us .Web notifications .Careers .©.Future US, Inc. Full 7th Floor, 130 West 42nd Street,.New York,.NY 10036. .
+.
+Bizarre Black Holes: Interview With Physicist Kip Thorne | Space.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+Open menu.
+Close menu.
+.
+.
+.
+.
+.
+.
+Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space .
+.
+.
+.
+.
+Search.
+.
+ .
+.
+.
+Search Space.
+.
+.
+.
+ .
+.
+.
+.
+Subscribe.
+.
+.
+.
+RSS.
+.
+.
+.
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+.
+.
+.
+.
+All About Space Magazine . .Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code LOVE5Issues delivered straight to your door or deviceFrom$3.99 .View .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+News.
+.
+.
+.
+.
+Astronomy.
+.
+.
+.
+.
+Spaceflight.
+.
+.
+.
+.
+The Moon.
+.
+.
+.
+.
+Our Solar System.
+.
+.
+.
+.
+Skywatching.
+.
+.
+.
+.
+More.
+.
+.
+.
+.
+Videos.
+.
+.
+Search for LIfe.
+.
+.
+Technology.
+.
+.
+Entertainment.
+.
+.
+Reference.
+.
+.
+SpaceX.
+.
+.
+Expert Voices.
+.
+.
+Forums.
+.
+.
+All Topics.
+.
+.
+Subscribe to "All About Space" Magazine!.
+.
+.
+Space.com Store.
+.
+.
+About Us.
+.
+.
+Web Notifications.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+TrendingMeteorite from European fireball!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.
+.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+.
+.
+.
+.
+.
+.
+Home.
+.
+.
+News.
+.
+.
+Science & Astronomy.
+.
+.
+.
+Bizarre Black Holes Explained: Q & A With Physicist Kip Thorne.
+.
+.
+By Clara Moskowitz published 13 August 2012 .
+.
+.
+.
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+ .
+.
+.
+.
+.
+ .
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Simulated view of a black hole in front of the Large Magellanic Cloud.
+(Image credit: Alain R. | Wikimedia Commons).
+.
+.
+.
+.
+Black holes are so strange, so counterintuitive, its hard to believe they actually exist. Yet scientists say the evidence that black holes are real is almost rock-solid.Among the pioneering physicists whove shed light on these dark objects is Kip Thorne, an emeritus professor at Caltech and architect of some of the leading cosmological theories of how black holes warp space and time. Thorne describes some of the latest thinking on black holes in a paper published in the Aug. 3 issue of the journal Science.We caught up with Thorne about warped space, the nature of singularities inside black holes, and the search for a grand unified theory of physics.SPACE.com: In your paper, you say black holes are objects made wholly and solely of space-time. How can that be? Arent they also made of mass?Kip Thorne: Yes, but mass is equivalent to energy, according to Einstein, and mass or energy can take many different forms. It can take the form of energy in a blowing wind, it can take the form, in this case, of mass or energy that is tied up in the curvature of space-time itself. [Photos: Black Holes of the Universe]SPACE.com: When an object like a star becomes a black hole, what happens to its mass?Thorne: The matter of which a star is made, the atoms of which a star is made, are destroyed at the center of a black hole, when the black hole is created. The matter is gone, but the mass, in the sense of mass and energy being equivalent, has gone into the warped space-time of the black hole.SPACE.com: You also talk about collisions between two black holes. Is this something that we think happens often?Thorne: It happens, we think, in our own galaxy about once every 100,000 years. Were not sure of that number — it could be every 10,000 years or once every 10 million years. Looking out through the entire observable universe, its going to happen more like once a minute or once a second.SPACE.com: What happens to space-time when two black holes collide?Thorne: Each black hole spins on its axis like the Earth spins. That spin creates two vortexes of twisting space, somewhat like vortexes in a bathtub or a whirlpool. Theres one vortex of twisting space that sticks out of the north pole of the black hole, and one vortex that sticks out of the south pole. Thats one aspect of a black holes warped space-time. There are others, but lets just talk about that one.When two black holes orbit around each other and collide and merge, those vortexes then start sweeping around and around the merged black holes. They get deposited onto the surface, what we call the horizon, of the merged black holes, so you now have four of these vortexes on the horizon. And as the black hole turns, these vortexes sweep back like the spiral arms of a galaxy, or like water from a whirling sprinkler; they reach outward and backwards and they become these gravitational waves.SPACE.com: Is there any chance that black holes dont exist?Thorne: We have very extensive observational evidence by now of black holes. The central dark object at the middle of our galaxy has been studied in beautiful observations [showing] bright stars that travel around the central object in orbits rather like the orbit of a comet. They swing in close to the object and then are thrown back out.The object can be weighed and it seems to weigh between 3 and 4 million times what the sun weighs. Its not producing any light, but it does produce, in erratic ways over time, bursts of radio waves. This object is just like what we think a black hole should be.This still from a computer animation shows a simulation of a giant space cloud falling into Sagittarius A*, the supermassive black hole at the center of our own Milky Way galaxy, in mid-2013. Image added on July 2, 2012. (Image credit: European Research Media Center)So I think in the minds of astronomers now, theres no doubt. There certainly was doubt 10, 20, 30 years ago. But the observational data from electromagnetic observations have become so good, so impressive, that I dont think theres any doubt anymore.SPACE.com: When people talk about black holes, they talk about singularities at their centers. Is a singularity really a spot of infinite density and zero volume?Thorne: Thats one way to describe it, but the singularity, like the black hole itself, we believe is quite rich in its structure. [8 Shocking Things We Learned From Stephen Hawkings Book]As you near the singularity, we expect that it stretches and squeezes you in a chaotic way that ultimately kills you and destroys the matter of which youre made. And when you get right to the singularity itself, the laws of physics as we know them break down and the laws of quantum gravity take hold. Since we dont understand those laws very well yet, we cant say what the nature of the very core of the singularity is.SPACE.com: To truly understand whats going on inside black holes, are we going to need a grand unified theory?Thorne: Were going to need a definitive quantum theory of gravity, which is part of a grand unified theory — its the main missing piece.We have to have a combination of general relativity that describes the warping of space and time, and quantum physics, which describes the uncertainties in that warping and how they change.Follow Clara Moskowitz on Twitter @ClaraMoskowitz or SPACE.com @Spacedotcom. Were also on Facebook & Google+. .
+.
+.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+.
+Clara MoskowitzSocial Links NavigationAssistant Managing EditorClara Moskowitz is a science and space writer who joined the Space.com team in 2008 and served as Assistant Managing Editor from 2011 to 2013. Clara has a bachelors degree in astronomy and physics from Wesleyan University, and a graduate certificate in science writing from the University of California, Santa Cruz. She covers everything from astronomy to human spaceflight and once aced a NASTAR suborbital spaceflight training program for space missions. Clara is currently Associate Editor of Scientific American. To see her latest project is, follow Clara on Twitter.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MORE FROM SPACE.1Japans new H3 rocket aborts 1st-ever launch attempt2Virgin Galactic carrier plane flies for 1st time since 202133 mystery objects shot down by US likely werent spy craft, Biden says4Black holes may be the source of mysterious dark energy5Pictures from space! Our image of the day.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
+.
+.
+About Us .
+Terms and conditions .
+Privacy policy .
+Cookies policy .
+Accessibility Statement .
+Topics .
+Advertise with us .
+Web notifications .
+Careers .
+.
+.
+©.
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,.
+New York,.
+NY 10036. .
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .

@@ -1,123 +1,435 @@
-.Black holes: Everything you need to know | Space.Skip to main content.Open menu.Close menu.Space.Space .Search.
-.Search Space.
-.Subscribe.RSS.
-.
-.
-.
-.
-.All About Space Magazine  Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 View Deal .News.Astronomy.Spaceflight.The Moon.Our Solar System.Skywatching.More.Videos.Search for LIfe.Technology.Entertainment.Reference.SpaceX.Expert Voices.Forums.All Topics.Subscribe to "All About Space" Magazine!.Space.com Store.About Us.Web Notifications.
-.TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.When you purchase through links on our site, we may earn an affiliate commission.
-Here’s how it works.Home.References.Science & Astronomy.Black holes: Everything you need to know.By Daisy Dobrijevic, Nola Taylor Tillman, Ben Biggs last updated 11 May 2022 .These gluttonous beasts are some of the most fascinating objects in space.
 .
 .
 .
 .
 .
-.Black holes are some of the most fascinating objects in space.
-(Image credit: solarseven via Getty Images ).Jump to:.Black hole discovery.How many black holes are there?.Black hole images.What do black holes look like?.Types of black holes.Black hole facts.Additional resources.Black holes are some of the strangest and most fascinating objects in space.
-They're extremely dense, with such strong gravitational attraction that not even light can escape their grasp.
-The Milky Way could contain over 100 million black holes, though detecting these gluttonous beasts is very difficult.
-At the heart of the Milky Way lies a supermassive black hole — Sagittarius A*.
-The colossal structure is about 4 million times the mass of the sun and lies approximately 26,000 light-years away from Earth, according to a statement from NASA .The first image of a black hole was captured in 2019 by the Event Horizon Telescope (EHT) collaboration.
-The striking photo of the black hole at the center of the M87 galaxy 55 million light-years from Earth thrilled scientists around the world.
-Related: White holes: What we know about black holes' neglected twins Black hole discovery Albert Einstein first predicted the existence of black holes in 1916, with his general theory of relativity.
-The term "black hole" was coined many years later in 1967 by American astronomer John Wheeler.
-After decades of black holes being known only as theoretical objects.
-The first black hole ever discovered was Cygnus X-1, located within the Milky Way in the constellation of Cygnus, the Swan.
-Astronomers saw the first signs of the black hole in 1964 when a sounding rocket detected celestial sources of X-rays according to NASA .
-In 1971, astronomers determined that the X-rays were coming from a bright blue star orbiting a strange dark object.
-It was suggested that the detected X-rays were a result of stellar material being stripped away from the bright star and "gobbled" up by the dark object — an all-consuming black hole.
-How many black holes are there?At the center of the Milky Way lies a supermassive black hole Sagittarius A* (Sgr A*).
-(Image credit: NASA/UMass/D.Wang et al., IR: NASA/STScI) According to the Space Telescope Science Institute  (STScI) approximately one out of every thousand stars is massive enough to become a black hole.
-Since the Milky Way contains over 100 billion stats, our home galaxy must harbor some 100 million black holes.
-Though detecting black holes is a difficult task and estimates from NASA  suggest there could be as many as 10 million to a billion stellar black holes in the Milky Way.
-The closest black hole to Earth is dubbed "The Unicorn" and is situated approximately 1,500 light-years away.
-The nickname has a double meaning.
-Not only does the black hole candidate reside in the constellation Monoceros ("the unicorn"), its incredibly low mass — about three times that of the sun — makes it nearly one of a kind.Related: How many black holes are there in the universe?Black hole images The Event Horizon Telescope, a planet-scale array of eight ground-based radio telescopes forged through international collaboration, captured this image of the supermassive black hole in the center of the galaxy M87 and its shadow.
-(Image credit: EHT Collaboration) In 2019 the Event Horizon Telescope (EHT) collaboration released the first image ever recorded of a black hole.
-The EHT saw the black hole in the center of galaxy M87 while the telescope was examining the event horizon or the area past which nothing can escape from a black hole.
-The image maps the sudden loss of photons (particles of light).
-It also opens up a whole new area of research in black holes, now that astronomers know what a black hole looks like.In 2021, astronomers revealed a new view of the giant black hole at the center of M87, showing what the colossal structure looks like in polarized light.
-As polarized light waves have a different orientation and brightness compared to unpolarized light, the new image shows the black hole in even more detail.
-Polarization is a signature of magnetic fields and the image makes it clear that the black hole's ring is magnetized.
-Following the release of the first image of a black hole in 2019, astronomers captured a new polarized view of the black hole.
-(Image credit: EHT Collaboration) What do black holes look like?
-Black holes have three "layers": the outer and inner event horizon, and the singularity.The event horizon of a black hole is the boundary around the mouth of the black hole, past which light cannot escape.
-Once a particle crosses the event horizon, it cannot leave.
-Gravity is constant across the event horizon.The inner region of a black hole, where the object's mass lies, is known as its singularity, the single point in space-time where the mass of the black hole is concentrated.Scientists can't see black holes the way they can see stars and other objects in space.
-Instead, astronomers must rely on detecting the radiation black holes emit as dust and gas are drawn into the dense creatures.
-But supermassive black holes, lying in the center of a galaxy, may become shrouded by the thick dust and gas around them, which can block the telltale emissions.Related stories: — What happens at the center of a black hole?— Where do black holes lead to?— What is the biggest thing in the universe?
-Sometimes, as matter is drawn toward a black hole, it ricochets off the event horizon and is hurled outward, rather than being tugged into the maw.
-Bright jets of material traveling at near-relativistic speeds are created.
-Although the black hole remains unseen, these powerful jets can be viewed from great distances.The EHT's image of a black hole in M87 (released in 2019) was an extraordinary effort, requiring two years of research even after the images were taken.
-That's because the collaboration of telescopes, which stretches across many observatories worldwide, produces an astounding amount of data that is too large to transfer via the internet.
-With time, researchers expect to image other black holes and build up a repository of what the objects look like.
-The next target is likely Sagittarius A*, which is the black hole in the center of our own Milky Way galaxy.
-Sagittarius A* is intriguing because it is quieter than expected, which may be due to magnetic fields smothering its activity, a 2019 study reported.
-Another study that year showed that a cool gas halo surrounds Sagittarius A*, which gives unprecedented insight into what the environment around a black hole looks like.ESO's black hole anatomy diagram shows what a black hole looks like and labels the different components.
-(Image credit: ESO) Types of black holes So far, astronomers have identified three types of black holes: stellar black holes, supermassive black holes and intermediate black holes.
-Stellar black holes — small but deadly When a star burns through the last of its fuel, the object may collapse, or fall into itself.
-For smaller stars (those up to about three times the sun's mass), the new core will become a neutron star or a white dwarf.
-But when a larger star collapses, it continues to compress and creates a stellar black hole.Black holes formed by the collapse of individual stars are relatively small but incredibly dense.
-One of these objects packs more than three times the mass of the sun into the diameter of a city.
-This leads to a crazy amount of gravitational force pulling on objects around the object.
-Stellar black holes then consume the dust and gas from their surrounding galaxies, which keeps them growing in size.Supermassive black holes — the birth of giants Small black holes populate the universe, but their cousins, supermassive black holes, dominate.
-These enormous black holes are millions or even billions of times as massive as the sun but are about the same size in diameter.
-Such black holes are thought to lie at the center of pretty much every galaxy, including the Milky Way.Scientists aren't certain how such large black holes spawn.
-Once these giants have formed, they gather mass from the dust and gas around them, material that is plentiful in the center of galaxies, allowing them to grow to even more enormous sizes.Supermassive black holes may be the result of hundreds or thousands of tiny black holes that merge.
-Large gas clouds could also be responsible, collapsing together and rapidly accreting mass.
-A third option is the collapse of a stellar cluster, a group of stars all falling together.
-Fourth, supermassive black holes could arise from large clusters of dark matter.
-This is a substance that we can observe through its gravitational effect on other objects; however, we don't know what dark matter is composed of because it does not emit light and cannot be directly observed.Intermediate black holes Scientists once thought that black holes came in only small and large sizes, but research has revealed the possibility that midsize, or intermediate, black holes (IMBHs) could exist.
-Such bodies could form when stars in a cluster collide in a chain reaction.
-Several of these IMBHs forming in the same region could then eventually fall together in the center of a galaxy and create a supermassive black hole.In 2014, astronomers found what appeared to be an intermediate-mass black hole in the arm of a spiral galaxy.
-And in 2021 astronomers took advantage of an ancient gamma-ray burst to detect one.
-"Astronomers have been looking very hard for these medium-sized black holes," study co-author Tim Roberts, of the University of Durham in the United Kingdom, said in a statement .
-"There have been hints that they exist, but IMBHs have been acting like a long-lost relative that isn't interested in being found.
-"Research, from 2018, suggested that these IMBHs may exist in the heart of dwarf galaxies (or very small galaxies).
-Observations of 10 such galaxies (five of which were previously unknown to science before this latest survey) revealed X-ray activity — common in black holes — suggesting the presence of black holes of from 36,000 to 316,000 solar masses.
-The information came from the Sloan Digital Sky Survey, which examines about 1 million galaxies and can detect the kind of light often observed coming from black holes that are picking up nearby debris.
-Binary black holes: double trouble  Artist's illustration of a supermassive black hole with a companion black hole orbiting around it.
-(Image credit: Caltech-IPAC) In 2015, astronomers using the Laser Interferometer Gravitational-Wave Observatory (LIGO) detected gravitational waves from merging stellar black holes.
-"We have further confirmation of the existence of stellar-mass black holes that are larger than 20 solar masses — these are objects we didn't know existed before LIGO detected them," David Shoemaker, the spokesperson for the LIGO Scientific Collaboration (LSC), said in a statement .
-LIGO's observations also provide insights into the direction a black hole spins.
-As two black holes spiral around one another, they can spin in the same direction or the opposite direction.There are two theories on how binary black holes form.
-The first suggests that the two black holes in a binary form at about the same time, from two stars that were born together and died explosively at about the same time.
-The companion stars would have had the same spin orientation as one another, so the two black holes left behind would as well.Under the second model, black holes in a stellar cluster sink to the center of the cluster and pair up.
-These companions would have random spin orientations compared to one another according to LIGO Scientific Collaboration.
-LIGO's observations of companion black holes with different spin orientations provide stronger evidence for this formation theory.
-"We're starting to gather real statistics on binary black hole systems," said LIGO scientist Keita Kawabe of Caltech, who is based at the LIGO Hanford Observatory.
-"That's interesting because some models of black hole binary formation are somewhat favored over the others even now, and in the future, we can further narrow this down.
-"Black hole factsIf you fell into a black hole, theory has long suggested that gravity would stretch you out like spaghetti, though your death would come before you reached the singularity.
-But a 2012 study published in the journal Nature  suggested that quantum effects would cause the event horizon to act much like a wall of fire, which would instantly burn you to death.Black holes don't suck.
-Suction is caused by pulling something into a vacuum, which the massive black hole definitely is not.
-Instead, objects fall into them just as they fall toward anything that exerts gravity, like the Earth.The first object considered to be a black hole is Cygnus X-1.
-Cygnus X-1 was the subject of a 1974 friendly wager between Stephen Hawking and fellow physicist Kip Thorne, with Hawking betting that the source was not a black hole.
-In 1990, Hawking conceded defeat.Miniature black holes may have formed immediately after the Big Bang.
-Rapidly expanding space may have squeezed some regions into tiny, dense black holes less massive than the sun.If a star passes too close to a black hole, the star can be torn apart .Astronomers estimate that the Milky Way has anywhere from 10 million to 1 billion stellar black holes, with masses roughly three times that of the sun.Black holes remain terrific fodder for science fiction books and movies.
-Check out the movie "Interstellar," which relied heavily on Thorne to incorporate science.
-Thorne's work with the movie's special effects team led to scientists' improved understanding of how distant stars might appear when seen near a fast-spinning black hole.Additional resourcesDive deeper into the mystery of black holes  with NASA Science.
-Watch videos and read more about black holes  from NASA's Hubblesite.
-Discover more about black holes  with the National Science Foundation.
-BibliographyHubblesite: Black holes: Gravity's relentless pull interactive : Encyclopedia.
-STScI Home.
-Retrieved May 6, 2022.NASA.
-Imagine the universe!
-NASA.
-Retrieved May 6, 2022.Boen, B.
-(2013, August 29 ).
-Supermassive black hole Sagittarius A*.
-NASA.
-Retrieved May 6, 2022.NASA's Chandra Finds Intriguing Member of Black Hole Family Tree.
-Chandra X-ray Observatory.
-(2015, February 25).
-Retrieved May 6, 2022.Join our Space Forums to keep talking space on the latest missions, night sky and more!
-And if you have a news tip, correction or comment, let us know at: community@space.com.Daisy DobrijevicSocial Links NavigationReference WriterDaisy Dobrijevic joined Space.com in February 2022 as a reference writer having previously worked for our sister publication All About Space magazine as a staff writer.
-Before joining us, Daisy completed an editorial internship with the BBC Sky at Night Magazine and worked at the National Space Centre in Leicester, U.K., where she enjoyed communicating space science to the public.
-In 2021, Daisy completed a PhD in plant physiology and also holds a Master's in Environmental Science, she is currently based in Nottingham, U.K.MORE FROM SPACE.1'Sphere' is 25 and coming to TV soon.
-Here's why Michael Crichton's mind-bending sci-fi tale is still awesome2What are these mystery objects that US fighter jets keep shooting down?3SpaceX to launch 1st Saudi woman to space on private Ax-2 mission4Pictures from space!
-Our image of the day5SpaceX Starlink launch grazes the moon in gorgeous photos.Space is part of Future US Inc, an international media group and leading digital publisher.
-Visit our corporate site .About Us .Terms and conditions .Privacy policy .Cookies policy .Accessibility Statement .Topics .Advertise with us .Web notifications .Careers .©.Future US, Inc. Full 7th Floor, 130 West 42nd Street,.New York,.NY 10036. .
+.
+The Event Horizon Telescope Is Trying to Take the First-Ever Photo of a Black Hole | Space.
 .
 .
 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+Open menu.
+Close menu.
+.
+.
+.
+.
+.
+.
+Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space .
+.
+.
+.
+.
+Search.
+.
+ .
+.
+.
+Search Space.
+.
+.
+.
+ .
+.
+.
+.
+Subscribe.
+.
+.
+.
+RSS.
+.
+.
+.
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+.
+.
+.
+.
+All About Space Magazine . .Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code LOVE5Issues delivered straight to your door or deviceFrom$3.99 .View .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+News.
+.
+.
+.
+.
+Astronomy.
+.
+.
+.
+.
+Spaceflight.
+.
+.
+.
+.
+The Moon.
+.
+.
+.
+.
+Our Solar System.
+.
+.
+.
+.
+Skywatching.
+.
+.
+.
+.
+More.
+.
+.
+.
+.
+Videos.
+.
+.
+Search for LIfe.
+.
+.
+Technology.
+.
+.
+Entertainment.
+.
+.
+Reference.
+.
+.
+SpaceX.
+.
+.
+Expert Voices.
+.
+.
+Forums.
+.
+.
+All Topics.
+.
+.
+Subscribe to "All About Space" Magazine!.
+.
+.
+Space.com Store.
+.
+.
+About Us.
+.
+.
+Web Notifications.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.
+.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+.
+.
+.
+.
+.
+.
+Home.
+.
+.
+News.
+.
+.
+Science & Astronomy.
+.
+.
+.
+The Event Horizon Telescope Is Trying to Take the First-Ever Photo of a Black Hole .
+.
+.
+By Doris Elin Urrutia published 8 April 2019 .
+.
+Snapping a black holes silhouette is like photographing an orange on the moon.
+.
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+ .
+.
+.
+.
+.
+ .
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Astronomers orchestrated radio dish telescopes across the world into an Earth-size virtual camera for a bold new experiment attempting to deliver the first-ever image of a black hole. The telescope collaboration is set to make a big announcement of results this week, and members also described their research approach at a talk in March.Black holes are extreme warps in space-time that are so strong, their massive gravity doesnt even let light escape once it gets close enough. The astronomers idea is to photograph the circular opaque silhouette of a black hole cast on a bright background. The shadows edge is the event horizon, a black holes point of no return. A picture is worth a thousand words, and a photograph of a black hole would be an important tool for understanding astrophysics, cosmology and the role of black holes in the universe. Related: Groundbreaking Result Coming from Black-Hole Hunting Event Horizon TelescopeA still of a video simulation that shows what a black hole shadow might look like. The animation was featured in a short movie about the Event Horizon Telescope (EHT) project, produced by Peter Galison and Chyld King. Watch a livestreamed announcement of the Event Horizon Telescopes first results on April 10, 2019 at 9 a.m. EDT here. (Image credit: EHT Outreach/YouTube)If an astronaut laid an orange on the surface of the moon, the citrus fruit would be very difficult to view from Earth. Black holes are just as hard to spot, said Sheperd Doeleman, the project director of an ambitious new project called the Event Horizon Telescope.Doeleman shared this anecdote with an audience at a panel at the South by Southwest (SXSW) festival in Austin, Texas,  last month. Doeleman and fellow collaborators Sera Markoff, Peter Galison and Dimitrios Psaltis illuminated how the project works during the SXSW event, "EHT: A Planetary Effort to Photograph a Black Hole."Black holes are massive structures when compared to planets and humans. But what seems large to us, is, on a galactic scale, teeny-tiny. So photographing a black holes event horizon complicated.This artists impression depicts a rapidly spinning supermassive black hole surrounded by an accretion disk. This thin disk of rotating material consists of the leftovers of a sun-like star which was ripped apart by the tidal forces of the black hole. Shocks in the colliding debris as well as heat generated in accretion led to a burst of light, resembling a supernova explosion. (Image credit: ESO, ESA/Hubble, M. Kornmesser/N. Bartmann)"One of the EHT targets is about 10 percent of the size of our solar system," Sera Markoff, an astrophysicist from the University of Amsterdam, said during the panel. The supermassive black hole at the center of the Milky Way, called Sagittarius A*, is about the size of the orbit of Mercury, Doeleman added. If a spaceship could zip astronomers out of the Milky Way, which is about 50 billion times bigger than Sagittarius A*, according to Markoff, then spotting this black hole among the billions of other stars and planets in the galaxy would be quite tricky. To observe the supermassive black hole at the center of the Milky Way galaxy, or to view another of the projects targets — the supermassive black hole at the core of the supergiant elliptical galaxy Messier 87 — the EHT team had to turn Earth into a virtual telescope platform. Thats because the power of a telescope to resolve images is limited to the size of its dish, and by using an array of instruments across the world, the team is effectively breaking up the dish and scattering the pieces globally to make one big space eye.Related: This Huge Black Hole Is Spinning at Half the Speed of Light!The South Pole Telescope illuminated by the Milky Way and the Aurora Australis (Southern Lights). Watch a livestreamed announcement of the Event Horizon Telescopes first results on April 10, 2019 at 9 a.m. EDT here. (Image credit: Daniel Michalik/South Pole Telescope)The radio telescope observatories involved in EHTs 2017 observations were ALMA (Atacama Large Millimeter/submillimeter Array in Chile; APEX (Atacama Pathfinder Experiment) in Chile; IRAM 30m (Institut de RadioAstronomie Millimétrique) in Spain; LMT (Large Millimeter Telescope) in Mexico; SMT (Submillimeter Telescope) in Arizona; JCMT (James Clerk Maxwell Telescope) in Hawaii; SMA (SubMillimeter Array) in Hawaii; and SPT (South Pole Telescope) in Antarctica.Coordinated observations were also made in the X-ray and gamma-ray bands.Sagittarius A* is dormant, which means it doesnt actively consume a lot of nearby stars and gas, releasing radiation. An active black hole lurks inside Messier 87. To view the neighborhood supermassive black hole and the one churning farther away, the telescopes need to observe "the entire range of the electromagnetic spectrum, from the radio up to the gamma rays," Markoff said.The Event Horizon Telescope network, mapped on GoogleMaps with data from NASA and TerraMetrics. Watch a livestreamed announcement of the Event Horizon Telescopes first results on April 10, 2019 at 9 a.m. EDT here. (Image credit: Event Horizon Telescope)Was Einstein 100% right?At the projects core, its 200 scientists want to answer two questions, according to Psaltis, an astronomer and physicist at the University of Arizona. The first is simply if photographing a black hole is possible. But the second important thing they ask is if Einstein was 100 percent right about how black holes behave. "Einstein told us 100 years ago exactly what the size and the shape of that [black holes] shadow should be. If we could lay a ruler across that shadow, wed be able to test Einsteins theory of the black hole boundary," Doeleman said. The team also wanted to build models that would describe black holes in various circumstances, which will then be compared to EHT observations.This infographic shows a simulation of the outflow (bright red) from a black hole and the accretion disk around it, with simulated images of the three potential shapes of the event horizons shadow.  (Image credit: ESO/N. Bartmann/A. Broderick/C.K. Chan/D. Psaltis/F. Ozel)In the work described at SXSW, the team used graphics processing units (GPUs), like the ones used in your favorite video game consoles or your computer, to model all the hypothetical varieties of a black hole environment. They produced hundreds of gigabytes of 3D volume data to model the possibilities. Psaltis said photons, plasma, gas and magnetic fields are all described in a black holes forecast. Once they get one, the team can compare an image of a black holes shadow to the different scenarios processed by the GPUs in order to make the most realistic simulation of how a black hole behaves, based on our current understanding of physics. "What the black hole image could do for us, if we can get it, would be to take something that is the most extreme, the strangest prediction of general relativity, one of the great accomplishments of the human mind, [and] combine it with the most advanced electronics with a planetary scale collaboration with the most advanced statistics [and] new imaging techniques," Galison, a professor at Harvard University, said during the panel. "Its like making a new camera with a new kind of film, a new kind of lens, combining it with other cameras, all at once, and if that could happen, if we could actually get in and see right up close to the horizon."Galison added that the first picture of a black hole would prove, beyond a shadow of a doubt — pun intended — that these gargantuan, mighty and elusive structures do exist.Mysterious Cow Blast in Space May Reveal Birth of a Black HoleThis Trippy Simulation Shows How Monster Black Holes Glow Before They CollideRarely Seen Middleweight Black Hole Gobbles StarFollow Doris Elin Salazar on Twitter @salazar_elin. Follow us on Twitter @Spacedotcom and on Facebook. .
+.
+.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+.
+Doris Elin UrrutiaSocial Links NavigationContributing WriterDoris is a science journalist and Space.com contributor. She received a B.A. in Sociology and Communications at Fordham University in New York City. Her first work was published in collaboration with London Mining Network, where her love of science writing was born. Her passion for astronomy started as a kid when she helped her sister build a model solar system in the Bronx. She got her first shot at astronomy writing as a Space.com editorial intern and continues to write about all things cosmic for the website. Doris has also written about microscopic plant life for Scientific American’s website and about whale calls for their print magazine. She has also written about ancient humans for Inverse, with stories ranging from how to recreate Pompeii’s cuisine to how to map the Polynesian expansion through genomics. She currently shares her home with two rabbits. Follow her on twitter at @salazar_elin.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MORE FROM SPACE.1India tests recovery of spacecraft for Gaganyaan astronaut mission (photos) 2Russian cargo ship arrived at space station early Saturday3On This Day In Space: Feb. 11, 2010: NASA launches Solar Dynamics Observatory4Watch SpaceX launch 55 Starlink satellites early Sunday morning5Relive SpaceX Starships epic 31-engine burn with these photos.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
+.
+.
+About Us .
+Terms and conditions .
+Privacy policy .
+Cookies policy .
+Accessibility Statement .
+Topics .
+Advertise with us .
+Web notifications .
+Careers .
+.
+.
+©.
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,.
+New York,.
+NY 10036. .
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .

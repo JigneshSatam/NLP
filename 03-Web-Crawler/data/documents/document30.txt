@@ -4,7 +4,7 @@
 
 
 
-Supermassive black holes: Characteristics and formation | Space
+What happens at the center of a black hole? | Space
 
 
 
@@ -298,19 +298,25 @@ When you purchase through links on our site, we may earn an affiliate commission
 
 
 
+
+
+
 Home
 
 
 References
 
 
+Science & Astronomy
 
-Supermassive black holes: Theory, characteristics and formation 
 
 
-By Andrew MayContributions from Scott Dutfield published 10 March 2022 
+What happens at the center of a black hole?
 
-A look at the supermassive black holes that lurk at the heart of most galaxies.
+
+By Paul Sutter last updated 9 February 2022 
+
+All of the possibilities are very weird.
 
 
 
@@ -360,8 +366,8 @@ A look at the supermassive black holes that lurk at the heart of most galaxies.
 
 
 
-An artist’s impression of a quasar powered by a supermassive black hole.
-(Image credit: ESO/M. Kornmesser)
+Artist's illustration of a black hole.
+(Image credit: Shutterstock)
 
 
 
@@ -371,22 +377,17 @@ Jump to:
 
 
 
-Size
+Planck stars
 
 
 
 
-Examples
+Gravastars
 
 
 
 
-At the center of the galaxy
-
-
-
-
-Formation
+Let's go for a spin
 
 
 
@@ -396,21 +397,18 @@ Additional resources
 
 
 
-Bibliography
 
 
 
 
-
-
-
-
-Only a handful of supermassive black holes have been confirmed by scientists, but the universe could be filled with billions of these gravitational giants. Theoretically, if you compress a sufficient amount of matter into a small enough space, it will create such a powerful gravitational field that nothing — not even light — can escape from it. That’s the basic idea behind black holes, and it’s so bizarre that for many years people thought they couldn’t possibly exist in reality, according to University of Texas in Austin (opens in new tab).Yet today we know the universe is filled with them — perhaps as many as one for every ten visible stars, according to Live Science (opens in new tab). A few of those black holes are truly enormous, with masses millions of times greater than the sun. Here we take a closer look at the strange world of supermassive black holes.How big are supermassive black holes?It’s impossible to observe a black hole directly, because — as their name suggests — they don’t emit any light or other radiation. But they can be detected via their gravitational effect on visible stars in their neighbourhood, which orbit around the black hole much faster than they would around a normal object of similar size. By measuring the speed of stars close to the black hole, astronomers can estimate its mass. That’s how they know, for example, that the black hole at the center of our own galaxy has a mass around four million times that of the sun, according to NASA (opens in new tab).As big as that sounds, it’s really quite tiny compared to the largest supermassive black holes that have been measured — some of which approach 100 billion solar masses (opens in new tab),Supermassive black hole examplesImage 1 of 4(Image credit: Scott Anttila/CC BY 3.0)Leo I dwarf galaxy Although this tiny galaxy is only about 20 million solar masses in total, its central black hole is proportionately huge, at around 3 million solar masses. (Image credit: ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al. (Submillimetre); NASA/CXC/CfA/R.Kraft et al. (X-ray))Centaurus A This huge elliptical galaxy – a cosmic neighbour at just 13 million light-years – is a powerful radio emitter thanks to the 55 million solar mass black hole at its center. (Image credit: ESO/VST ATLAS team. Acknowledgement- Durham University/CASU/WFAU)NGC 7727 The product of two merging galaxies, NGC 7727 still retains two separate supermassive black holes – of 154 and 6.3 million solar masses – just 1,600 light-years apart near its center. (Image credit: NASA; ESA; M. Postman, STScI; T. Lauer, NOAO, Tucson; CLASH team)Abell 2261 This cluster of galaxies is estimated to have a black hole of up to 100 billion solar masses near its center. Frustratingly, its exact location continues to elude detection. Black holes at the center of galaxiesRather than devouring anything that ventures too close to them, the black holes at the centers of most galaxies only give away their existence through subtle effects on nearby stars. In an active galaxy, however, the supermassive black hole behaves a lot differently. When surrounded by a swirling "accretion disk" of rapidly rotating gas and dust, matter is constantly spiralling down into the black hole. In the process, it releases enormous amounts of energy, sometimes even outshining the rest of the galaxy. In 2019 the Event Horizon Telescope succeeded in photographing one such galaxy — Messier 87 — producing a direct image of the accretion disc. The ominous shadow of the galaxy’s 6.5 billion solar mass black hole is clearly visible, quite literally as a "black hole" at the center of the disk.How supermassive black holes are formedMovies often portray black holes as giant cosmic vacuum cleaners, relentlessly sucking in other material until there’s nothing left. If that was how real black holes worked, there’d be no mystery as to where the supermassive kind came from: once an "ordinary" black hole had formed from stellar collapse, it would simply grow and grow until it reached enormous size. But real black holes don’t suck matter in like this; they merely attract it with the same law of gravity as a normal object of the same mass.Their exceptional nature comes from the fact that they’re super-condensed and the force of gravity increases as distance decreases. So it’s possible for an orbiting object to stray into a region where gravity becomes incredibly strong. At larger distances, however, a black hole’s gravity is perfectly normal. But if a black hole is incapable of sucking in distant matter, how does it ever grow to supermassive size? At present no one knows the answer to this, although there are several promising theories.Related links– What happens at the center of a black hole?– White holes: What we know about black holes' neglected twins– Where do black holes lead to?– Black dwarf stars: The (theoretical) end of stellar evolutionAlthough they may not be the rapacious predators portrayed in sci-fi, we know that some black holes do absorb new material and that’s what’s going on in the accretion disks of active galaxies, for example. Occasionally pairs of black holes crash into each other and merge to produce a single, larger black hole and we know that from the evidence of gravitational waves, which have been observed on a regular basis since they were first discovered in 2015.But accretion and mergers, while undoubtedly part of the solution, aren’t enough in themselves to explain the observational evidence for supermassive black holes. That’s because we know the first active galaxies — which must have been powered by central black holes – were formed very early in the life of the universe. For example, a supermassive black hole of a billion solar masses is believed to have existed in one galaxy more than 12 billion years ago — around 90% of the way back to the Big Bang.It’s possible that the stellar life cycle, which is so crucial to the standard model of black hole formation, had nothing to do with the creation of the oldest supermassive black holes. Instead, they may have formed almost immediately from the gravitational collapse of an enormous cloud of gas — one that already contained as much matter as millions of stars. According to this theory, a "direct collapse black hole" of this kind would have taken around 150 million years to form — the blink of an eye in cosmic terms.Another hypothesis invokes the idea of primordial black holes, which are theorised to have been created in the Big Bang itself. These are sometimes proposed as a possible explanation for dark matter, and are generally assumed to have been quite small in size. However, they might have served as the basic seeds from which present-day supermassive black holes grew .Additional resources For more information about black holes check out " Death by Black Hole - and Other Cosmic Quandaries (opens in new tab)" by Neil deGrasse Tyson and "Gravity's Fatal Attraction: Black Holes in the Universe (opens in new tab)" by Mitchell Begelman and Martin Rees. BibliographyPatchen Barss, "The mysterious origins of Universe's biggest black holes (opens in new tab)", BBC, August 2021. University of Texas in Austin, "History of Black Holes (opens in new tab)", accessed January 2022. Stephen Batttersby, "Monster munch: How did black holes get vast so fast? (opens in new tab)", New Scientist, March 2013. Alison Klesman, "What are primordial black holes? (opens in new tab)", Astronomy, July 2019.ESA, "​​What happens when two supermassive black holes merge? (opens in new tab)", May 2019. NASA, "Exploring Active Galactic Nuclei (opens in new tab)", February 2016. Shobha Kaicker, "How do astronomers calculate the mass of a black hole? (opens in new tab)", Astronomy, April 2020. NASA, "Black Holes (opens in new tab)", March 2022. NASA, "Active Galaxies (opens in new tab)", September 2021. NASA, "Stars (opens in new tab)", September 2021. 
+Paul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute, host of Ask a Spaceman and Space Radio, and author of How to Die in Space. Sutter contributed this article to Space.com's Expert Voices: Op-Ed & Insights.The singularity at the center of a black hole is the ultimate no man's land: a place where matter is compressed down to an infinitely tiny point, and all conceptions of time and space completely break down. And it doesn't really exist. Something has to replace the singularity, but we're not exactly sure what. Let's explore some possibilities.Related: Black holes of the universe (images)Planck starsIt could be that deep inside a black hole, matter doesn't get squished down to an infinitely tiny point. Instead, there could be a smallest possible configuration of matter, the tiniest possible pocket of volume.This is called a Planck star, and it's a theoretical possibility envisioned by loop quantum gravity, which is itself a highly hypothetical proposal for creating a quantum version of gravity. In the world of loop quantum gravity, space and time are quantized — the universe around us is composed of tiny discrete chunks, but at such an incredibly tiny scale that our movements appear smooth and continuous.This theoretical chunkiness of space-time provides two benefits. One, it takes the dream of quantum mechanics to its ultimate conclusion, explaining gravity in a natural way. And two, it makes it impossible for singularities to form inside black holes.As matter squishes down under the immense gravitational weight of a collapsing star, it meets resistance. The discreteness of space-time prevents matter from reaching anything smaller than the Planck length (around 1.68 times 10^-35 meters). All the material that has ever fallen into the black hole gets compressed into a ball not much bigger than this. Perfectly microscopic, but definitely not infinitely tiny.This resistance to continued compression eventually forces the material to un-collapse (i.e., explode), making black holes only temporary objects. But because of the extreme time dilation effects around black holes, from our perspective in the outside universe it takes billions, even trillions, of years before they go boom. So we're all set for now.Related: What is gravity?GravastarsAnother attempt to eradicate the singularity — one that doesn't rely on untested theories of quantum gravity — is known as the gravastar. It's such a theoretical concept that my spell checker didn't even recognize the word. The difference between a black hole and a gravastar is that, instead of a singularity, the gravastar is filled with dark energy. Dark energy is a substance that permeates space-time, causing it to expand outward. It sounds like sci-fi, but it's real: dark energy is currently in operation in the larger cosmos, causing our entire universe to accelerate in its expansion.As matter falls onto a gravastar, it isn't able to actually penetrate the event horizon (due to all that dark energy on the inside) and therefore just hangs out on the surface. But outside that surface, gravastars look and act like normal black holes. (A black hole's event horizon is its point of no return — the boundary beyond which nothing, not even light, can escape.)However, recent observations of merging black holes with gravitational wave detectors have potentially ruled out the existence of gravastars, because merging gravastars will give a different signal than merging black holes, and outfits like LIGO (the Laser Interferometer Gravitational-Wave Observatory) and Virgo are getting more and more examples by the day. While gravastars aren't exactly a no-go in our universe, they are definitely on thin ice.The universe: Big Bang to now in 10 easy stepsRelated stories:— What are black holes? Facts, theories and definition
+— Einstein's theory of general relativity
+— The hunt for wormholes: How scientists look for space-time tunnelsLet's go for a spinPlanck stars and gravastars may have awesome names, but the reality of their existence is in doubt. So maybe there's a more mundane explanation for singularities, one that's based on a more nuanced — and realistic — view of black holes in our universe.The idea of a single point of infinite density comes from our conception of stationary, non-rotating, uncharged, rather boring black holes. Real black holes are much more interesting characters, especially when they spin.The spin of a rotating black hole stretches the singularity into a ring. And according to the math of Einstein's theory of general relativity (which is the only math we've got), once you pass through the ring singularity, you enter a wormhole and pop out through a white hole (the polar opposite of a black hole, where nothing can enter and matter rushes out at the speed of light) into an entirely new and exciting patch of the universe.One challenge: the interiors of rotating black holes are catastrophically unstable. And this is according to the very same math that leads to the prediction of the traveling-to-a-new-universe stuff.The problem with rotating black holes is that, well, they rotate. The singularity, stretched into a ring, is rotating at such a fantastic pace that it has incredible centrifugal force. And in general relativity, strong enough centrifugal forces act like antigravity: they push, not pull.This creates a boundary inside the black hole, called the inner horizon. Outside this region, radiation is falling inward toward the singularity, compelled by the extreme gravitational pull. But radiation is pushed by the antigravity near the ring singularity, and the turning point is the inner horizon. If you were to encounter the inner horizon, you would face a wall of infinitely energetic radiation — the entire past history of the universe, blasted into your face in less than a blink of an eye.The formation of an inner horizon sows the seeds for the destruction of the black hole. But rotating black holes certainly exist in our universe, so that tells us that our math is wrong and something funky is going on.What's really happening inside a black hole? We don't know — and the scary part is that we may never know.Additional resourcesYou can learn more about black holes at this NASA explainer page (opens in new tab). This BBC Earth piece has good basic information about black holes as well, and it also describes what would happen to you if you fell into one of these light-gobbling monsters. And the Stanford Encyclopedia of Philosophy has a good, detailed breakdown of black holes and singularities. BibliographyRovelli, C. and Vidotto, F, 2014. "Planck stars," International Journal of Modern Physics D, Vol. 23, No. 12. https://doi.org/10.1142/S0218271814420267Sakai, N. et al, 2014. "Gravastar shadows," Physical Review D, Vol. 90. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.104013Taylor, E. and Wheeler, J. "Exploring Black Holes: Introduction to General Relativity." Addison Wesley Longman, 2000. https://www.amazon.com/Exploring-Black-Holes-Introduction-Relativity/dp/020138423X (opens in new tab)Editor's note: This story was first published on Oct. 27, 2020. It was updated and republished on Feb. 8, 2022.Learn more by listening to the episode "What really happens at the center of a black hole?" on the Ask A Spaceman podcast, available on iTunes (opens in new tab) and on the Web at http://www.askaspaceman.com (opens in new tab). Thanks to Andy P., Brittany, Jeff J., Robert S., Vladimir B., Jack S., @Grobillard, and James L. for the questions that led to this piece! Ask your own question on Twitter using #AskASpaceman or by following Paul @PaulMattSutter (opens in new tab) and facebook.com/PaulMattSutter (opens in new tab).
 
 
 Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
 
-Andrew MaySocial Links NavigationAstrophysicistAndrew May holds a Ph.D. in astrophysics from Manchester University, U.K. For 30 years, he worked in the academic, government and private sectors, before becoming a science writer where he has written for Fortean Times, How It Works, All About Space, BBC Science Focus, among others. He has also written a selection of books including Cosmic Impact and Astrobiology: The Search for Life Elsewhere in the Universe, published by Icon Books.With contributions fromScott DutfieldContributor
+Paul SutterSocial Links NavigationSpace.com ContributorPaul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute in New York City. Paul received his PhD in Physics from the University of Illinois at Urbana-Champaign in 2011, and spent three years at the Paris Institute of Astrophysics, followed by a research fellowship in Trieste, Italy, His research focuses on many diverse topics, from the emptiest regions of the universe to the earliest moments of the Big Bang to the hunt for the first stars. As an "Agent to the Stars," Paul has passionately engaged the public in science outreach for several years. He is the host of the popular "Ask a Spaceman!" podcast, author of "Your Place in the Universe" and "How to Die in Space" and he frequently appears on TV — including on The Weather Channel, for which he serves as Official Space Specialist.
 
 
 

@@ -21,7 +21,7 @@ class Crawler:
 
   def __init__(self, base_url: str) -> None:
     self.base_url = base_url
-    self.relevant_articles: list[str] = []
+    self.relevant_articles: set[str] = set([])
     self.queue: list[str] = [base_url]
     self.document_tokens: list[str] = []
     self.corpus: list[str] = []
@@ -38,6 +38,7 @@ class Crawler:
     # self.extract_all_documents_tokens()
     # self.calculate_tf_idf()
     self.create_knowledge_base()
+    self.store_knowledge_base()
 
   def get_headers(self) -> dict[str, str]:
     ua = UserAgent()
@@ -53,10 +54,14 @@ class Crawler:
     # 'Host': 'www.space.com',
 
   def set_relevant_articles(self, max_limit) -> None:
+    print(f"{' Initiate Crawling ':=^50}")
     while (len(self.relevant_articles) < max_limit and len(self.queue) > 0):
       url = self.queue.pop(0)
-      req = request.Request(url, headers=self.get_headers())
+      if url in self.relevant_articles:
+        continue
+      print("Crawling: ", url)
       try:
+        req = request.Request(url, headers=self.get_headers())
         html = request.urlopen(req).read().decode("utf8")
       except:
         print("An error occurred with link", req)
@@ -79,8 +84,9 @@ class Crawler:
                 or "www.nasa.gov" in link_str:
           continue
         if ('Black' in link_str or 'black' in link_str) and ('Hole' in link_str or 'hole' in link_str):
-          self.relevant_articles.append(link_str)
+          self.relevant_articles.add(link_str)
         self.queue.append(link_str)
+    print(f"{' Crawling Completed ':=^50}")
 
   def save_urls(self) -> None:
     with open(self.url_file, "w") as f:
@@ -88,8 +94,10 @@ class Crawler:
         f.write(l + "\n")
 
   def crawl_relevant_articles(self) -> None:
+    print(f"{' Initiate Scraping ':=^50}")
     counter = 0
     for link in self.relevant_articles:
+      print("Scraping: ", link)
       counter += 1
       try:
         html = request.urlopen(link).read().decode("utf8")
@@ -99,31 +107,41 @@ class Crawler:
       soup = BeautifulSoup(html, features="html.parser")
       with open(self.document_directory + "/document"+str(counter)+".txt", "w") as f:
         f.write(soup.get_text())
+    print(f"{' Scraping Completed ':=^50}")
 
   def clean_documents(self) -> None:
+    print(f"{' Initiate Cleaning ':=^50}")
     for file in os.scandir(self.document_directory):
       if file.is_file():
-        # print("Cleaning: ", file.name)
+        print("Cleaning: ", file.name)
         sent: list[str] = []
         with open(file.path, 'r') as f:
-          text = f.read()
-          text = text.replace("\n", ".")
-          text = text.replace("\t", ".")
-          text = text.replace("(opens in new tab)", "")
-          text = re.sub("\.{2,}", ".", text)
-          sent = sent_tokenize(text)
+          for line in f.readlines():
+            if len(line) > 0:
+              # print(line)
+              text = line
+              # text = f.read()
+              text = text.replace("\n", ".")
+              text = text.replace("\t", ".")
+              text = text.replace("'", "")
+              text = text.replace("(opens in new tab)", ".")
+              text = re.sub("\.{2,}", ".", text)
+              # sent = sent_tokenize(text)
+              sent.append(text)
 
         with open(self.clean_document_directory + "/" + file.name, 'w') as f:
           for s in sent:
             f.write(s + "\n")
+    print(f"{' Cleaning Completed ':=^50}")
 
   def extract_all_documents_tokens(self) -> None:
+    print(f"{' Initiate Token Extaction ':=^50}")
     englis_stopwords = set(stopwords.words('english'))
     lemmatizer = WordNetLemmatizer()
 
     for file in os.scandir(self.clean_document_directory):
       if file.is_file():
-        # print("Extracting Tokens: ", file.name)
+        print("Extracting Tokens: ", file.name)
         raw_text: str = ""
         with open(file.path, 'r') as f:
           raw_text = f.read()
@@ -132,8 +150,10 @@ class Crawler:
                   for t in tokens if t not in englis_stopwords]
         doc = ' '.join(tokens)
         self.document_tokens.append(doc)
+    print(f"{' Token Extaction Completed ':=^50}")
 
   def calculate_tf_idf(self) -> None:
+    print(f"{' Calculating TF-IDF ':=^50}")
     vectorizer = TfidfVectorizer()
     vectors = vectorizer.fit_transform(self.document_tokens)
     # print("n_samples: %d, n_features: %d\n\n" % vectors.shape)
@@ -151,25 +171,33 @@ class Crawler:
 
     # Print the first 40 words
     print(tfidf_matrix.drop(columns=['count']).head(40))
+    print(f"{' Calculating TF-IDF Completed ':=^50}")
 
   def create_knowledge_base(self) -> None:
-    releted_terms: list[str] = [
-        "black", "hole", "space", "star", "galaxy", "horizon", "mass",
-        "event", "universe", "supermassive", "light", "matter", "singularity", "solar", "gravity"]
+    print(f"{' Creating Knowledge Base ':=^50}")
+    releted_terms: list[str] = ["hole", "black", "space", "star", "galaxy",
+                                "mass", "time", "supermassive", "energy", "event", "universe", "horizon", "dark", "light", "milky"]
+    # ["hole", "black", "space", "energy", "dark",
+    #                             "expansion", "galaxy", "star", "universe", "galactic", "vacuum", "cluster",
+    #                             "time", "light", "supermassive"]
+    # [
+    #     "black", "hole", "space", "star", "galaxy", "horizon", "mass",
+    #     "event", "universe", "supermassive", "light", "matter", "singularity", "solar", "gravity"]
 
     englis_stopwords = set(stopwords.words('english'))
     lemmatizer = WordNetLemmatizer()
 
     for file in os.scandir(self.clean_document_directory):
+      print("Knowledge Base Creation: ", file.name)
       raw_text: str = ""
       if file.is_file():
         with open(file.path, 'r') as f:
           raw_text = f.read()
       sentences = sent_tokenize(raw_text)
       for sent in sentences:
-        tokens = [t.lower() for t in word_tokenize(sent) if t.isalpha()]
-        tokens = [lemmatizer.lemmatize(t)
-                  for t in tokens if t not in englis_stopwords]
+        tokens = [t.lower() for t in word_tokenize(sent)]
+        # tokens = [lemmatizer.lemmatize(t)
+        #           for t in tokens if t not in englis_stopwords]
         if len(tokens) > 3:
           sent = ' '.join(tokens)
           self.corpus.append(sent)
@@ -181,22 +209,13 @@ class Crawler:
           lst = self.knowledge_base.get(term, [])
           lst.append(sent)
           self.knowledge_base[term] = lst
+    print(f"{' Knowledge Base Creation Completed ':=^50}")
 
-    # Save knowledge_base
-    # kb = open(self.knowledge_base_file, 'wb')
-    # pickle.dump(self.knowledge_base, kb)
-    # kb.close()
-
-    # # Print knowledge_base
-    # for k, v in self.knowledge_base.items():
-    #   print(k, len(v))
-    #   # print(len(self.knowledge_base[releted_terms[0]]))
-
-    # f = open("data.txt", "a+")
-    # # f.write("Yaaay!!!")
-    # L = ["This is Delhi \n", "This is Paris \n", "This is London"]
-    # f.writelines(L)
-    # f.close()
-
+  def store_knowledge_base(self) -> None:
+    print(f"{' Storing Knowledge Base ':=^50}")
     kb = KnowledgeBase()
+    print(f"{' Clearing existing data  ':=^50}")
+    kb.delete_all()
+    print(f"{' Inserting new data  ':=^50}")
     kb.insert(self.knowledge_base)
+    print(f"{' Knowledge Base Storing Completed ':=^50}")
