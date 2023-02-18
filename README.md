@@ -4,15 +4,33 @@ Deep Dive into NLP
 ## Table of Contents
 - [Overview](#Overview)
 - [Guessing Game](#Guessing-Game)
+- [Web Crawler](#Web-Crawler)
 
 ## Overview
-[NLP Overview](Overview%20of%20NLP.pdf)
+  * ### Report
+    * [NLP Overview](Overview%20of%20NLP.pdf)
 
 ## Guessing Game
-[Guessing Game](02-Guessing-Game)
+  * ### Code
+    * [Guessing Game](02-Guessing-Game)
 
-### Topics Covered
-1. Removing non-alpha tokens
-2. Removing stopwords
-3. Lemmatizing tokens
-4. POS tagging
+  * ### Topics Covered
+    1. Removing non-alpha tokens
+    2. Removing stopwords
+    3. Lemmatizing tokens
+    4. POS tagging
+
+
+## Web Crawler
+  * ### Code
+    * [Web Crawler](Web-Crawler)
+
+  * ### Topics Covered
+    1. Filter and Crawl relevant links
+    2. Scrape and Clean the web sites data
+    3. Calculate TF-IDF
+    4. Create Knowledge Base for the chatbot
+    5. Storing Knowledge Base to a database
+
+  * ### Report
+    * [Web Crawler Report](Web-Crawler/Web-Crawler.pdf)
