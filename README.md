@@ -1,6 +1,10 @@
 # NLP
 Deep Dive into NLP
 
+## Table of Conents
+- [Overview](#Overview)
+- [Guessing Game](#Guessing-Game)
+
 ## Overview
 [NLP Overview](Overview%20of%20NLP.pdf)
 
