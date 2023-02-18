@@ -268,7 +268,7 @@ Forums.
 All Topics.
 .
 .
-Subscribe to "All About Space" Magazine!.
+Subscribe to All About Space Magazine!.
 .
 .
 Space.com Store.
@@ -373,7 +373,7 @@ An illustration of a black hole.
 .
 .
 .
-When astronomers discovered that the universe is expanding at an accelerating rate, they theorized that some force must be pushing things farther apart and overcoming gravity, which should be slowing things down. That force was suggested to be dark energy, but no one has ever figured out from where it comes.But a team of 17 international researchers led by the University of Hawaii has discovered the first evidence for the origin point of dark energy: Black holes.Black holes acquire mass in two ways: accretion of gas and mergers with other black holes. But in studying nine billion years of black hole evolution in dormant giant elliptical galaxies, the researchers discovered that the older black holes are much larger than they should be based on those two methods of growth. That means there must be another way these black holes are acquiring mass. Researchers suggest the answer is dark energy in the form of vacuum energy, "a kind of energy included in spacetime itself . [that] pushes the universe further apart, accelerating the expansion," according to a statement .Related: Black holes: Everything you need to know"If the theory holds, then this is going to revolutionize the whole of cosmology, because at last weve got a solution for the origin of dark energy thats been perplexing cosmologists and theoretical physicists for more than 20 years," Dr. Chris Pearson of STFC RAL Space, a co-author of a study on the discovery, said in a statement.RELATED STORIES: —  Galactic collisions act as a cosmic delivery service for hungry monster black holes —  Star survives spaghettification by black hole —  Black holes at galactic centers blast out 10 times more light than previously thoughtThe idea that black holes are a source of dark energy isnt new. In fact, its part of Einsteins theory of general relativity. But this is the first time astronomers have obtained observational evidence to support the theory."Were really saying two things at once: That theres evidence the typical black hole solutions dont work for you on a long, long timescale, and we have the first proposed astrophysical source for dark energy," said study author Duncan Farrah, University of Hawaii astronomer, in the statement.A paper on the teams research was published in The Astrophysical Journal Letters . on Wednesday (Feb 15).Follow Stefanie Waldek on Twitter @StefanieWaldek . Follow us on Twitter @Spacedotcom . and on Facebook . .
+When astronomers discovered that the universe is expanding at an accelerating rate, they theorized that some force must be pushing things farther apart and overcoming gravity, which should be slowing things down. That force was suggested to be dark energy, but no one has ever figured out from where it comes.But a team of 17 international researchers led by the University of Hawaii has discovered the first evidence for the origin point of dark energy: Black holes.Black holes acquire mass in two ways: accretion of gas and mergers with other black holes. But in studying nine billion years of black hole evolution in dormant giant elliptical galaxies, the researchers discovered that the older black holes are much larger than they should be based on those two methods of growth. That means there must be another way these black holes are acquiring mass. Researchers suggest the answer is dark energy in the form of vacuum energy, a kind of energy included in spacetime itself . [that] pushes the universe further apart, accelerating the expansion, according to a statement .Related: Black holes: Everything you need to knowIf the theory holds, then this is going to revolutionize the whole of cosmology, because at last weve got a solution for the origin of dark energy thats been perplexing cosmologists and theoretical physicists for more than 20 years, Dr. Chris Pearson of STFC RAL Space, a co-author of a study on the discovery, said in a statement.RELATED STORIES: —  Galactic collisions act as a cosmic delivery service for hungry monster black holes —  Star survives spaghettification by black hole —  Black holes at galactic centers blast out 10 times more light than previously thoughtThe idea that black holes are a source of dark energy isnt new. In fact, its part of Einsteins theory of general relativity. But this is the first time astronomers have obtained observational evidence to support the theory.Were really saying two things at once: That theres evidence the typical black hole solutions dont work for you on a long, long timescale, and we have the first proposed astrophysical source for dark energy, said study author Duncan Farrah, University of Hawaii astronomer, in the statement.A paper on the teams research was published in The Astrophysical Journal Letters . on Wednesday (Feb 15).Follow Stefanie Waldek on Twitter @StefanieWaldek . Follow us on Twitter @Spacedotcom . and on Facebook . .
 .
 .
 Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
@@ -417,7 +417,7 @@ Comment from the forums.
 murgatroyd.
 .
 .
-The "explainer" video in the article explained exactly . nothing.
+The explainer video in the article explained exactly . nothing.
 .
 .
 .
@@ -434,9 +434,9 @@ Reply.
 Pentcho Valev.
 .
 .
-"Is the space inside, say, a galaxy growing but overcome by the gravitational attraction between the stars? The answer is no. Space within any gravitationally bound system is unaffected by the surrounding expansion." bUHZ2k9DYHY:356View: https://youtu.be/bUHZ2k9DYHY?t=356.
+Is the space inside, say, a galaxy growing but overcome by the gravitational attraction between the stars? The answer is no. Space within any gravitationally bound system is unaffected by the surrounding expansion. bUHZ2k9DYHY:356View: https://youtu.be/bUHZ2k9DYHY?t=356.
 .
-Sabine Hossenfelder: "The solution of general relativity that describes the expanding universe is a solution on average; it is good only on very large distances. But the solutions that describe galaxies are different - and just dont expand. Its not that galaxies expand unnoticeably, they just dont. The full solution, then, is both stitched together: Expanding space between non-expanding galaxies.It is only somewhere beyond the scales of galaxy clusters that expansion takes over." http://backreaction.blogspot.bg/2017/08/you-dont-expand-just-because-universe.html.
+Sabine Hossenfelder: The solution of general relativity that describes the expanding universe is a solution on average; it is good only on very large distances. But the solutions that describe galaxies are different - and just dont expand. Its not that galaxies expand unnoticeably, they just dont. The full solution, then, is both stitched together: Expanding space between non-expanding galaxies.It is only somewhere beyond the scales of galaxy clusters that expansion takes over. http://backreaction.blogspot.bg/2017/08/you-dont-expand-just-because-universe.html.
 So cosmologists apply the expansion solutions only to voids deprived of galaxies; to galaxies and galactic clusters they apply nonexpansion solutions. Why do cosmologists resort to this trick? Because, if they applied expansion solutions to galaxies and galactic clusters, observations would immediately disprove the expansion theory. Here is why:.
 .
 If expansion is actual inside galaxies and galactic clusters, the competition between expansion and gravitational attraction would distort those cosmic structures - e.g. fringes only weakly bound by gravity would succumb to expansion and fly away. And the theory, if it takes into account the intragalactic expansion, will have to predict the distortions.
@@ -445,7 +445,7 @@ But no distortions are observed - there is really no expansion inside galaxies a
 .
 Since there is no expansion inside galaxies and galactic clusters, there is no expansion anywhere else. The so called cosmological (Hubble) redshift is due to the speed of light slowing down as photons travel through vacuum, in a non-expanding universe. This is not a totally unacceptable idea:.
 .
-"Some physicists, however, suggest that there might be one other cosmic factor that could influence the speed of light: quantum vacuum fluctuation. This theory holds that so-called empty spaces in the Universe arent actually empty - theyre teeming with particles that are just constantly changing from existent to non-existent states. Quantum fluctuations, therefore, could slow down the speed of light." https://www.sciencealert.com/how-much-do-we-really-know-about-the-speed-of-light.
+Some physicists, however, suggest that there might be one other cosmic factor that could influence the speed of light: quantum vacuum fluctuation. This theory holds that so-called empty spaces in the Universe arent actually empty - theyre teeming with particles that are just constantly changing from existent to non-existent states. Quantum fluctuations, therefore, could slow down the speed of light. https://www.sciencealert.com/how-much-do-we-really-know-about-the-speed-of-light.
 .
 .
 .

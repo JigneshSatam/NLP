@@ -29,14 +29,14 @@ class Crawler:
     # self.ua = UserAgent()
 
   def crawl(self, max_limit: int) -> None:
-    # self.set_relevant_articles(max_limit)
-    # self.save_urls()
-    # # print(self.relevant_articles)
-    # # print(len(self.relevant_articles))
-    # self.crawl_relevant_articles()
-    # self.clean_documents()
-    # self.extract_all_documents_tokens()
-    # self.calculate_tf_idf()
+    self.set_relevant_articles(max_limit)
+    self.save_urls()
+    # print(self.relevant_articles)
+    # print(len(self.relevant_articles))
+    self.crawl_relevant_articles()
+    self.clean_documents()
+    self.extract_all_documents_tokens()
+    self.calculate_tf_idf()
     self.create_knowledge_base()
     self.store_knowledge_base()
 
@@ -124,6 +124,7 @@ class Crawler:
               text = text.replace("\n", ".")
               text = text.replace("\t", ".")
               text = text.replace("'", "")
+              text = text.replace('"', "")
               text = text.replace("(opens in new tab)", ".")
               text = re.sub("\.{2,}", ".", text)
               # sent = sent_tokenize(text)
@@ -175,7 +176,7 @@ class Crawler:
 
   def create_knowledge_base(self) -> None:
     print(f"{' Creating Knowledge Base ':=^50}")
-    releted_terms: list[str] = ["hole", "black", "space", "star", "galaxy",
+    related_terms: list[str] = ["hole", "black", "space", "star", "galaxy",
                                 "mass", "time", "supermassive", "energy", "event", "universe", "horizon", "dark", "light", "milky"]
     # ["hole", "black", "space", "energy", "dark",
     #                             "expansion", "galaxy", "star", "universe", "galactic", "vacuum", "cluster",
@@ -204,7 +205,7 @@ class Crawler:
 
     # print(self.corpus)
     for sent in self.corpus:
-      for term in releted_terms:
+      for term in related_terms:
         if term in sent:
           lst = self.knowledge_base.get(term, [])
           lst.append(sent)
@@ -216,6 +217,14 @@ class Crawler:
     kb = KnowledgeBase()
     print(f"{' Clearing existing data  ':=^50}")
     kb.delete_all()
+
+    # # TODO: Remove: Print knowledge_base
+    # sample_kb = {}
+    # for k, v in self.knowledge_base.items():
+    #   print(k, len(v))
+    #   sample_kb[k] = v[:10]
+    # print(sample_kb)
+
     print(f"{' Inserting new data  ':=^50}")
     kb.insert(self.knowledge_base)
     print(f"{' Knowledge Base Storing Completed ':=^50}")

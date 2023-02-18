@@ -447,8 +447,8 @@ Some studies have suggested that the maximum natural mass that a black hole can 
 .
 History of research[edit].
 The story of how supermassive black holes were found began with the investigation by Maarten Schmidt of the radio source 3C 273 in 1963. Initially this was thought to be a star, but the spectrum proved puzzling. It was determined to be hydrogen emission lines that had been red shifted, indicating the object was moving away from the Earth.[22] Hubbles law showed that the object was located several billion light-years away, and thus must be emitting the energy equivalent of hundreds of galaxies. The rate of light variations of the source dubbed a quasi-stellar object, or quasar, suggested the emitting region had a diameter of one parsec or less. Four such sources had been identified by 1964.[23].
-In 1963, Fred Hoyle and W. A. Fowler proposed the existence of hydrogen burning supermassive stars (SMS) as an explanation for the compact dimensions and high energy output of quasars. These would have a mass of about 105 – 109 M☉. However, Richard Feynman noted stars above a certain critical mass are dynamically unstable and would collapse into a black hole, at least if they were non-rotating.[24] Fowler then proposed that these supermassive stars would undergo a series of collapse and explosion oscillations, thereby explaining the energy output pattern. Appenzeller and Fricke (1972) built models of this behavior, but found that the resulting star would still undergo collapse, concluding that a non-rotating 0.75×106 M☉ SMS "cannot escape collapse to a black hole by burning its hydrogen through the CNO cycle".[25].
-Edwin E. Salpeter and Yakov Zeldovich made the proposal in 1964 that matter falling onto a massive compact object would explain the properties of quasars. It would require a mass of around 108 M☉ to match the output of these objects. Donald Lynden-Bell noted in 1969 that the infalling gas would form a flat disk that spirals into the central "Schwarzschild throat". He noted that the relatively low output of nearby galactic cores implied these were old, inactive quasars.[26] Meanwhile, in 1967, Martin Ryle and Malcolm Longair suggested that nearly all sources of extra-galactic radio emission could be explained by a model in which particles are ejected from galaxies at relativistic velocities; meaning they are moving near the speed of light.[27] Martin Ryle, Malcolm Longair, and Peter Scheuer then proposed in 1973 that the compact central nucleus could be the original energy source for these relativistic jets.[26].
+In 1963, Fred Hoyle and W. A. Fowler proposed the existence of hydrogen burning supermassive stars (SMS) as an explanation for the compact dimensions and high energy output of quasars. These would have a mass of about 105 – 109 M☉. However, Richard Feynman noted stars above a certain critical mass are dynamically unstable and would collapse into a black hole, at least if they were non-rotating.[24] Fowler then proposed that these supermassive stars would undergo a series of collapse and explosion oscillations, thereby explaining the energy output pattern. Appenzeller and Fricke (1972) built models of this behavior, but found that the resulting star would still undergo collapse, concluding that a non-rotating 0.75×106 M☉ SMS cannot escape collapse to a black hole by burning its hydrogen through the CNO cycle.[25].
+Edwin E. Salpeter and Yakov Zeldovich made the proposal in 1964 that matter falling onto a massive compact object would explain the properties of quasars. It would require a mass of around 108 M☉ to match the output of these objects. Donald Lynden-Bell noted in 1969 that the infalling gas would form a flat disk that spirals into the central Schwarzschild throat. He noted that the relatively low output of nearby galactic cores implied these were old, inactive quasars.[26] Meanwhile, in 1967, Martin Ryle and Malcolm Longair suggested that nearly all sources of extra-galactic radio emission could be explained by a model in which particles are ejected from galaxies at relativistic velocities; meaning they are moving near the speed of light.[27] Martin Ryle, Malcolm Longair, and Peter Scheuer then proposed in 1973 that the compact central nucleus could be the original energy source for these relativistic jets.[26].
 Arthur M. Wolfe and Geoffrey Burbidge noted in 1970 that the large velocity dispersion of the stars in the nuclear region of elliptical galaxies could only be explained by a large mass concentration at the nucleus; larger than could be explained by ordinary stars. They showed that the behavior could be explained by a massive black hole with up to  1010 M☉, or a large number of smaller black holes with masses below 103 M☉.[28] Dynamical evidence for a massive dark object was found at the core of the active elliptical galaxy Messier 87 in 1978, initially estimated at 5×109 M☉.[29] Discovery of similar behavior in other galaxies soon followed, including the Andromeda Galaxy in 1984 and the Sombrero Galaxy in 1988.[4].
 Donald Lynden-Bell and Martin Rees hypothesized in 1971 that the center of the Milky Way galaxy would contain a massive black hole.[30] Sagittarius A* was discovered and named on February 13 and 15, 1974, by astronomers Bruce Balick and Robert Brown using the Green Bank Interferometer of the National Radio Astronomy Observatory.[31] They discovered a radio source that emits synchrotron radiation; it was found to be dense and immobile because of its gravitation. This was, therefore, the first indication that a supermassive black hole exists in the center of the Milky Way.
 The Hubble Space Telescope, launched in 1990, provided the resolution needed to perform more refined observations of galactic nuclei. In 1994 the Faint Object Spectrograph on the Hubble was used to observe Messier 87, finding that ionized gas was orbiting the central part of the nucleus at a velocity of ±500 km/s. The data indicated a concentrated mass of (2.4±0.7)×109 M☉ lay within a 0.25″ span, providing strong evidence of a supermassive black hole.[32] Using the Very Long Baseline Array to observe Messier 106, Miyoshi et al. (1995) were able to demonstrate that the emission from an H2O maser in this galaxy came from a gaseous disk in the nucleus that orbited a concentrated mass of 3.6×107 M☉, which was constrained to a radius of 0.13 parsecs. Their ground-breaking research noted that a swarm of solar mass black holes within a radius this small would not survive for long without undergoing collisions, making a supermassive black hole the sole viable candidate.[33]  Accompanying this observation which provided the first confirmation of supermassive black holes was the discovery[34] of the highly broadened, ionised iron.
@@ -457,14 +457,14 @@ On April 10, 2019, the Event Horizon Telescope collaboration released the first 
 .
 Formation[edit].
  An artists conception of a supermassive black hole surrounded by an accretion disk and emitting a relativistic jet.
-The origin of supermassive black holes remains an active field of research. Astrophysicists agree that black holes can grow by accretion of matter and by merging with other black holes.[38][39] There are several hypotheses for the formation mechanisms and initial masses of the progenitors, or "seeds", of supermassive black holes. Independently of the specific formation channel for the black hole seed, given sufficient mass nearby, it could accrete to become an intermediate-mass black hole and possibly a SMBH if the accretion rate persists.[40].
+The origin of supermassive black holes remains an active field of research. Astrophysicists agree that black holes can grow by accretion of matter and by merging with other black holes.[38][39] There are several hypotheses for the formation mechanisms and initial masses of the progenitors, or seeds, of supermassive black holes. Independently of the specific formation channel for the black hole seed, given sufficient mass nearby, it could accrete to become an intermediate-mass black hole and possibly a SMBH if the accretion rate persists.[40].
 Distant and early supermassive black holes, such as J0313–1806,[41] and ULAS J1342+0928,[42] are hard to explain so soon after the Big Bang. Some postulate they might come from direct collapse of dark matter with self-interaction.[43][44][45] A small minority of sources argue that they may be evidence that the Universe is the result of a Big Bounce, instead of a Big Bang, with these supermassive black holes being formed before the Big Bounce.[46][47].
 .
 First stars[edit].
 This section needs to be updated. Please help update this article to reflect recent events or newly available information. (November 2022).
 Main articles: Population III star, Quasi-star, and Dark star (dark matter).
 The early progenitor seeds may be black holes of tens or perhaps hundreds of M☉ that are left behind by the explosions of massive stars and grow by accretion of matter. Another model involves a dense stellar cluster undergoing core collapse as the negative heat capacity of the system drives the velocity dispersion in the core to relativistic speeds.[48][49].
-Before the first stars, large gas clouds could collapse into a "quasi-star", which would in turn collapse into a black hole of around 20 M☉.[40] These stars may have also been formed by dark matter halos drawing in enormous amounts of gas by gravity, which would then produce supermassive stars with tens of thousands of M☉.[50][51] The "quasi-star" becomes unstable to radial perturbations because of electron-positron pair production in its core and could collapse directly into a black hole without a supernova explosion (which would eject most of its mass, preventing the black hole from growing as fast).
+Before the first stars, large gas clouds could collapse into a quasi-star, which would in turn collapse into a black hole of around 20 M☉.[40] These stars may have also been formed by dark matter halos drawing in enormous amounts of gas by gravity, which would then produce supermassive stars with tens of thousands of M☉.[50][51] The quasi-star becomes unstable to radial perturbations because of electron-positron pair production in its core and could collapse directly into a black hole without a supernova explosion (which would eject most of its mass, preventing the black hole from growing as fast).
 A more recent theory proposes that SMBH seeds were formed in the very early universe each from the collapse of a supermassive star with mass of around 100,000 M☉.[52].
 .
 Direct-collapse and primordial black holes[edit].
@@ -512,7 +512,7 @@ The star S2 follows an elliptical orbit with a period of 15.2 years and a perice
 From the motion of star S2, the objects mass can be estimated as 4.0 million M☉,[81] or about 7.96×1036 kg.
 The radius of the central object must be less than 17 light-hours, because otherwise S2 would collide with it. Observations of the star S14[82] indicate that the radius is no more than 6.25 light-hours, about the diameter of Uranus orbit.
 No known astronomical object other than a black hole can contain 4.0 million M☉ in this volume of space.[82].
-Infrared observations of bright flare activity near Sagittarius A* show orbital motion of plasma with a period of 45±15 min at a separation of six to ten times the gravitational radius of the candidate SMBH. This emission is consistent with a circularized orbit of a polarized "hot spot" on an accretion disk in a strong magnetic field. The radiating matter is orbiting at 30% of the speed of light just outside the innermost stable circular orbit.[83].
+Infrared observations of bright flare activity near Sagittarius A* show orbital motion of plasma with a period of 45±15 min at a separation of six to ten times the gravitational radius of the candidate SMBH. This emission is consistent with a circularized orbit of a polarized hot spot on an accretion disk in a strong magnetic field. The radiating matter is orbiting at 30% of the speed of light just outside the innermost stable circular orbit.[83].
 On January 5, 2015, NASA reported observing an X-ray flare 400 times brighter than usual, a record-breaker, from Sagittarius A*. The unusual event may have been caused by the breaking apart of an asteroid falling into the black hole or by the entanglement of magnetic field lines within gas flowing into Sagittarius A*, according to astronomers.[84].
 .
 Detection of an unusually bright X-ray flare from Sagittarius A*, a supermassive black hole in the center of the Milky Way galaxy.[84]Sagittarius A* imaged by the Event Horizon Telescope.
@@ -558,249 +558,249 @@ Notes[edit].
 References[edit].
 .
 .
-^ Overbye, Dennis (April 10, 2019). "Black Hole Picture Revealed for the First Time – Astronomers at last have captured an image of the darkest entities in the cosmos – Comments". The New York Times. Retrieved April 10, 2019.
+^ Overbye, Dennis (April 10, 2019). Black Hole Picture Revealed for the First Time – Astronomers at last have captured an image of the darkest entities in the cosmos – Comments. The New York Times. Retrieved April 10, 2019.
 .
-^ a b The Event Horizon Telescope Collaboration (April 10, 2019). "First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole". The Astrophysical Journal Letters. 875 (1): L1. arXiv:1906.11238. Bibcode:2019ApJ.875L.1E. doi:10.3847/2041-8213/ab0ec7.
+^ a b The Event Horizon Telescope Collaboration (April 10, 2019). First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole. The Astrophysical Journal Letters. 875 (1): L1. arXiv:1906.11238. Bibcode:2019ApJ.875L.1E. doi:10.3847/2041-8213/ab0ec7.
 .
-^ Falcke, Heino; Melia, Fulvio; Agol, Eric (January 1, 2000). "Viewing the Shadow of the Black Hole at the Galactic Center". The Astrophysical Journal. 528 (1): L13–L16. arXiv:astro-ph/9912263. Bibcode:2000ApJ.528L.13F. doi:10.1086/312423. PMID 10587484. S2CID 119433133.
+^ Falcke, Heino; Melia, Fulvio; Agol, Eric (January 1, 2000). Viewing the Shadow of the Black Hole at the Galactic Center. The Astrophysical Journal. 528 (1): L13–L16. arXiv:astro-ph/9912263. Bibcode:2000ApJ.528L.13F. doi:10.1086/312423. PMID 10587484. S2CID 119433133.
 .
-^ a b Kormendy, John; Richstone, Douglas (1995), "Inward Bound—The Search For Supermassive Black Holes In Galactic Nuclei", Annual Review of Astronomy and Astrophysics, 33: 581, Bibcode:1995ARA&A.33.581K, doi:10.1146/annurev.aa.33.090195.003053.
+^ a b Kormendy, John; Richstone, Douglas (1995), Inward Bound—The Search For Supermassive Black Holes In Galactic Nuclei, Annual Review of Astronomy and Astrophysics, 33: 581, Bibcode:1995ARA&A.33.581K, doi:10.1146/annurev.aa.33.090195.003053.
 .
-^ Kormendy, John; Ho, Luis (2013). "Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies". Annual Review of Astronomy and Astrophysics. 51 (1): 511–653. arXiv:1304.7762. Bibcode:2013ARA&A.51.511K. doi:10.1146/annurev-astro-082708-101811. S2CID 118172025.
+^ Kormendy, John; Ho, Luis (2013). Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies. Annual Review of Astronomy and Astrophysics. 51 (1): 511–653. arXiv:1304.7762. Bibcode:2013ARA&A.51.511K. doi:10.1146/annurev-astro-082708-101811. S2CID 118172025.
 .
-^ Ghez, A.; Klein, B.; Morris, M.; Becklin, E (1998). "High Proper-Motion Stars in the Vicinity of Sagittarius A*: Evidence for a Supermassive Black Hole at the Center of Our Galaxy". The Astrophysical Journal. 509 (2): 678–686. arXiv:astro-ph/9807210. Bibcode:1998ApJ.509.678G. doi:10.1086/306528. S2CID 18243528.
+^ Ghez, A.; Klein, B.; Morris, M.; Becklin, E (1998). High Proper-Motion Stars in the Vicinity of Sagittarius A*: Evidence for a Supermassive Black Hole at the Center of Our Galaxy. The Astrophysical Journal. 509 (2): 678–686. arXiv:astro-ph/9807210. Bibcode:1998ApJ.509.678G. doi:10.1086/306528. S2CID 18243528.
 .
 ^ .
-Schödel, R.;  et al. (2002). "A star in a 15.2-year orbit around the supermassive black hole at the centre of the Milky Way". Nature. 419 (6908): 694–696. arXiv:astro-ph/0210426. Bibcode:2002Natur.419.694S. doi:10.1038/nature01121. PMID 12384690. S2CID 4302128.
+Schödel, R.;  et al. (2002). A star in a 15.2-year orbit around the supermassive black hole at the centre of the Milky Way. Nature. 419 (6908): 694–696. arXiv:astro-ph/0210426. Bibcode:2002Natur.419.694S. doi:10.1038/nature01121. PMID 12384690. S2CID 4302128.
 .
-^ Frank, Juhan; King, Andrew; Raine, Derek J. (January 2002). "Accretion Power in Astrophysics: Third Edition". Accretion Power in Astrophysics. Cambridge, UK: Cambridge University Press. Bibcode:2002apa.book.F. ISBN 0521620538.
+^ Frank, Juhan; King, Andrew; Raine, Derek J. (January 2002). Accretion Power in Astrophysics: Third Edition. Accretion Power in Astrophysics. Cambridge, UK: Cambridge University Press. Bibcode:2002apa.book.F. ISBN 0521620538.
 .
-^ Overbye, Dennis (May 12, 2022). "Has the Milky Ways Black Hole Come to Light? - The Event Horizon Telescope reaches again for a glimpse of the "unseeable."". The New York Times. Retrieved May 12, 2022.
+^ Overbye, Dennis (May 12, 2022). Has the Milky Ways Black Hole Come to Light? - The Event Horizon Telescope reaches again for a glimpse of the unseeable. The New York Times. Retrieved May 12, 2022.
 .
-^ "Black Hole | COSMOS". astronomy.swin.edu.au. Retrieved August 29, 2020.
+^ Black Hole | COSMOS. astronomy.swin.edu.au. Retrieved August 29, 2020.
 .
 ^ Kutner, Marc L. (2003), Astronomy: A Physical Perspective, Cambridge University Press, p. 149, ISBN 978-0521529273.
 .
-^ "Problem 138: The Intense Gravity of a Black Hole", Space Math @ NASA: Mathematics Problems about Black Holes, NASA, retrieved December 4, 2018.
+^ Problem 138: The Intense Gravity of a Black Hole, Space Math @ NASA: Mathematics Problems about Black Holes, NASA, retrieved December 4, 2018.
 .
-^ Celotti, A.; Miller, J.C.; Sciama, D.W. (1999). "Astrophysical evidence for the existence of black holes". Class. Quantum Grav. (Submitted manuscript). 16 (12A): A3–A21. arXiv:astro-ph/9912186. Bibcode:1999CQGra.16A.3C. doi:10.1088/0264-9381/16/12A/301. S2CID 17677758.
+^ Celotti, A.; Miller, J.C.; Sciama, D.W. (1999). Astrophysical evidence for the existence of black holes. Class. Quantum Grav. (Submitted manuscript). 16 (12A): A3–A21. arXiv:astro-ph/9912186. Bibcode:1999CQGra.16A.3C. doi:10.1088/0264-9381/16/12A/301. S2CID 17677758.
 .
 ^ Ehsan, Baaquie Belal; Hans, Willeboordse Frederick (2015), Exploring The Invisible Universe: From Black Holes To Superstrings, World Scientific, p. 200, Bibcode:2015eiub.book.B, ISBN 978-9814618694.
 .
-^ "Uranus Fact Sheet". nssdc.gsfc.nasa.gov. Retrieved August 29, 2020.
+^ Uranus Fact Sheet. nssdc.gsfc.nasa.gov. Retrieved August 29, 2020.
 .
-^ a b c "Black Hole Calculator – Fabio Pacucci (Harvard University & SAO)". Fabio Pacucci. Retrieved August 29, 2020.
+^ a b c Black Hole Calculator – Fabio Pacucci (Harvard University & SAO). Fabio Pacucci. Retrieved August 29, 2020.
 .
-^ Natarajan, Priyamvada; Treister, Ezequiel (2009). "Is there an upper limit to black hole masses?". Monthly Notices of the Royal Astronomical Society. 393 (3): 838–845. arXiv:0808.2813. Bibcode:2009MNRAS.393.838N. doi:10.1111/j.1365-2966.2008.13864.x. S2CID 6568320.
+^ Natarajan, Priyamvada; Treister, Ezequiel (2009). Is there an upper limit to black hole masses?. Monthly Notices of the Royal Astronomical Society. 393 (3): 838–845. arXiv:0808.2813. Bibcode:2009MNRAS.393.838N. doi:10.1111/j.1365-2966.2008.13864.x. S2CID 6568320.
 .
 ^ |title=From Super to Ultra: Just How Big Can Black Holes Get?.
 .
-^ "Massive Black Holes Dwell in Most Galaxies, According to Hubble Census". HubbleSite.org. Retrieved August 21, 2022.
+^ Massive Black Holes Dwell in Most Galaxies, According to Hubble Census. HubbleSite.org. Retrieved August 21, 2022.
 .
-^ a b c d e f g h i j King, Andrew (2016). "How big can a black hole grow?". Monthly Notices of the Royal Astronomical Society. 456 (1): L109–L112. arXiv:1511.08502. Bibcode:2016MNRAS.456L.109K. doi:10.1093/mnrasl/slv186. S2CID 40147275.
+^ a b c d e f g h i j King, Andrew (2016). How big can a black hole grow?. Monthly Notices of the Royal Astronomical Society. 456 (1): L109–L112. arXiv:1511.08502. Bibcode:2016MNRAS.456L.109K. doi:10.1093/mnrasl/slv186. S2CID 40147275.
 .
-^ Inayoshi, Kohei; Haiman, Zoltán (September 12, 2016). "Is There a Maximum Mass for Black Holes in Galactic Nuclei?". The Astrophysical Journal. 828 (2): 110. arXiv:1601.02611. Bibcode:2016ApJ.828.110I. doi:10.3847/0004-637X/828/2/110. S2CID 118702101.
+^ Inayoshi, Kohei; Haiman, Zoltán (September 12, 2016). Is There a Maximum Mass for Black Holes in Galactic Nuclei?. The Astrophysical Journal. 828 (2): 110. arXiv:1601.02611. Bibcode:2016ApJ.828.110I. doi:10.3847/0004-637X/828/2/110. S2CID 118702101.
 .
-^ Schmidt, Maarten (1965), "3C 273: A Star-like Object with Large Red-Shift",  in Robinson, Ivor; Schild, Alfred; Schucking, E.L. (eds.), Quasi-Stellar Sources and Gravitational Collapse, Proceedings of the 1st Texas Symposium on Relativistic Astrophysics, Quasi-Stellar Sources and Gravitational Collapse, Chicago: University of Chicago Press, p. 455, Bibcode:1965qssg.conf.455S.
+^ Schmidt, Maarten (1965), 3C 273: A Star-like Object with Large Red-Shift,  in Robinson, Ivor; Schild, Alfred; Schucking, E.L. (eds.), Quasi-Stellar Sources and Gravitational Collapse, Proceedings of the 1st Texas Symposium on Relativistic Astrophysics, Quasi-Stellar Sources and Gravitational Collapse, Chicago: University of Chicago Press, p. 455, Bibcode:1965qssg.conf.455S.
 .
-^ Greenstein, Jesse L.; Schmidt, Maarten (July 1964), "The Quasi-Stellar Radio Sources 3C 48 and 3C 273", Astrophysical Journal, 140: 1, Bibcode:1964ApJ.140.1G, doi:10.1086/147889, S2CID 123147304.
+^ Greenstein, Jesse L.; Schmidt, Maarten (July 1964), The Quasi-Stellar Radio Sources 3C 48 and 3C 273, Astrophysical Journal, 140: 1, Bibcode:1964ApJ.140.1G, doi:10.1086/147889, S2CID 123147304.
 .
 ^ Feynman, Richard (2018), Feynman Lectures On Gravitation, CRC Press, p. 12, ISBN 978-0429982484.
 .
-^ Appenzeller, I.; Fricke, K. (April 1972), "Hydrodynamic Model Calculations for Supermassive Stars I. The Collapse of a Nonrotating 0.75×106 M☉ Star", Astronomy and Astrophysics, 18: 10, Bibcode:1972A&A.18.10A.
+^ Appenzeller, I.; Fricke, K. (April 1972), Hydrodynamic Model Calculations for Supermassive Stars I. The Collapse of a Nonrotating 0.75×106 M☉ Star, Astronomy and Astrophysics, 18: 10, Bibcode:1972A&A.18.10A.
 .
 ^ a b Lang, Kenneth R. (2013), Astrophysical Formulae: Space, Time, Matter and Cosmology, Astronomy and Astrophysics Library (3 ed.), Springer, p. 217, ISBN 978-3662216392.
 .
-^ Ryle, Martin, Sir; Longair, M. S. (1967), "A possible method for investigating the evolution of radio galaxies", Monthly Notices of the Royal Astronomical Society, 136 (2): 123, Bibcode:1967MNRAS.136.123R, doi:10.1093/mnras/136.2.123.
+^ Ryle, Martin, Sir; Longair, M. S. (1967), A possible method for investigating the evolution of radio galaxies, Monthly Notices of the Royal Astronomical Society, 136 (2): 123, Bibcode:1967MNRAS.136.123R, doi:10.1093/mnras/136.2.123.
 .
-^ Wolfe, A. M.; Burbidge, G. R. (August 1970). "Black Holes in Elliptical Galaxies". Astrophysical Journal. 161: 419. Bibcode:1970ApJ.161.419W. doi:10.1086/150549.
+^ Wolfe, A. M.; Burbidge, G. R. (August 1970). Black Holes in Elliptical Galaxies. Astrophysical Journal. 161: 419. Bibcode:1970ApJ.161.419W. doi:10.1086/150549.
 .
-^ Sargent, W. L. W.;  et al. (May 1, 1978). "Dynamical evidence for a central mass concentration in the galaxy M87". Astrophysical Journal, Part 1. 221: 731–744. Bibcode:1978ApJ.221.731S. doi:10.1086/156077.
+^ Sargent, W. L. W.;  et al. (May 1, 1978). Dynamical evidence for a central mass concentration in the galaxy M87. Astrophysical Journal, Part 1. 221: 731–744. Bibcode:1978ApJ.221.731S. doi:10.1086/156077.
 .
 ^ Schödel, R.; Genzel, R. (2006),  Alfaro, Emilio Javier; Perez, Enrique; Franco, José (eds.), How does the Galaxy work?: A Galactic Tertulia with Don Cox and Ron Reynolds, Astrophysics and Space Science Library, vol. 315, Springer Science & Business Media, p. 201, ISBN 978-1402026201.
 .
 ^ Fulvio Melia (2007). The Galactic Supermassive Black Hole. Princeton University Press. p. 2. ISBN 978-0-691-13129-0.
 .
-^ Harms, Richard J.;  et al. (November 1994), "HST FOS spectroscopy of M87: Evidence for a disk of ionized gas around a massive black hole", Astrophysical Journal, Part 2, 435 (1): L35–L38, Bibcode:1994ApJ.435L.35H, doi:10.1086/187588.
+^ Harms, Richard J.;  et al. (November 1994), HST FOS spectroscopy of M87: Evidence for a disk of ionized gas around a massive black hole, Astrophysical Journal, Part 2, 435 (1): L35–L38, Bibcode:1994ApJ.435L.35H, doi:10.1086/187588.
 .
-^ Miyoshi, Makoto;  et al. (January 1995). "Evidence for a black hole from high rotation velocities in a sub-parsec region of NGC4258". Nature. 373 (6510): 127–129. Bibcode:1995Natur.373.127M. doi:10.1038/373127a0. S2CID 4336316.
+^ Miyoshi, Makoto;  et al. (January 1995). Evidence for a black hole from high rotation velocities in a sub-parsec region of NGC4258. Nature. 373 (6510): 127–129. Bibcode:1995Natur.373.127M. doi:10.1038/373127a0. S2CID 4336316.
 .
-^ Tanaka, Y.; Nandra, K.; Fabian, A.C. (1995). "Gravitationally redshifted emission implying an accretion disk and massive black hole in the active galaxy MCG-6-30-15". Nature. 375 (6533): 659–661. Bibcode:1995Natur.375.659T. doi:10.1038/375659a0. S2CID 4348405.
+^ Tanaka, Y.; Nandra, K.; Fabian, A.C. (1995). Gravitationally redshifted emission implying an accretion disk and massive black hole in the active galaxy MCG-6-30-15. Nature. 375 (6533): 659–661. Bibcode:1995Natur.375.659T. doi:10.1038/375659a0. S2CID 4348405.
 .
-^ Overbye, Dennis (March 28, 2020). "Infinite Visions Were Hiding in the First Black Hole Images Rings – Scientists proposed a technique that would allow us to see more of the unseeable". The New York Times. Retrieved March 29, 2020.
+^ Overbye, Dennis (March 28, 2020). Infinite Visions Were Hiding in the First Black Hole Images Rings – Scientists proposed a technique that would allow us to see more of the unseeable. The New York Times. Retrieved March 29, 2020.
 .
-^ Johnson, Michael D.;  et al. (March 18, 2020). "Universal interferometric signatures of a black holes photon ring". Science Advances. 6 (12, eaaz1310): eaaz1310. arXiv:1907.04329. Bibcode:2020SciA.6.1310J. doi:10.1126/sciadv.aaz1310. PMC 7080443. PMID 32206723.
+^ Johnson, Michael D.;  et al. (March 18, 2020). Universal interferometric signatures of a black holes photon ring. Science Advances. 6 (12, eaaz1310): eaaz1310. arXiv:1907.04329. Bibcode:2020SciA.6.1310J. doi:10.1126/sciadv.aaz1310. PMC 7080443. PMID 32206723.
 .
-^ Overbye, Dennis (March 28, 2020). "Infinite Visions Were Hiding in the First Black Hole Images Rings". The New York Times. Retrieved August 31, 2020.
+^ Overbye, Dennis (March 28, 2020). Infinite Visions Were Hiding in the First Black Hole Images Rings. The New York Times. Retrieved August 31, 2020.
 .
-^ Kulier, Andrea; Ostriker, Jeremiah P.; Natarajan, Priyamvada; Lackner, Claire N.; Cen, Renyue (February 1, 2015). "Understanding Black Hole Mass Assembly via Accretion and Mergers at Late Times in Cosmological Simulations". The Astrophysical Journal. 799 (2): 178. arXiv:1307.3684. Bibcode:2015ApJ.799.178K. doi:10.1088/0004-637X/799/2/178. S2CID 118497238.
+^ Kulier, Andrea; Ostriker, Jeremiah P.; Natarajan, Priyamvada; Lackner, Claire N.; Cen, Renyue (February 1, 2015). Understanding Black Hole Mass Assembly via Accretion and Mergers at Late Times in Cosmological Simulations. The Astrophysical Journal. 799 (2): 178. arXiv:1307.3684. Bibcode:2015ApJ.799.178K. doi:10.1088/0004-637X/799/2/178. S2CID 118497238.
 .
-^ Pacucci, Fabio; Loeb, Abraham (June 1, 2020). "Separating Accretion and Mergers in the Cosmic Growth of Black Holes with X-Ray and Gravitational-wave Observations". The Astrophysical Journal. 895 (2): 95. arXiv:2004.07246. Bibcode:2020ApJ.895.95P. doi:10.3847/1538-4357/ab886e. S2CID 215786268.
+^ Pacucci, Fabio; Loeb, Abraham (June 1, 2020). Separating Accretion and Mergers in the Cosmic Growth of Black Holes with X-Ray and Gravitational-wave Observations. The Astrophysical Journal. 895 (2): 95. arXiv:2004.07246. Bibcode:2020ApJ.895.95P. doi:10.3847/1538-4357/ab886e. S2CID 215786268.
 .
-^ a b Begelman, M. C.;  et al. (June 2006). "Formation of supermassive black holes by direct collapse in pre-galactic haloed". Monthly Notices of the Royal Astronomical Society. 370 (1): 289–298. arXiv:astro-ph/0602363. Bibcode:2006MNRAS.370.289B. doi:10.1111/j.1365-2966.2006.10467.x. S2CID 14545390.
+^ a b Begelman, M. C.;  et al. (June 2006). Formation of supermassive black holes by direct collapse in pre-galactic haloed. Monthly Notices of the Royal Astronomical Society. 370 (1): 289–298. arXiv:astro-ph/0602363. Bibcode:2006MNRAS.370.289B. doi:10.1111/j.1365-2966.2006.10467.x. S2CID 14545390.
 .
-^ Harrison Tasoff (January 19, 2021). "Researchers discover the earliest supermassive black hole and quasar in the universe". phys.org. The presence of such a massive black hole so early in the universes history challenges theories of black hole formation. As lead author [Feige] Wang, now a NASA Hubble fellow at the University of Arizona, explains: Black holes created by the very first massive stars could not have grown this large in only a few hundred million years.
+^ Harrison Tasoff (January 19, 2021). Researchers discover the earliest supermassive black hole and quasar in the universe. phys.org. The presence of such a massive black hole so early in the universes history challenges theories of black hole formation. As lead author [Feige] Wang, now a NASA Hubble fellow at the University of Arizona, explains: Black holes created by the very first massive stars could not have grown this large in only a few hundred million years.
 .
-^ Landau, Elizabeth; Bañados, Eduardo (December 6, 2017). "Found: Most Distant Black Hole". NASA. Retrieved December 6, 2017. This black hole grew far larger than we expected in only 690 million years after the Big Bang, which challenges our theories about how black holes form, said study co-author Daniel Stern of NASAs Jet Propulsion Laboratory in Pasadena, California.
+^ Landau, Elizabeth; Bañados, Eduardo (December 6, 2017). Found: Most Distant Black Hole. NASA. Retrieved December 6, 2017. This black hole grew far larger than we expected in only 690 million years after the Big Bang, which challenges our theories about how black holes form, said study co-author Daniel Stern of NASAs Jet Propulsion Laboratory in Pasadena, California.
 .
-^ Balberg, Shmuel; Shapiro, Stuart L. (2002). "Gravothermal Collapse of Self-Interacting Dark Matter Halos and the Origin of Massive Black Holes". Physical Review Letters. 88 (10): 101301. arXiv:astro-ph/0111176. Bibcode:2002PhRvL.88j1301B. doi:10.1103/PhysRevLett.88.101301. PMID 11909338. S2CID 20557031.
+^ Balberg, Shmuel; Shapiro, Stuart L. (2002). Gravothermal Collapse of Self-Interacting Dark Matter Halos and the Origin of Massive Black Holes. Physical Review Letters. 88 (10): 101301. arXiv:astro-ph/0111176. Bibcode:2002PhRvL.88j1301B. doi:10.1103/PhysRevLett.88.101301. PMID 11909338. S2CID 20557031.
 .
-^ Pollack, Jason; Spergel, David N.; Steinhardt, Paul J. (2015). "Supermassive Black Holes from Ultra-Strongly Self-Interacting Dark Matter". The Astrophysical Journal. 804 (2): 131. arXiv:1501.00017. Bibcode:2015ApJ.804.131P. doi:10.1088/0004-637X/804/2/131. S2CID 15916893.
+^ Pollack, Jason; Spergel, David N.; Steinhardt, Paul J. (2015). Supermassive Black Holes from Ultra-Strongly Self-Interacting Dark Matter. The Astrophysical Journal. 804 (2): 131. arXiv:1501.00017. Bibcode:2015ApJ.804.131P. doi:10.1088/0004-637X/804/2/131. S2CID 15916893.
 .
-^ Feng, W.-X.; Yu, H.-B.; Zhong, Y.-M. (2021). "Seeding Supermassive Black Holes with Self-interacting Dark Matter: A Unified Scenario with Baryons". The Astrophysical Journal Letters. 914 (2): L26. arXiv:2010.15132. Bibcode:2021ApJ.914L.26F. doi:10.3847/2041-8213/ac04b0. S2CID 225103030.
+^ Feng, W.-X.; Yu, H.-B.; Zhong, Y.-M. (2021). Seeding Supermassive Black Holes with Self-interacting Dark Matter: A Unified Scenario with Baryons. The Astrophysical Journal Letters. 914 (2): L26. arXiv:2010.15132. Bibcode:2021ApJ.914L.26F. doi:10.3847/2041-8213/ac04b0. S2CID 225103030.
 .
-^ Seidel, Jamie (December 7, 2017). "Black hole at the dawn of time challenges our understanding of how the universe was formed". News Corp Australia. Retrieved December 9, 2017. It had reached its size just 690 million years after the point beyond which there is nothing. The most dominant scientific theory of recent years describes that point as the Big Bang—a spontaneous eruption of reality as we know it out of a quantum singularity. But another idea has recently been gaining weight: that the universe goes through periodic expansions and contractions—resulting in a Big Bounce. And the existence of early black holes has been predicted to be a key telltale as to whether or not the idea may be valid. This one is very big. To get to its size—800 million times more mass than our Sun—it must have swallowed a lot of stuff. . As far as we understand it, the universe simply wasnt old enough at that time to generate such a monster.
+^ Seidel, Jamie (December 7, 2017). Black hole at the dawn of time challenges our understanding of how the universe was formed. News Corp Australia. Retrieved December 9, 2017. It had reached its size just 690 million years after the point beyond which there is nothing. The most dominant scientific theory of recent years describes that point as the Big Bang—a spontaneous eruption of reality as we know it out of a quantum singularity. But another idea has recently been gaining weight: that the universe goes through periodic expansions and contractions—resulting in a Big Bounce. And the existence of early black holes has been predicted to be a key telltale as to whether or not the idea may be valid. This one is very big. To get to its size—800 million times more mass than our Sun—it must have swallowed a lot of stuff. . As far as we understand it, the universe simply wasnt old enough at that time to generate such a monster.
 .
-^ "A Black Hole that is more ancient than the Universe" (in Greek). You Magazine (Greece). December 8, 2017. Retrieved December 9, 2017. This new theory that accepts that the Universe is going through periodic expansions and contractions is called Big Bounce.
+^ A Black Hole that is more ancient than the Universe (in Greek). You Magazine (Greece). December 8, 2017. Retrieved December 9, 2017. This new theory that accepts that the Universe is going through periodic expansions and contractions is called Big Bounce.
 .
 ^ Spitzer, L. (1987). Dynamical Evolution of Globular Clusters. Princeton University Press. ISBN 978-0-691-08309-4.
 .
-^ Boekholt, T. C. N.; Schleicher, D. R. G.; Fellhauer, M.; Klessen, R. S.; Reinoso, B.; Stutz, A. M.; Haemmerlé, L. (May 1, 2018). "Formation of massive seed black holes via collisions and accretion". Monthly Notices of the Royal Astronomical Society. 476 (1): 366–380. arXiv:1801.05841. Bibcode:2018MNRAS.476.366B. doi:10.1093/mnras/sty208. S2CID 55411455.
+^ Boekholt, T. C. N.; Schleicher, D. R. G.; Fellhauer, M.; Klessen, R. S.; Reinoso, B.; Stutz, A. M.; Haemmerlé, L. (May 1, 2018). Formation of massive seed black holes via collisions and accretion. Monthly Notices of the Royal Astronomical Society. 476 (1): 366–380. arXiv:1801.05841. Bibcode:2018MNRAS.476.366B. doi:10.1093/mnras/sty208. S2CID 55411455.
 .
-^ Saplakoglu, Yasemin (September 29, 2017). "Zeroing In on How Supermassive Black Holes Formed". Scientific American. Retrieved April 8, 2019.
+^ Saplakoglu, Yasemin (September 29, 2017). Zeroing In on How Supermassive Black Holes Formed. Scientific American. Retrieved April 8, 2019.
 .
-^ Johnson-Goh, Mara (November 20, 2017). "Cooking up supermassive black holes in the early universe". Astronomy. Retrieved April 8, 2019.
+^ Johnson-Goh, Mara (November 20, 2017). Cooking up supermassive black holes in the early universe. Astronomy. Retrieved April 8, 2019.
 .
-^ Pasachoff, Jay M. (2018). "Supermassive star". Access Science. doi:10.1036/1097-8542.669400.
+^ Pasachoff, Jay M. (2018). Supermassive star. Access Science. doi:10.1036/1097-8542.669400.
 .
-^ Yue, Bin; Ferrara, Andrea; Salvaterra, Ruben; Xu, Yidong; Chen, Xuelei (May 1, 2014). "The brief era of direct collapse black hole formation". Monthly Notices of the Royal Astronomical Society. 440 (2): 1263–1273. arXiv:1402.5675. Bibcode:2014MNRAS.440.1263Y. doi:10.1093/mnras/stu351. S2CID 119275449.
+^ Yue, Bin; Ferrara, Andrea; Salvaterra, Ruben; Xu, Yidong; Chen, Xuelei (May 1, 2014). The brief era of direct collapse black hole formation. Monthly Notices of the Royal Astronomical Society. 440 (2): 1263–1273. arXiv:1402.5675. Bibcode:2014MNRAS.440.1263Y. doi:10.1093/mnras/stu351. S2CID 119275449.
 .
-^ Sugimura, Kazuyuki; Omukai, Kazuyuki; Inoue, Akio K. (November 1, 2014). "The critical radiation intensity for direct collapse black hole formation: dependence on the radiation spectral shape". Monthly Notices of the Royal Astronomical Society. 445 (1): 544–553. arXiv:1407.4039. Bibcode:2014MNRAS.445.544S. doi:10.1093/mnras/stu1778. S2CID 119257740.
+^ Sugimura, Kazuyuki; Omukai, Kazuyuki; Inoue, Akio K. (November 1, 2014). The critical radiation intensity for direct collapse black hole formation: dependence on the radiation spectral shape. Monthly Notices of the Royal Astronomical Society. 445 (1): 544–553. arXiv:1407.4039. Bibcode:2014MNRAS.445.544S. doi:10.1093/mnras/stu1778. S2CID 119257740.
 .
-^ Bromm, Volker; Loeb, Abraham (October 1, 2003). "Formation of the First Supermassive Black Holes". The Astrophysical Journal. 596 (1): 34–46. arXiv:astro-ph/0212400. Bibcode:2003ApJ.596.34B. doi:10.1086/377529. S2CID 14419385.
+^ Bromm, Volker; Loeb, Abraham (October 1, 2003). Formation of the First Supermassive Black Holes. The Astrophysical Journal. 596 (1): 34–46. arXiv:astro-ph/0212400. Bibcode:2003ApJ.596.34B. doi:10.1086/377529. S2CID 14419385.
 .
-^ Siegel, Ethan. "Direct Collapse Black Holes May Explain Our Universes Mysterious Quasars". Forbes. Retrieved August 28, 2020.
+^ Siegel, Ethan. Direct Collapse Black Holes May Explain Our Universes Mysterious Quasars. Forbes. Retrieved August 28, 2020.
 .
-^ Montero, Pedro J.; Janka, Hans-Thomas; Müller, Ewald (April 1, 2012). "Relativistic Collapse and Explosion of Rotating Supermassive Stars with Thermonuclear Effects". The Astrophysical Journal. 749 (1): 37. arXiv:1108.3090. Bibcode:2012ApJ.749.37M. doi:10.1088/0004-637X/749/1/37. S2CID 119098587.
+^ Montero, Pedro J.; Janka, Hans-Thomas; Müller, Ewald (April 1, 2012). Relativistic Collapse and Explosion of Rotating Supermassive Stars with Thermonuclear Effects. The Astrophysical Journal. 749 (1): 37. arXiv:1108.3090. Bibcode:2012ApJ.749.37M. doi:10.1088/0004-637X/749/1/37. S2CID 119098587.
 .
-^ Habouzit, Mélanie; Volonteri, Marta; Latif, Muhammad; Dubois, Yohan; Peirani, Sébastien (November 1, 2016). "On the number density of direct collapse black hole seeds". Monthly Notices of the Royal Astronomical Society. 463 (1): 529–540. arXiv:1601.00557. Bibcode:2016MNRAS.463.529H. doi:10.1093/mnras/stw1924. S2CID 118409029.
+^ Habouzit, Mélanie; Volonteri, Marta; Latif, Muhammad; Dubois, Yohan; Peirani, Sébastien (November 1, 2016). On the number density of direct collapse black hole seeds. Monthly Notices of the Royal Astronomical Society. 463 (1): 529–540. arXiv:1601.00557. Bibcode:2016MNRAS.463.529H. doi:10.1093/mnras/stw1924. S2CID 118409029.
 .
-^ "Revealing the origin of the first supermassive black holes". Nature. July 6, 2022. doi:10.1038/d41586-022-01560-y. PMID 35794378. State-of-the-art computer simulations show that the first supermassive black holes were born in rare, turbulent reservoirs of gas in the primordial Universe without the need for finely tuned, exotic environments — contrary to what has been thought for almost two decades.
+^ Revealing the origin of the first supermassive black holes. Nature. July 6, 2022. doi:10.1038/d41586-022-01560-y. PMID 35794378. State-of-the-art computer simulations show that the first supermassive black holes were born in rare, turbulent reservoirs of gas in the primordial Universe without the need for finely tuned, exotic environments — contrary to what has been thought for almost two decades.
 .
-^ "Scientists discover how first quasars in universe formed". phys.org. Provided by University of Portsmouth. July 6, 2022. Retrieved August 2, 2022.
+^ Scientists discover how first quasars in universe formed. phys.org. Provided by University of Portsmouth. July 6, 2022. Retrieved August 2, 2022.
 .
-^ "Biggest Black Hole Blast Discovered". ESO Press Release. Retrieved November 28, 2012.
+^ Biggest Black Hole Blast Discovered. ESO Press Release. Retrieved November 28, 2012.
 .
-^ "Artists illustration of galaxy with jets from a supermassive black hole". Hubble Space Telescope. Retrieved November 27, 2018.
+^ Artists illustration of galaxy with jets from a supermassive black hole. Hubble Space Telescope. Retrieved November 27, 2018.
 .
-^ "Stars Born in Winds from Supermassive Black Holes – ESOs VLT spots brand-new type of star formation". www.eso.org. Retrieved March 27, 2017.
+^ Stars Born in Winds from Supermassive Black Holes – ESOs VLT spots brand-new type of star formation. www.eso.org. Retrieved March 27, 2017.
 .
-^ Trosper, Jaime (May 5, 2014). "Is There a Limit to How Large Black Holes Can Become?". futurism.com. Retrieved November 27, 2018.
+^ Trosper, Jaime (May 5, 2014). Is There a Limit to How Large Black Holes Can Become?. futurism.com. Retrieved November 27, 2018.
 .
-^ Clery, Daniel (December 21, 2015). "Limit to how big black holes can grow is astonishing". sciencemag.org. Retrieved November 27, 2018.
+^ Clery, Daniel (December 21, 2015). Limit to how big black holes can grow is astonishing. sciencemag.org. Retrieved November 27, 2018.
 .
-^ "Black holes could grow as large as 50 billion suns before their food crumbles into stars, research shows". University of Leicester. Retrieved November 27, 2018.
+^ Black holes could grow as large as 50 billion suns before their food crumbles into stars, research shows. University of Leicester. Retrieved November 27, 2018.
 .
-^ a b Carr, Bernard;  et al. (February 2021). "Constraints on Stupendously Large Black Holes". Monthly Notices of the Royal Astronomical Society. 501 (2): 2029–2043. arXiv:2008.08077. Bibcode:2021MNRAS.501.2029C. doi:10.1093/mnras/staa3651.
+^ a b Carr, Bernard;  et al. (February 2021). Constraints on Stupendously Large Black Holes. Monthly Notices of the Royal Astronomical Society. 501 (2): 2029–2043. arXiv:2008.08077. Bibcode:2021MNRAS.501.2029C. doi:10.1093/mnras/staa3651.
 .
-^ Kovács, Zoltán; Gergely, Lászlóá.; Biermann, Peter L. (2011). "Maximal spin and energy conversion efficiency in a symbiotic system of black hole, disc and jet". Monthly Notices of the Royal Astronomical Society. 416 (2): 991–1009. arXiv:1007.4279. Bibcode:2011MNRAS.416.991K. doi:10.1111/j.1365-2966.2011.19099.x. S2CID 119255235.
+^ Kovács, Zoltán; Gergely, Lászlóá.; Biermann, Peter L. (2011). Maximal spin and energy conversion efficiency in a symbiotic system of black hole, disc and jet. Monthly Notices of the Royal Astronomical Society. 416 (2): 991–1009. arXiv:1007.4279. Bibcode:2011MNRAS.416.991K. doi:10.1111/j.1365-2966.2011.19099.x. S2CID 119255235.
 .
-^ Savorgnan, Giulia A.D.; Graham, Alister W.; Marconi, Alessandro; Sani, Eleonora (2016). "Supermassive Black Holes and Their Host Spheroids. II. The Red and Blue Sequence in the MBH-M*,sph Diagram". Astrophysical Journal. 817 (1): 21. arXiv:1511.07437. Bibcode:2016ApJ.817.21S. doi:10.3847/0004-637X/817/1/21. S2CID 55698824.
+^ Savorgnan, Giulia A.D.; Graham, Alister W.; Marconi, Alessandro; Sani, Eleonora (2016). Supermassive Black Holes and Their Host Spheroids. II. The Red and Blue Sequence in the MBH-M*,sph Diagram. Astrophysical Journal. 817 (1): 21. arXiv:1511.07437. Bibcode:2016ApJ.817.21S. doi:10.3847/0004-637X/817/1/21. S2CID 55698824.
 .
-^ Sahu, Nandini; Graham, Alister W.; Davis, Benjamin L. (2019). "Black Hole Mass Scaling Relations for Early-type Galaxies. I. MBH-M*,sph and MBH-M*,gal". Astrophysical Journal. 876 (2): 155. arXiv:1903.04738. Bibcode:2019ApJ.876.155S. doi:10.3847/1538-4357/ab0f32. S2CID 209877088.
+^ Sahu, Nandini; Graham, Alister W.; Davis, Benjamin L. (2019). Black Hole Mass Scaling Relations for Early-type Galaxies. I. MBH-M*,sph and MBH-M*,gal. Astrophysical Journal. 876 (2): 155. arXiv:1903.04738. Bibcode:2019ApJ.876.155S. doi:10.3847/1538-4357/ab0f32. S2CID 209877088.
 .
-^ Gultekin K;  et al. (2009). "The M—σ and M-L Relations in Galactic Bulges, and Determinations of Their Intrinsic Scatter". The Astrophysical Journal. 698 (1): 198–221. arXiv:0903.4897. Bibcode:2009ApJ.698.198G. doi:10.1088/0004-637X/698/1/198. S2CID 18610229.
+^ Gultekin K;  et al. (2009). The M—σ and M-L Relations in Galactic Bulges, and Determinations of Their Intrinsic Scatter. The Astrophysical Journal. 698 (1): 198–221. arXiv:0903.4897. Bibcode:2009ApJ.698.198G. doi:10.1088/0004-637X/698/1/198. S2CID 18610229.
 .
-^ Netzer, Hagai (August 2015). "Revisiting the Unified Model of Active Galactic Nuclei". Annual Review of Astronomy and Astrophysics. 53: 365–408. arXiv:1505.00811. Bibcode:2015ARA&A.53.365N. doi:10.1146/annurev-astro-082214-122302. S2CID 119181735.
+^ Netzer, Hagai (August 2015). Revisiting the Unified Model of Active Galactic Nuclei. Annual Review of Astronomy and Astrophysics. 53: 365–408. arXiv:1505.00811. Bibcode:2015ARA&A.53.365N. doi:10.1146/annurev-astro-082214-122302. S2CID 119181735.
 .
-^ Tremmel, M.;  et al. (April 2018). "Dancing to CHANGA: a self-consistent prediction for close SMBH pair formation time-scales following galaxy mergers". Monthly Notices of the Royal Astronomical Society. 475 (4): 4967–4977. arXiv:1708.07126. Bibcode:2018MNRAS.475.4967T. doi:10.1093/mnras/sty139.
+^ Tremmel, M.;  et al. (April 2018). Dancing to CHANGA: a self-consistent prediction for close SMBH pair formation time-scales following galaxy mergers. Monthly Notices of the Royal Astronomical Society. 475 (4): 4967–4977. arXiv:1708.07126. Bibcode:2018MNRAS.475.4967T. doi:10.1093/mnras/sty139.
 .
-^ Komossa, S. (2012). "Recoiling Black Holes: Electromagnetic Signatures, Candidates, and Astrophysical Implications". Advances in Astronomy. 2012: 364973. arXiv:1202.1977. Bibcode:2012AdAst2012E.14K. doi:10.1155/2012/364973. 364973.
+^ Komossa, S. (2012). Recoiling Black Holes: Electromagnetic Signatures, Candidates, and Astrophysical Implications. Advances in Astronomy. 2012: 364973. arXiv:1202.1977. Bibcode:2012AdAst2012E.14K. doi:10.1155/2012/364973. 364973.
 .
-^ Page, Don N. (1976). "Particle emission rates from a black hole: Massless particles from an uncharged, nonrotating hole". Physical Review D. 13 (2): 198–206. Bibcode:1976PhRvD.13.198P. doi:10.1103/PhysRevD.13.198. See in particular equation (27).
+^ Page, Don N. (1976). Particle emission rates from a black hole: Massless particles from an uncharged, nonrotating hole. Physical Review D. 13 (2): 198–206. Bibcode:1976PhRvD.13.198P. doi:10.1103/PhysRevD.13.198. See in particular equation (27).
 .
-^ Frautschi, S (1982). "Entropy in an expanding universe". Science. 217 (4560): 593–599. Bibcode:1982Sci.217.593F. doi:10.1126/science.217.4560.593. PMID 17817517. S2CID 27717447. p. 596: table 1 and section "black hole decay" and previous sentence on that page: "Since we have assumed a maximum scale of gravitational binding – for instance, superclusters of galaxies – black hole formation eventually comes to an end in our model, with masses of up to 1014 M☉ . the timescale for black holes to radiate away all their energy ranges . to 10106 years for black holes of up to 1014 M☉.
+^ Frautschi, S (1982). Entropy in an expanding universe. Science. 217 (4560): 593–599. Bibcode:1982Sci.217.593F. doi:10.1126/science.217.4560.593. PMID 17817517. S2CID 27717447. p. 596: table 1 and section black hole decay and previous sentence on that page: Since we have assumed a maximum scale of gravitational binding – for instance, superclusters of galaxies – black hole formation eventually comes to an end in our model, with masses of up to 1014 M☉ . the timescale for black holes to radiate away all their energy ranges . to 10106 years for black holes of up to 1014 M☉.
 .
-^ a b Straub, O.; Vincent, F. H.; Abramowicz, M. A.; Gourgoulhon, E.; Paumard, T. (2012). "Modelling the black hole silhouette in Sgr A* with ion tori". Astronomy & Astrophysics. 543: A83. doi:10.1051/0004-6361/201219209.
+^ a b Straub, O.; Vincent, F. H.; Abramowicz, M. A.; Gourgoulhon, E.; Paumard, T. (2012). Modelling the black hole silhouette in Sgr A* with ion tori. Astronomy & Astrophysics. 543: A83. doi:10.1051/0004-6361/201219209.
 .
-^ Eisenhauer, F.;  et al. (2005). "SINFONI in the Galactic Center: Young Stars and Infrared Flares in the Central Light-Month". The Astrophysical Journal. 628 (1): 246–259. arXiv:astro-ph/0502129. Bibcode:2005ApJ.628.246E. doi:10.1086/430667. S2CID 122485461.
+^ Eisenhauer, F.;  et al. (2005). SINFONI in the Galactic Center: Young Stars and Infrared Flares in the Central Light-Month. The Astrophysical Journal. 628 (1): 246–259. arXiv:astro-ph/0502129. Bibcode:2005ApJ.628.246E. doi:10.1086/430667. S2CID 122485461.
 .
-^ Henderson, Mark (December 9, 2008). "Astronomers confirm black hole at the heart of the Milky Way". The Times. London. Retrieved May 17, 2009.
+^ Henderson, Mark (December 9, 2008). Astronomers confirm black hole at the heart of the Milky Way. The Times. London. Retrieved May 17, 2009.
 .
-^ Schödel, R.;  et al. (October 17, 2002). "A star in a 15.2-year orbit around the supermassive black hole at the centre of the Milky Way". Nature. 419 (6908): 694–696. arXiv:astro-ph/0210426. Bibcode:2002Natur.419.694S. doi:10.1038/nature01121. PMID 12384690. S2CID 4302128.
+^ Schödel, R.;  et al. (October 17, 2002). A star in a 15.2-year orbit around the supermassive black hole at the centre of the Milky Way. Nature. 419 (6908): 694–696. arXiv:astro-ph/0210426. Bibcode:2002Natur.419.694S. doi:10.1038/nature01121. PMID 12384690. S2CID 4302128.
 .
-^ Event Horizon Telescope Collaboration;  et al. (2022). "First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way". The Astrophysical Journal Letters. 930 (2): L12. Bibcode:2022ApJ.930L.12E. doi:10.3847/2041-8213/ac6674. S2CID 248744791.
+^ Event Horizon Telescope Collaboration;  et al. (2022). First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way. The Astrophysical Journal Letters. 930 (2): L12. Bibcode:2022ApJ.930L.12E. doi:10.3847/2041-8213/ac6674. S2CID 248744791.
 .
-^ a b Ghez, A. M.; Salim, S.; Hornstein, S. D.; Tanner, A.; Lu, J. R.; Morris, M.; Becklin, E. E.; Duchêne, G. (May 2005). "Stellar Orbits around the Galactic Center Black Hole". The Astrophysical Journal. 620 (2): 744–757. arXiv:astro-ph/0306130. Bibcode:2005ApJ.620.744G. doi:10.1086/427175. S2CID 8656531.
+^ a b Ghez, A. M.; Salim, S.; Hornstein, S. D.; Tanner, A.; Lu, J. R.; Morris, M.; Becklin, E. E.; Duchêne, G. (May 2005). Stellar Orbits around the Galactic Center Black Hole. The Astrophysical Journal. 620 (2): 744–757. arXiv:astro-ph/0306130. Bibcode:2005ApJ.620.744G. doi:10.1086/427175. S2CID 8656531.
 .
-^ Gravity Collaboration;  et al. (October 2018). "Detection of orbital motions near the last stable circular orbit of the massive black hole SgrA*". Astronomy & Astrophysics. 618: 15. arXiv:1810.12641. Bibcode:2018A&A.618L.10G. doi:10.1051/0004-6361/201834294. S2CID 53613305. L10.
+^ Gravity Collaboration;  et al. (October 2018). Detection of orbital motions near the last stable circular orbit of the massive black hole SgrA*. Astronomy & Astrophysics. 618: 15. arXiv:1810.12641. Bibcode:2018A&A.618L.10G. doi:10.1051/0004-6361/201834294. S2CID 53613305. L10.
 .
-^ a b Chou, Felicia; Anderson, Janet; Watzke, Megan (January 5, 2015). "Release 15-001 – NASAs Chandra Detects Record-Breaking Outburst from Milky Ways Black Hole". NASA. Retrieved January 6, 2015.
+^ a b Chou, Felicia; Anderson, Janet; Watzke, Megan (January 5, 2015). Release 15-001 – NASAs Chandra Detects Record-Breaking Outburst from Milky Ways Black Hole. NASA. Retrieved January 6, 2015.
 .
-^ "Chandra :: Photo Album :: RX J1242-11 :: 18 Feb 04". chandra.harvard.edu.
+^ Chandra :: Photo Album :: RX J1242-11 :: 18 Feb 04. chandra.harvard.edu.
 .
 ^ a b Merritt, David (2013). Dynamics and Evolution of Galactic Nuclei. Princeton, New Jersey: Princeton University Press. p. 23. ISBN 9780691158600.
 .
-^ a b King, Andrew (September 15, 2003). "Black Holes, Galaxy Formation, and the MBH-σ Relation". The Astrophysical Journal Letters. 596 (1): L27–L29. arXiv:astro-ph/0308342. Bibcode:2003ApJ.596L.27K. doi:10.1086/379143. S2CID 9507887.
+^ a b King, Andrew (September 15, 2003). Black Holes, Galaxy Formation, and the MBH-σ Relation. The Astrophysical Journal Letters. 596 (1): L27–L29. arXiv:astro-ph/0308342. Bibcode:2003ApJ.596L.27K. doi:10.1086/379143. S2CID 9507887.
 .
-^ Ferrarese, Laura; Merritt, David (August 10, 2000). "A Fundamental Relation between Supermassive Black Holes and Their Host Galaxies". The Astrophysical Journal. 539 (1): L9–12. arXiv:astro-ph/0006053. Bibcode:2000ApJ.539L.9F. doi:10.1086/312838. S2CID 6508110.
+^ Ferrarese, Laura; Merritt, David (August 10, 2000). A Fundamental Relation between Supermassive Black Holes and Their Host Galaxies. The Astrophysical Journal. 539 (1): L9–12. arXiv:astro-ph/0006053. Bibcode:2000ApJ.539L.9F. doi:10.1086/312838. S2CID 6508110.
 .
-^ "Astronomers catch first glimpse of star being consumed by black hole". The Sydney Morning Herald. August 26, 2011.
+^ Astronomers catch first glimpse of star being consumed by black hole. The Sydney Morning Herald. August 26, 2011.
 .
-^ Burrows, D. N.; Kennea, J. A.; Ghisellini, G.; Mangano, V.;  et al. (August 2011). "Relativistic jet activity from the tidal disruption of a star by a massive black hole". Nature. 476 (7361): 421–424. arXiv:1104.4787. Bibcode:2011Natur.476.421B. doi:10.1038/nature10374. PMID 21866154. S2CID 4369797.
+^ Burrows, D. N.; Kennea, J. A.; Ghisellini, G.; Mangano, V.;  et al. (August 2011). Relativistic jet activity from the tidal disruption of a star by a massive black hole. Nature. 476 (7361): 421–424. arXiv:1104.4787. Bibcode:2011Natur.476.421B. doi:10.1038/nature10374. PMID 21866154. S2CID 4369797.
 .
-^ Zauderer, B. A.; Berger, E.; Soderberg, A. M.; Loeb, A.;  et al. (August 2011). "Birth of a relativistic outflow in the unusual γ-ray transient Swift J164449.3+573451". Nature. 476 (7361): 425–428. arXiv:1106.3568. Bibcode:2011Natur.476.425Z. doi:10.1038/nature10366. PMID 21866155. S2CID 205226085.
+^ Zauderer, B. A.; Berger, E.; Soderberg, A. M.; Loeb, A.;  et al. (August 2011). Birth of a relativistic outflow in the unusual γ-ray transient Swift J164449.3+573451. Nature. 476 (7361): 425–428. arXiv:1106.3568. Bibcode:2011Natur.476.425Z. doi:10.1038/nature10366. PMID 21866155. S2CID 205226085.
 .
-^ Al-Baidhany, Ismaeel A.; Chiad, Sami S.; Jabbar, Wasmaa A.; Al-Kadumi, Ahmed K.; Habubi, Nadir F.; Mansour, Hazim L. (2020). "Determine the mass of supermassive black hole in the centre of M31 in different methods". International Conference of Numerical Analysis and Applied Mathematics Icnaam 2019. Vol. 2293. p. 050050. doi:10.1063/5.0027838. S2CID 230970967.
+^ Al-Baidhany, Ismaeel A.; Chiad, Sami S.; Jabbar, Wasmaa A.; Al-Kadumi, Ahmed K.; Habubi, Nadir F.; Mansour, Hazim L. (2020). Determine the mass of supermassive black hole in the centre of M31 in different methods. International Conference of Numerical Analysis and Applied Mathematics Icnaam 2019. Vol. 2293. p. 050050. doi:10.1063/5.0027838. S2CID 230970967.
 .
-^ The Event Horizon Telescope Collaboration (April 10, 2019). "First M87 Event Horizon Telescope results. VI. The shadow and mass of the central black hole" (PDF). The Astrophysical Journal. 875 (1): L6. arXiv:1906.11243. Bibcode:2019ApJ.875L.6E. doi:10.3847/2041-8213/ab1141. S2CID 145969867.
+^ The Event Horizon Telescope Collaboration (April 10, 2019). First M87 Event Horizon Telescope results. VI. The shadow and mass of the central black hole (PDF). The Astrophysical Journal. 875 (1): L6. arXiv:1906.11243. Bibcode:2019ApJ.875L.6E. doi:10.3847/2041-8213/ab1141. S2CID 145969867.
 .
-^ Dullo, B.T. (November 22, 2019). "The Most Massive Galaxies with Large Depleted Cores: Structural Parameter Relations and Black Hole Masses". The Astrophysical Journal. 886 (2): 80. arXiv:1910.10240. Bibcode:2019ApJ.886.80D. doi:10.3847/1538-4357/ab4d4f. S2CID 204838306.
+^ Dullo, B.T. (November 22, 2019). The Most Massive Galaxies with Large Depleted Cores: Structural Parameter Relations and Black Hole Masses. The Astrophysical Journal. 886 (2): 80. arXiv:1910.10240. Bibcode:2019ApJ.886.80D. doi:10.3847/1538-4357/ab4d4f. S2CID 204838306.
 .
-^ Shemmer, O.; Netzer, H.; Maiolino, R.; Oliva, E.; Croom, S.; Corbett, E.; di Fabrizio, L. (2004). "Near-Infrared Spectroscopy of High-Redshift Active Galactic Nuclei. I. A Metallicity-Accretion Rate Relationship". The Astrophysical Journal. 614 (2): 547–557. arXiv:astro-ph/0406559. Bibcode:2004ApJ.614.547S. doi:10.1086/423607. S2CID 119010341.
+^ Shemmer, O.; Netzer, H.; Maiolino, R.; Oliva, E.; Croom, S.; Corbett, E.; di Fabrizio, L. (2004). Near-Infrared Spectroscopy of High-Redshift Active Galactic Nuclei. I. A Metallicity-Accretion Rate Relationship. The Astrophysical Journal. 614 (2): 547–557. arXiv:astro-ph/0406559. Bibcode:2004ApJ.614.547S. doi:10.1086/423607. S2CID 119010341.
 .
-^ Saturni, F. G.; Trevese, D.; Vagnetti, F.; Perna, M.; Dadina, M. (2016). "A multi-epoch spectroscopic study of the BAL quasar APM 08279+5255. II. Emission- and absorption-line variability time lags". Astronomy and Astrophysics. 587: A43. arXiv:1512.03195. Bibcode:2016A&A.587A.43S. doi:10.1051/0004-6361/201527152. S2CID 118548618.
+^ Saturni, F. G.; Trevese, D.; Vagnetti, F.; Perna, M.; Dadina, M. (2016). A multi-epoch spectroscopic study of the BAL quasar APM 08279+5255. II. Emission- and absorption-line variability time lags. Astronomy and Astrophysics. 587: A43. arXiv:1512.03195. Bibcode:2016A&A.587A.43S. doi:10.1051/0004-6361/201527152. S2CID 118548618.
 .
-^ Christopher A Onken; Fuyan Bian; Xiaohui Fan; Feige Wang; Christian Wolf; Jinyi Yang (August 2020), "thirty-four billion solar mass black hole in SMSS J2157–3602, the most luminous known quasar", Monthly Notices of the Royal Astronomical Society, 496 (2): 2309, arXiv:2005.06868, Bibcode:2020MNRAS.496.2309O, doi:10.1093/mnras/staa1635.
+^ Christopher A Onken; Fuyan Bian; Xiaohui Fan; Feige Wang; Christian Wolf; Jinyi Yang (August 2020), thirty-four billion solar mass black hole in SMSS J2157–3602, the most luminous known quasar, Monthly Notices of the Royal Astronomical Society, 496 (2): 2309, arXiv:2005.06868, Bibcode:2020MNRAS.496.2309O, doi:10.1093/mnras/staa1635.
 .
-^ Major, Jason (October 3, 2012). "Watch what happens when two supermassive black holes collide". Universe today. Retrieved June 4, 2013.
+^ Major, Jason (October 3, 2012). Watch what happens when two supermassive black holes collide. Universe today. Retrieved June 4, 2013.
 .
-^ Merritt, D.; Milosavljevic, M. (2005). "Massive Black Hole Binary Evolution". Archived from the original on March 30, 2012. Retrieved March 3, 2012.
+^ Merritt, D.; Milosavljevic, M. (2005). Massive Black Hole Binary Evolution. Archived from the original on March 30, 2012. Retrieved March 3, 2012.
 .
-^ Shiga, David (January 10, 2008). "Biggest black hole in the cosmos discovered". New Scientist.
+^ Shiga, David (January 10, 2008). Biggest black hole in the cosmos discovered. New Scientist.
 .
-^ Valtonen, M. J.; Ciprini, S.; Lehto, H. J. (2012). "On the masses of OJ287 black holes". Monthly Notices of the Royal Astronomical Society. 427 (1): 77–83. arXiv:1208.0906. Bibcode:2012MNRAS.427.77V. doi:10.1111/j.1365-2966.2012.21861.x. S2CID 118483466.
+^ Valtonen, M. J.; Ciprini, S.; Lehto, H. J. (2012). On the masses of OJ287 black holes. Monthly Notices of the Royal Astronomical Society. 427 (1): 77–83. arXiv:1208.0906. Bibcode:2012MNRAS.427.77V. doi:10.1111/j.1365-2966.2012.21861.x. S2CID 118483466.
 .
-^ Kaufman, Rachel (January 10, 2011). "Huge Black Hole Found in Dwarf Galaxy". National Geographic. Retrieved June 1, 2011.
+^ Kaufman, Rachel (January 10, 2011). Huge Black Hole Found in Dwarf Galaxy. National Geographic. Retrieved June 1, 2011.
 .
-^ van den Bosch, Remco C. E.; Gebhardt, Karl; Gültekin, Kayhan; van de Ven, Glenn; van der Wel, Arjen; Walsh, Jonelle L. (2012). "An over-massive black hole in the compact lenticular galaxy NGC 1277". Nature. 491 (7426): 729–731. arXiv:1211.6429. Bibcode:2012Natur.491.729V. doi:10.1038/nature11592. PMID 23192149. S2CID 205231230.
+^ van den Bosch, Remco C. E.; Gebhardt, Karl; Gültekin, Kayhan; van de Ven, Glenn; van der Wel, Arjen; Walsh, Jonelle L. (2012). An over-massive black hole in the compact lenticular galaxy NGC 1277. Nature. 491 (7426): 729–731. arXiv:1211.6429. Bibcode:2012Natur.491.729V. doi:10.1038/nature11592. PMID 23192149. S2CID 205231230.
 .
-^ Emsellem, Eric (2013). "Is the black hole in NGC 1277 really overmassive?". Monthly Notices of the Royal Astronomical Society. 433 (3): 1862–1870. arXiv:1305.3630. Bibcode:2013MNRAS.433.1862E. doi:10.1093/mnras/stt840. S2CID 54011632.
+^ Emsellem, Eric (2013). Is the black hole in NGC 1277 really overmassive?. Monthly Notices of the Royal Astronomical Society. 433 (3): 1862–1870. arXiv:1305.3630. Bibcode:2013MNRAS.433.1862E. doi:10.1093/mnras/stt840. S2CID 54011632.
 .
-^ Reynolds, Christopher (2013). "Astrophysics: Black holes in a spin". Nature. 494 (7438): 432–433. Bibcode:2013Natur.494.432R. doi:10.1038/494432a. PMID 23446411. S2CID 205076505.
+^ Reynolds, Christopher (2013). Astrophysics: Black holes in a spin. Nature. 494 (7438): 432–433. Bibcode:2013Natur.494.432R. doi:10.1038/494432a. PMID 23446411. S2CID 205076505.
 .
-^ Prostak, Sergio (February 28, 2013). "Astronomers: Supermassive Black Hole in NGC 1365 Spins at Nearly Light-Speed". Sci-News.com. Retrieved March 20, 2015.
+^ Prostak, Sergio (February 28, 2013). Astronomers: Supermassive Black Hole in NGC 1365 Spins at Nearly Light-Speed. Sci-News.com. Retrieved March 20, 2015.
 .
-^ Gültekin, Kayhan; Burke-Spolaor, Sarah; Lauer, Tod R.; w. Lazio, T. Joseph; Moustakas, Leonidas A.; Ogle, Patrick; Postman, Marc (2021). "Chandra Observations of Abell 2261 Brightest Cluster Galaxy, a Candidate Host to a Recoiling Black Hole". The Astrophysical Journal. 906 (1): 48. arXiv:2010.13980. Bibcode:2021ApJ.906.48G. doi:10.3847/1538-4357/abc483. S2CID 225075966.
+^ Gültekin, Kayhan; Burke-Spolaor, Sarah; Lauer, Tod R.; w. Lazio, T. Joseph; Moustakas, Leonidas A.; Ogle, Patrick; Postman, Marc (2021). Chandra Observations of Abell 2261 Brightest Cluster Galaxy, a Candidate Host to a Recoiling Black Hole. The Astrophysical Journal. 906 (1): 48. arXiv:2010.13980. Bibcode:2021ApJ.906.48G. doi:10.3847/1538-4357/abc483. S2CID 225075966.
 .
-^ Bañados, Eduardo;  et al. (December 6, 2017). "An 800-million-solar-mass black hole in a significantly neutral Universe at a redshift of 7.5". Nature. 553 (7689): 473–476. arXiv:1712.01860. Bibcode:2018Natur.553.473B. doi:10.1038/nature25180. PMID 29211709. S2CID 205263326.
+^ Bañados, Eduardo;  et al. (December 6, 2017). An 800-million-solar-mass black hole in a significantly neutral Universe at a redshift of 7.5. Nature. 553 (7689): 473–476. arXiv:1712.01860. Bibcode:2018Natur.553.473B. doi:10.1038/nature25180. PMID 29211709. S2CID 205263326.
 .
-^ Landau, Elizabeth; Bañados, Eduardo (December 6, 2017). "Found: Most Distant Black Hole". NASA. Retrieved December 6, 2017.
+^ Landau, Elizabeth; Bañados, Eduardo (December 6, 2017). Found: Most Distant Black Hole. NASA. Retrieved December 6, 2017.
 .
-^ Choi, Charles Q. (December 6, 2017). "Oldest Monster Black Hole Ever Found Is 800 Million Times More Massive Than the Sun". Space.com. Retrieved December 6, 2017.
+^ Choi, Charles Q. (December 6, 2017). Oldest Monster Black Hole Ever Found Is 800 Million Times More Massive Than the Sun. Space.com. Retrieved December 6, 2017.
 .
-^ a b Overbye, Dennis (March 6, 2020). "This Black Hole Blew a Hole in the Cosmos – The galaxy cluster Ophiuchus was doing just fine until WISEA J171227.81-232210.7 — a black hole several billion times as massive as our sun — burped on it". The New York Times. Retrieved March 6, 2020.
+^ a b Overbye, Dennis (March 6, 2020). This Black Hole Blew a Hole in the Cosmos – The galaxy cluster Ophiuchus was doing just fine until WISEA J171227.81-232210.7 — a black hole several billion times as massive as our sun — burped on it. The New York Times. Retrieved March 6, 2020.
 .
-^ "Biggest cosmic explosion ever detected left huge dent in space". The Guardian. February 27, 2020. Retrieved March 6, 2020.
+^ Biggest cosmic explosion ever detected left huge dent in space. The Guardian. February 27, 2020. Retrieved March 6, 2020.
 .
-^ "Astronomers detect biggest explosion in the history of the Universe". Science Daily. February 27, 2020. Retrieved March 6, 2020.
+^ Astronomers detect biggest explosion in the history of the Universe. Science Daily. February 27, 2020. Retrieved March 6, 2020.
 .
-^ Giacintucci, S.; Markevitch, M.; Johnston-Hollitt, M.; Wik, D. R.; Wang, Q. H. S.; Clarke, T. E. (February 27, 2020). "Discovery of a giant radio fossil in the Ophiuchus galaxy cluster". The Astrophysical Journal. 891 (1): 1. arXiv:2002.01291. Bibcode:2020ApJ.891.1G. doi:10.3847/1538-4357/ab6a9d. ISSN 1538-4357. S2CID 211020555.
+^ Giacintucci, S.; Markevitch, M.; Johnston-Hollitt, M.; Wik, D. R.; Wang, Q. H. S.; Clarke, T. E. (February 27, 2020). Discovery of a giant radio fossil in the Ophiuchus galaxy cluster. The Astrophysical Journal. 891 (1): 1. arXiv:2002.01291. Bibcode:2020ApJ.891.1G. doi:10.3847/1538-4357/ab6a9d. ISSN 1538-4357. S2CID 211020555.
 .
-^ "Biggest cosmic explosion ever detected left huge dent in space". The Guardian. February 27, 2020. Retrieved March 6, 2020.
+^ Biggest cosmic explosion ever detected left huge dent in space. The Guardian. February 27, 2020. Retrieved March 6, 2020.
 .
-^ "Astronomers detect biggest explosion in the history of the Universe". Science Daily. February 27, 2020. Retrieved March 6, 2020.
+^ Astronomers detect biggest explosion in the history of the Universe. Science Daily. February 27, 2020. Retrieved March 6, 2020.
 .
-^ Starr, Michelle (February 22, 2021). "The White Dots in This Image Are Not Stars or Galaxies. Theyre Black Holes". ScienceAlert. Retrieved February 22, 2021.
+^ Starr, Michelle (February 22, 2021). The White Dots in This Image Are Not Stars or Galaxies. Theyre Black Holes. ScienceAlert. Retrieved February 22, 2021.
 .
 .
 Further reading[edit].
 Fulvio Melia (2003). The Edge of Infinity. Supermassive Black Holes in the Universe. Cambridge University Press. ISBN 978-0-521-81405-8.
-Laura Ferrarese & David Merritt (2002). "Supermassive Black Holes". Physics World. 15 (1): 41–46. arXiv:astro-ph/0206222. Bibcode:2002astro.ph.6222F. doi:10.1088/2058-7058/15/6/43. S2CID 5266031.
+Laura Ferrarese & David Merritt (2002). Supermassive Black Holes. Physics World. 15 (1): 41–46. arXiv:astro-ph/0206222. Bibcode:2002astro.ph.6222F. doi:10.1088/2058-7058/15/6/43. S2CID 5266031.
 Merritt, David (2013). Dynamics and Evolution of Galactic Nuclei. Princeton University Press. ISBN 978-0-691-12101-7.
 Julian Krolik (1999). Active Galactic Nuclei. Princeton University Press. ISBN 978-0-691-01151-6.
-Chakraborty, Amlan; Chanda, Prolay K.; Pandey, Kanhaiya Lal; Das, Subinoy (2022). "Formation and Abundance of Late-forming Primordial Black Holes as Dark Matter". The Astrophysical Journal. 932 (2): 119. arXiv:2204.09628. Bibcode:2022ApJ.932.119C. doi:10.3847/1538-4357/ac6ddd. S2CID 248266315.
-Carr, Bernard; Kühnel, Florian (2022). "Primordial black holes as dark matter candidates". SciPost Physics Lecture Notes. arXiv:2110.02821. doi:10.21468/SciPostPhysLectNotes.48. S2CID 238407875.
+Chakraborty, Amlan; Chanda, Prolay K.; Pandey, Kanhaiya Lal; Das, Subinoy (2022). Formation and Abundance of Late-forming Primordial Black Holes as Dark Matter. The Astrophysical Journal. 932 (2): 119. arXiv:2204.09628. Bibcode:2022ApJ.932.119C. doi:10.3847/1538-4357/ac6ddd. S2CID 248266315.
+Carr, Bernard; Kühnel, Florian (2022). Primordial black holes as dark matter candidates. SciPost Physics Lecture Notes. arXiv:2110.02821. doi:10.21468/SciPostPhysLectNotes.48. S2CID 238407875.
 External links[edit].
 Listen to this article (22 minutes).
 This audio file was created from a revision of this article dated 20 March 2017 (2017-03-20), and does not reflect subsequent edits.(Audio help · More spoken articles).
@@ -820,7 +820,7 @@ Images, Animations, and New Results from the UCLA Galactic Center Group.
 Washington Post article on Supermassive black holes.
 Video (2:46) – Simulation of stars orbiting Milky Ways central massive black hole.
 Video (2:13) – Simulation reveals supermassive black holes (NASA, October 2, 2018).
-September 2020, Paul Sutter 29 (September 29, 2020). "Black holes so big we dont know how they form could be hiding in the universe". Space.com. Retrieved February 6, 2021.
+September 2020, Paul Sutter 29 (September 29, 2020). Black holes so big we dont know how they form could be hiding in the universe. Space.com. Retrieved February 6, 2021.
 vteBlack holes.
 Outline.
 Types.
@@ -976,7 +976,7 @@ P172+18.
  Category.
  Commons.
 .
-vteMilky WayLocationMilky Way → Milky Way subgroup → Local Group → Local Sheet → Virgo Supercluster → Laniakea Supercluster → KBC Void → Observable universe → UniverseEach arrow (→) may be read as "within" or "part of".StructureGalactic Center.
+vteMilky WayLocationMilky Way → Milky Way subgroup → Local Group → Local Sheet → Virgo Supercluster → Laniakea Supercluster → KBC Void → Observable universe → UniverseEach arrow (→) may be read as within or part of.StructureGalactic Center.
 Sagittarius A.
 Sagittarius A*.
 Fermi bubbles.
@@ -1054,7 +1054,7 @@ Portals: Physics Stars Outer space Science.
 .
 .
 .
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Supermassive_black_hole&oldid=1139729223".
+Retrieved from https://en.wikipedia.org/w/index.php?title=Supermassive_black_hole&oldid=1139729223.
 Categories: GalaxiesSupermassive black holesBlack holesConcepts in astronomyHidden categories: CS1 Greek-language sources (el)Articles with short descriptionShort description is different from WikidataUse mdy dates from March 2020Wikipedia articles in need of updating from November 2022All Wikipedia articles in need of updatingAll articles with unsourced statementsArticles with unsourced statements from November 2022Pages displaying wikidata descriptions as a fallback via Module:Annotated linkArticles with hAudio microformatsSpoken articlesArticles containing video clips.
 .
 .

@@ -24,10 +24,6 @@ class KnowledgeBase:
   def insert(self, data: dict[list[str]]) -> None:
     """ insert all term and facts in to the knowledge_base table"""
 
-    # TODO: Remove: Print knowledge_base
-    for k, v in data.items():
-      print(k, len(v))
-
     query = "insert into knowledge_base (name, facts) values"
 
     for k, v in data.items():
