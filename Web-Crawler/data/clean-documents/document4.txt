@@ -1,0 +1,449 @@
+.
+.
+.
+.
+.
+.
+Interstellar Visual Effects Team Publishes Black Hole Study | Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+Open menu.
+Close menu.
+.
+.
+.
+.
+.
+.
+Space.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space .
+.
+.
+.
+.
+Search.
+.
+ .
+.
+.
+Search Space.
+.
+.
+.
+ .
+.
+.
+.
+Subscribe.
+.
+.
+.
+RSS.
+.
+.
+.
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+  .
+.
+.
+.
+.
+.
+All About Space Magazine . .Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code LOVE5Issues delivered straight to your door or deviceFrom$3.99 .View .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+News.
+.
+.
+.
+.
+Astronomy.
+.
+.
+.
+.
+Spaceflight.
+.
+.
+.
+.
+The Moon.
+.
+.
+.
+.
+Our Solar System.
+.
+.
+.
+.
+Skywatching.
+.
+.
+.
+.
+More.
+.
+.
+.
+.
+Videos.
+.
+.
+Search for LIfe.
+.
+.
+Technology.
+.
+.
+Entertainment.
+.
+.
+Reference.
+.
+.
+SpaceX.
+.
+.
+Expert Voices.
+.
+.
+Forums.
+.
+.
+All Topics.
+.
+.
+Subscribe to All About Space Magazine!.
+.
+.
+Space.com Store.
+.
+.
+About Us.
+.
+.
+Web Notifications.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts.
+.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+.
+.
+.
+.
+.
+.
+Home.
+.
+.
+News.
+.
+.
+Entertainment.
+.
+.
+.
+Interstellar Visual Effects Team Publishes Black Hole Study.
+.
+.
+By Mike Wall published 13 February 2015 .
+.
+.
+.
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+ .
+.
+.
+.
+.
+ .
+.
+.
+.
+  .
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+The supermassive black hole Gargantua plays a major role in the 2014 sci-fi blockbuster Interstellar. Paramount.
+(Image credit: Paramount Pictures).
+.
+.
+.
+.
+The special effects that power the sci-fi blockbuster Interstellar are helping researchers better understand supermassive black holes and other real-world cosmic phenomena.The Interstellar visual-effects crew has published a scientific study describing the computer code that brought to life the wormhole and enormous black hole, dubbed Gargantua, that played central roles in the film.The study, which came out today (Feb. 13) in the journal Classical and Quantum Gravity, details how the computer code — called Double Negative Gravitational Renderer, or DNGR — helped construct a scientifically accurate view of Gargantua, by mapping out how millions of light beams travel through the warped space-time surrounding the black hole. [The Science of Interstellar Explained (Infographic)]The Interstellar team discovered early on that the traditional way to create an onscreen black hole produced an odd flickering as stars and other objects moved about. So they tried something new.To get rid of the flickering and produce realistically smooth pictures for the movie, we changed our code in a manner that has never been done before, study lead author Oliver James, chief scientist at England-based special effects firm Double Negative, said in a statement. Instead of tracing the paths of individual light rays using Einstein’s equations — one per pixel — we traced the distorted paths and shapes of light beams.‪This new approach to making images will be of great value to astrophysicists like me, said co-author Kip Thorne, a renowned astrophysicist who served as an adviser and executive producer of the film. We, too, need smooth images.James, Thorne and their colleagues also used DNGR to better understand how strange, crinkly space-time surfaces called caustics affect images of distant stars as seen by a camera or observer close to a fast-spinning black hole.A light beam emitted from any point on a caustic surface gets focused by the black hole into a bright cusp of light at a given point, James said.All of the caustics, except one, wrap around the sky many times when the camera is close to the black hole, he added. This sky-wrapping is caused by the black hole’s spin, dragging space into a whirling motion around itself like the air in a whirling tornado, and stretching the caustics around the black hole many times.You can read the new paper for free here.Interstellar, which was released in November 2014, centers on a small band of explorers that sets out to find a new home for humanity, whose existence on Earth is threatened by global crop failures. This crew, led by a former farmer named Cooper, journeys to another galaxy via a wormhole that mysteriously appeared near Saturn. (The effects team used DNGR to visualize the wormhole as well.)The film was directed by Christopher Nolan, and it stars Matthew McConaughey, Anne Hathaway, Jessica Chastain and Michael Caine.Follow Mike Wall on Twitter @michaeldwall and Google+. Follow us @Spacedotcom, Facebook or Google+. Originally published on Space.com.
+.
+.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+.
+Mike WallSocial Links NavigationSenior Space WriterMichael Wall is a Senior Space Writer with Space.com . and joined the team in 2010. He primarily covers exoplanets, spaceflight and military space, but has been known to dabble in the space art beat. His book about the search for alien life, Out There, was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelors degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MORE FROM SPACE.1Mini astrobiology laser could join hunt for life on Mars and beyond2Chelyabinsk meteor explosion over Russia 10 years ago was a planetary defense wakeup call3Heres how Chinas astronauts keep fit aboard Tiangong space station (video)4Virgin Orbit traces failed UK rocket launch to dislodged fuel filter5Star Trek Annual 2023 is a holodeck trip through Trek history.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
+.
+.
+About Us .
+Terms and conditions .
+Privacy policy .
+Cookies policy .
+Accessibility Statement .
+Topics .
+Advertise with us .
+Web notifications .
+Careers .
+.
+.
+©.
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,.
+New York,.
+NY 10036. .
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .

@@ -1,0 +1,452 @@
+
+
+
+
+
+
+What Is the Black Hole Information Paradox? | Space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+Open menu
+Close menu
+
+
+
+
+
+
+Space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Space 
+
+
+
+
+Search
+
+ 
+
+
+Search Space
+
+
+
+ 
+
+
+
+Subscribe
+
+
+
+RSS
+
+
+
+
+  (opens in new tab)
+
+  (opens in new tab)
+
+  (opens in new tab)
+
+  (opens in new tab)
+
+  (opens in new tab)
+
+
+
+
+
+All About Space Magazine (opens in new tab) (opens in new tab)Why subscribe?Your monthly guide to stargazing & space scienceSubscribe today and save an extra 5% with code 'LOVE5'Issues delivered straight to your door or deviceFrom$3.99 (opens in new tab)View (opens in new tab)
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+Astronomy
+
+
+
+
+Spaceflight
+
+
+
+
+The Moon
+
+
+
+
+Our Solar System
+
+
+
+
+Skywatching
+
+
+
+
+More
+
+
+
+
+Videos
+
+
+Search for LIfe
+
+
+Technology
+
+
+Entertainment
+
+
+Reference
+
+
+SpaceX
+
+
+Expert Voices
+
+
+Forums
+
+
+All Topics
+
+
+Subscribe to "All About Space" Magazine!
+
+
+Space.com Store
+
+
+About Us
+
+
+Web Notifications
+
+
+
+
+
+ 
+
+
+
+
+
+TrendingRare green Comet C/2022 E3 (ZFT)!Best TelescopesBest Star ProjectorsNext Full MoonSpace CalendarBest BinocularsLego Star Wars dealsArtemis 1 updatesBest DronesSolar System PlanetsNight Sky TonightRussia-Ukraine war space impacts
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Science & Astronomy
+
+
+
+What Is the Black Hole Information Paradox?
+
+
+By Paul Sutter published 6 June 2019 
+
+
+
+
+
+
+  (opens in new tab)
+
+
+
+  (opens in new tab)
+
+
+
+ 
+
+
+
+
+ (opens in new tab)
+
+
+
+  (opens in new tab)
+
+
+
+  (opens in new tab)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An artist's depiction of a black hole.
+(Image credit: NASA/JPL-Caltech)
+
+
+
+
+Paul M. Sutter is an astrophysicist at The Ohio State University, host of Ask a Spaceman and "Space Radio," and author of "Your Place in the Universe." Sutter contributed this article to Space.com's Expert Voices: Op-Ed & Insights. The universe really likes its information. It doesn't like to create new information, and it doesn't like to destroy any of its existing information.In fact, "like" is far too weak of a word. As far as we can tell (and we've worked really, really hard to check), information is neither created nor destroyed: information throughout the universe simply persists.Except in black holes. Whoops. Let's explain.Related: Eureka! Scientists Photograph a Black Hole for the 1st Time Information overload First, we need to decide what we mean by "information" and why it ought to be preserved. Physics is ruled by determinism: we can use the laws of physics to predict the future behavior of a system. That's kind of the entire point of physics. Whether it's a particle sitting in a box or a complex chemical reaction or the whole entire universe, our knowledge of physics allows us to make firm, reliable predictions that take our knowledge from the present into the future.And that same technique allows us to dig into the past. If we know all there is to know about a system, then the same laws of physics that extend into the future also extend into the past — we can run the clock forward or backward, seeing how that system has behaved or will behave with equal ease.It's this reversibility that allows us to make the leap that information is preserved. If I know everything there is to know about a system — the positions and velocities of all the particles, their spins and electric charges, and all the other stuff — then the laws of physics tell me how all those particles will behave past and future. Thus the raw information of the system — everything there is to know about it — is preserved across time; it just gets rearranged, not created or destroyed.Bye, bye black holes At first glance black holes seem to treat information innocently enough. Stuff falls into black holes, along with their information. From the point of view of an external observer (i.e., us watching safely from a distance), nothing ever falls into a black hole — it just gets pasted onto the surface (of course it’s a little more complicated than that, but that’s enough to understand the current dilemma). That situation isn't that big of a deal for information, which is neither created nor destroyed.Except when the black hole evaporates, which creates a tiny problem. As Stephen Hawking first discovered in the 1970s, black holes aren't entirely black. They do glow just a tiny, tiny bit. What's more, this conveniently named Hawking radiation is completely thermal. It’s just random heat, just like your body gives off.That means that the amount and temperature of the radiation emitted depends only on the mass, spin and charge of the black hole. Nothing else: No matter what you throw into a black hole, from books to cats to spaceships, its Hawking radiation will stay the same.Which is fine and dandy; the information on the surface is still there, minding its own business. But as the black hole produces Hawking radiation, it loses energy, which means it loses mass ... which means it eventually disappears, along with all the information it was carrying.So if the information didn't leak out with the Hawking radiation, and the black hole goes away, what happened to all the information?Hence, paradox.New physics to the rescue We don't have a resolution to the black hole information paradox, but that hasn't stopped starry-eyed theorists from dreaming up a host of potential solutions over the decades.Maybe, for example, information is preserved after all. Although this may seem like a simple statement, it involves rewriting almost all known physics. And black holes are the only places where we've run into trouble with this whole information-preserving thing, so is it really worth reinventing all our physical knowledge just to accommodate this one special case? And yet, we've had to rewrite all of physics before, so it's not like it would be the first time, and black holes are very compelling objects.Or maybe Hawking radiation isn't all it's cracked up to be. Maybe somehow the information stuck to the surface of the black hole does end up threading its way into the emitted radiation. Maybe Hawking's original analysis was too simple, and by careful observations of the radiation we could painstakingly reconstruct the books and cats and spaceships that fell in. While this would rescue all of known physics, nobody has been able to find a satisfactory way to actually, you know, make this happen.Perhaps information doesn't get stuck to the surface, but instead is left behind in some sort of crunchy nugget just as the black hole finishes evaporating. That sounds lovely, but again, we have little to no idea of how this would actually work. Or maybe it's something even wilder, like the information getting funneled into another universe or looping back in time.What's exciting about this paradox is that all of the potential answers lead to new physics. No matter what, if we resolve the paradox, we'll do so by learning something new about the universe. 3 Huge Questions the Black Hole Image Didn't Answer  All Your Questions About the New Black Hole Image Answered  Black Hole Photos Could Get Even Clearer with Space-Based Telescopes Learn more by listening to the episode "What is the black hole information paradox?" on the Ask A Spaceman podcast, available on iTunes (opens in new tab) and on the Web at http://www.askaspaceman.com. Thanks to Peter G. for the questions that led to this piece! Ask your own question on Twitter using #AskASpaceman or by following Paul @PaulMattSutter and facebook.com/PaulMattSutter. Follow us on Twitter @Spacedotcom and on Facebook.
+
+
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+
+Paul SutterSocial Links NavigationSpace.com ContributorPaul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute in New York City. Paul received his PhD in Physics from the University of Illinois at Urbana-Champaign in 2011, and spent three years at the Paris Institute of Astrophysics, followed by a research fellowship in Trieste, Italy, His research focuses on many diverse topics, from the emptiest regions of the universe to the earliest moments of the Big Bang to the hunt for the first stars. As an "Agent to the Stars," Paul has passionately engaged the public in science outreach for several years. He is the host of the popular "Ask a Spaceman!" podcast, author of "Your Place in the Universe" and "How to Die in Space" and he frequently appears on TV — including on The Weather Channel, for which he serves as Official Space Specialist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MORE FROM SPACE...1'Star Trek Annual 2023' is a holodeck trip through Trek history2Big asteroid to zoom by Earth on Wednesday3'Starspots' could improve our understanding of habitable zones4South Korea's Danuri probe captures phases of Earth from lunar orbit (photo)5Hubble spies strange spokes on Saturn's rings after 14-year hiatus (video)
+
+
+
+
+
+
+
+
+
+
+Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+
+
+About Us (opens in new tab)
+Terms and conditions (opens in new tab)
+Privacy policy (opens in new tab)
+Cookies policy (opens in new tab)
+Accessibility Statement (opens in new tab)
+Topics (opens in new tab)
+Advertise with us (opens in new tab)
+Web notifications (opens in new tab)
+Careers (opens in new tab)
+
+
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 

@@ -1,0 +1,472 @@
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Black Holes | Science Mission Directorate.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Skip to main content.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+NASA Science Mission Directorate.
+.
+.
+NASA Science.
+Share the Science.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Ask a Question .
+.
+.
+.
+.
+.
+ .
+.
+.
+Science TopicsUniverseSolar SystemSunEarthSpace ExperimentsMissionsScience-enabling TechnologyLunar Discovery and ExplorationScience ActivationNewsScience@NASAPress ReleasesWatchScienceCastsWe Asked a NASA ExpertNASA Science LiveEZ ScienceFor ResearchersOverviewFAQSolicitationsSMD Bridge ProgramROSES BlogNAC Science CommitteeNASA Postdoc ProgramTeamPI ResourcesScience DataHelp & SupportSuborbital ProgramUAPLearnersOverviewTeamsResourcesSME MapOpportunitiesNewsHighlightsHotlineSpace PlaceGet InvolvedNASA Science at HomeArt and ScienceUpcoming EventsConnectEmail Sign UpFollow UsResourcesToolkitsVisual Presentations Citizen ScienceProjectsHighlightsPublicationsNASA Citizen ScientistsAbout UsOverviewLeadershipPeopleResourcesScience StrategyWorkforce InitiativesCareersIDEAConnectCommunicationsContact UsEspañolScience in Spanish.
+.
+.
+.
+.
+.
+.
+.
+          Universe        .
+.
+.
+.
+.
+.
+.
+ .
+Learn About This Image .
+ .
+  .
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+Overview.
+What We Study.
+Programs.
+Missions.
+Science Questions.
+Astro Data.
+Documents.
+.
+.
+.
+What We Study.
+.
+Dark Energy, Dark Matter.
+Black Holes.
+The Big Bang.
+Galaxies.
+Stars.
+Exoplanets.
+.
+.
+.
+.
+.
+Black Holes.
+.
+.
+.
+.
+Dont let the name fool you: a black hole is anything but empty space. Rather, it is a great amount of matter packed into a very small area - think of a star ten times more massive than the Sun squeezed into a sphere approximately the diameter of New York City. The result is a gravitational field so strong that nothing, not even light, can escape. In recent years, NASA instruments have painted a new picture of these strange objects that are, to many, the most fascinating objects in space.
+.
+.
+Intense X-ray flares thought to be caused by a black hole devouring a star. (Video).
+Watch the Video.
+.
+.
+The idea of an object in space so massive and dense that light could not escape it has been around for centuries. Most famously, black holes were predicted by Einsteins theory of general relativity, which showed that when a massive star dies, it leaves behind a small, dense remnant core. If the cores mass is more than about three times the mass of the Sun, the equations showed, the force of gravity overwhelms all other forces and produces a black hole.
+.
+.
+A video about black holes.
+Watch the video.
+.
+.
+Scientists cant directly observe black holes with telescopes that detect x-rays, light, or other forms of electromagnetic radiation. We can, however, infer the presence of black holes and study them by detecting their effect on other matter nearby. If a black hole passes through a cloud of interstellar matter, for example, it will draw matter inward in a process known as accretion. A similar process can occur if a normal star passes close to a black hole. In this case, the black hole can tear the star apart as it pulls it toward itself. As the attracted matter accelerates and heats up, it emits x-rays that radiate into space. Recent discoveries offer some tantalizing evidence that black holes have a dramatic influence on the neighborhoods around them - emitting powerful gamma ray bursts, devouring nearby stars, and spurring the growth of new stars in some areas while stalling it in others.
+One Stars End is a Black Holes Beginning.
+Most black holes form from the remnants of a large star that dies in a supernova explosion. (Smaller stars become dense neutron stars, which are not massive enough to trap light.) If the total mass of the star is large enough (about three times the mass of the Sun), it can be proven theoretically that no force can keep the star from collapsing under the influence of gravity. However, as the star collapses, a strange thing occurs. As the surface of the star nears an imaginary surface called the event horizon, time on the star slows relative to the time kept by observers far away. When the surface reaches the event horizon, time stands still, and the star can collapse no more - it is a frozen collapsing object.
+.
+.
+Astronomers have identified a candidate for the smallest-known black hole. (Video).
+Watch the Video.
+.
+.
+Even bigger black holes can result from stellar collisions. Soon after its launch in December 2004, NASAs Swift telescope observed the powerful, fleeting flashes of light known as gamma ray bursts. Chandra and NASAs Hubble Space Telescope later collected data from the events afterglow, and together the observations led astronomers to conclude that the powerful explosions can result when a black hole and a neutron star collide, producing another black hole.
+Babies and Giants.
+Although the basic formation process is understood, one perennial mystery in the science of black holes is that they appear to exist on two radically different size scales. On the one end, there are the countless black holes that are the remnants of massive stars. Peppered throughout the Universe, these stellar mass black holes are generally 10 to 24 times as massive as the Sun. Astronomers spot them when another star draws near enough for some of the matter surrounding it to be snared by the black holes gravity, churning out x-rays in the process. Most stellar black holes, however, are very difficult to detect. Judging from the number of stars large enough to produce such black holes, however, scientists estimate that there are as many as ten million to a billion such black holes in the Milky Way alone.
+On the other end of the size spectrum are the giants known as supermassive black holes, which are millions, if not billions, of times as massive as the Sun. Astronomers believe that supermassive black holes lie at the center of virtually all large galaxies, even our own Milky Way. Astronomers can detect them by watching for their effects on nearby stars and gas.
+.
+.
+This chart shows the relative masses of super-dense cosmic objects.
+Read the full article.
+.
+.
+Historically, astronomers have long believed that no mid-sized black holes exist.  However, recent evidence from Chandra, XMM-Newton and Hubble strengthens the case that mid-size black holes do exist. One possible mechanism for the formation of supermassive black holes involves a chain reaction of collisions of stars in compact star clusters that results in the buildup of extremely massive stars, which then collapse to form intermediate-mass black holes. The star clusters then sink to the center of the galaxy, where the intermediate-mass black holes merge to form a supermassive black hole.
+ .
+Recent Discoveries.
+Date.
+Discovery.
+December 20, 2022.
+NASA Gets Unusual Close Glimpse of Black Hole Snacking on Star.
+November 23, 2022.
+IXPE Helps Solve Black Hole Jet Mystery.
+November 21, 2022.
+Listen to the Light Echoes From a Black Hole.
+November 10, 2022.
+Magnetic Fields Help Black Holes Reach Deeper Into Galaxies.
+November 3, 2022.
+IXPE Reveals Shape, Orientation of Hot Matter Around Black Hole.
+October 13, 2022.
+Swift, Fermi Missions Detect Exceptional Cosmic Blast.
+August 18, 2022.
+NASA Telescopes Capture Stellar Delivery Service for Black Hole (NGC 4424).
+June 30, 2022.
+Chandra Shows Giant Black Hole Spins Slower Than Its Peers (H1821+243).
+June 10, 2022.
+Hubble Determines Mass of Isolated Black Hole Roaming Our Milky Way Galaxy.
+May 12, 2022.
+NASA Telescopes Support Event Horizon Telescope in Studying Milky Ways Black Hole (Sagittarius A*).
+May 5, 2022.
+Swift Tracks Potential Magnetic Flip of Monster Black Hole.
+May 4, 2022.
+New NASA Black Hole Sonifications with a Remix.
+April 20, 2022.
+Black Holes Raze Thousands of Stars to Fuel Growth.
+April 13, 2022.
+Hubble Sheds Light on Origins of Supermassive Black Holes.
+April 7, 2022.
+Fermi Hunts for Gravitational Waves From Monster Black Holes.
+March 31, 2022.
+Feasting Black Holes Caught in Galactic Spiderweb (Spiderweb Galaxy Field).
+February 22, 2022.
+How Magnetic Fields Help Feed a Supermassive Black Hole.
+January 19, 2022.
+Hubble Finds a Black Hole Igniting Star Formation in a Dwarf Galaxy.
+January 10, 2022.
+Mini Monster Black Hole Could Hold Clues to Giants Growth (Mrk 462).
+December 16, 2021.
+Astronomers Spy Quartet of Cavities From Giant Black Holes: RBS 797.
+December 9, 2021.
+Mini-Jet Found Near Milky Ways Supermassive Black Hole.
+November 10, 2021.
+Black Holes Can Tell Us the Expansion Rate of the Universe.
+September 16, 2021.
+Jingle, Pluck, and Hum: Sounds from Space.
+August 5, 2021.
+Huge Rings Around a Black Hole (V404 Cygni).
+ .
+ .
+.
+.
+.
+.
+What We Study.
+.
+.
+Dark Energy, Dark MatterBlack HolesThe Big BangGalaxiesStarsExoplanets .
+.
+.
+.
+Helpful Links.
+.
+.
+Organization and Staff 2020 Decadal Survey2022 Senior Review of Operating MissionsAstrophysics Fleet Mission Chart (PDF)Astronomy Picture of the DayNight Sky NetworkSpacecraft Paper Models .
+.
+.
+.
+Related Content.
+.
+.
+Field Guide to Black HolesBlack holes: Gravitys Relentless PullBlack Hole Fact Sheet and moreListen to a Black Hole .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Recommended Articles.
+.
+.
+.
+.
+ .
+ .
+.
+.
+Fieldset.
+.
+.
+.
+Volunteers Help Discover the Reddest. .
+February 07, 2023 .
+.
+.
+.
+ .
+ .
+.
+.
+Fieldset.
+.
+.
+.
+The SciGirls become Disk Detectives .
+February 02, 2023 .
+.
+.
+.
+ .
+ .
+.
+.
+Fieldset.
+.
+.
+.
+NASA Wants You to Help Study Planets. .
+January 11, 2023 .
+.
+.
+.
+ .
+ .
+.
+.
+Fieldset.
+.
+.
+.
+Become a Dark Energy Explorer! .
+January 06, 2023 .
+.
+.
+.
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Stay Connected.
+  .
+.
+.
+.
+Science TopicsUniverse.
+Solar System.
+Sun.
+Earth.
+Space Experiments.
+Missions.
+Science-enabling Technology.
+Science Activation.
+.
+Science NewsScience at NASA.
+Press Releases.
+ScienceCasts.
+We Asked a NASA Expert.
+Science Live.
+EZ Science.
+.
+For ResearchersOverview.
+FAQ.
+Solicitations.
+ROSES Blog.
+NAC Science Committee.
+NASA Postdoc Program.
+Team.
+PI Resources.
+Science Data.
+Help & Support.
+.
+LearnersOverview.
+Teams.
+Resources.
+SME Map.
+Opportunities .
+Highlights.
+Hotline.
+SpacePlace.
+.
+Get InvolvedNASA Science at Home.
+Art and Science.
+Upcoming Events.
+Email Sign Up.
+Follow Us.
+Toolkits.
+Visual Presentations.
+.
+Citizen ScienceProjects.
+Highlights.
+Publications.
+NASA Citizen Scientists.
+.
+About UsOverview.
+Science Leadership.
+People.
+Science Strategy.
+Job Opportunities .
+Communications .
+Contact Us.
+.
+.
+.
+.
+.
+NASA.gov.
+Privacy.
+Report Harassment.
+Contact Us.
+Glossary.
+Ciencia.nasa.gov .
+.
+.
+.
+NASA Official: Dana Bolles.
+Last updated: February 13, 2023 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Ask a Question .
+.
+.
+.
+.
+.
+ .
+.
+.
+Science TopicsUniverseOverview2020 Decadal SurveyAPD Responses to DecadalPre 2020 Decadal ReportsLarge MissionsProbe MissionsWhat We StudyDark Energy, Dark MatterBlack HolesThe Big BangGalaxiesStarsExoplanetsProgramsPhysics of the CosmosCosmic OriginsAstrophysics ExplorersExoplanet ExplorationAstrophysics ResearchAstrophysics Div TechnologyAstrophysics PioneersMissionsScience QuestionsHow does the universe work?How did we get here?Are we alone?Astro DataHEASARCMASTNExScINEDIRSASIMBADADSDocumentsAstrophysics RoadmapMeeting of ExpertsSolar SystemOverviewWhat We StudyInner Solar SystemOuter Solar SystemSmall Bodies of the Solar SystemProgramsDiscoveryLunar Discovery & ExplorationMars ExplorationNew FrontiersPlanetary Defense Coordination OfficeOuter Planets & Ocean WorldsSmall SatsSSERVIMissionsScience QuestionsHow did life begin and evolve on Earth?How did the solar system evolve?How did the suns family originate?What are the characteristics of the Solar System?DocumentsPlanetary DataOverviewPDE ElementsPDE IRBStatus UpdatesArchives/RepositoriesOpportunitiesTraining ToolkitSolar SystemSunOverviewHeliophysics LeadershipHelio Org ChartSMD Organization ChartProgram Officers ListWhat We StudyProgramsHeliophysics ResearchBalloonsCubeSatsSolar Terrestrial ProbesExplorersLiving with a StarSounding RocketsWorking GroupsCitizen ScienceTechnology ProgramCHIMERA: A hybrid search coil and fluxgate magnetometer for small spacecraft missionsSolar Cruiser: Enabling new vistas for Heliophysics ScienceMissionsSpace WeatherSpace Weather StrategySpace Weather CouncilGap Analysis ReportSupplemental InformationHeliophysics 2024 Decadal Survey2050 WorkshopStrategic Mission ProgramsHelio DataResourcesGeospace Dynamics ConstellationDocuments and ReportsMembershipPublic CommentsEarthOverviewWhat We StudyElementsFlight ProgramResearch and Analysis ProgramAtmospheric CompositionAC MissionsWeatherWAD MissionsWeather and Atmospheric Dynamics Focus Area Publications and Research HighlightsOur ClimateOceanographyCVC MissionsClimate Variability & ChangeEl NiñoGlobal Water & Energy CycleWEC MissionsCarbon Cycle & EcosystemsCCE MissionsCarbon Cycle and Ecosystems Focus Area Publications and Research HighlightsOur SurfaceA Year in Review: New Earth Discoveries in 2018Accounting for internal variabilityChanges in global terrestrial water storage CClimate change changing ENSOClimate change is speeding up the water cycleCold-intolerant plants are creeping farther northIce losses from Antarctica have tripled since 2012India overtakes China as top emitter of sulfur dioxideLinking ocean circulation and riverine carbon fluxLocal land subsidence increases flood risk in San Francisco BaySatellites detect undiscovered penguin populationsSea surface salinity could provide new insight into severe stormsSeeing the connection between neighboring volcanoes at depthWarm ocean waters off Greenland put glaciers at more riskA Year in Review: New Earth Discoveries in 2019A Year in Review: New Earth Discoveries in 2020ESI MissionsEarth Science Research NewsOcean Physics at NASASelected ProposalsApplied Sciences ProgramCommon Instrument InterfaceCII Guidelines Working MeetingCII Reference DocumentsCII Workshop 1CII Workshop 2CII Workshop 3ESSP Program LibraryESTOMissionsScience QuestionsEarth DataEvery Day is Earth DayResourcesGlobal ChallengesApplications SurveyEventsSpace ExperimentsOverviewOrganizationStaff BiosDecadal SurveyWhat We StudyProgramsSpace BiologyAnimal BiologyAnimal Biology: What We StudyCell & Molecular Biology ProgramDevelopmental, Reproductive & Evolutionary Biology ProgramExperiments - Animal Biology ProgramExperiments - Cell & Molecular Biology ProgramExperiments - Developmental, Reproductive & Evolutionary Biology ProgramExperiments - Microbiology ProgramExperiments - Plant Biology ProgramHardware - Animal Biology ProgramHardware - Cell & Molecular Biology ProgramHardware - Developmental, Reproductive & Evolutionary Biology ProgramHardware - Microbiology ProgramHardware - Plant Biology ProgramMice Behavior in Space - Animal BiologyMicrobiology ProgramPlant Biology ProgramPublications - Animal Biology ProgramPublications - Cell & Molecular Biology ProgramPublications - Developmental, Reproductive & Evolutionary Biology ProgramPublications - Microbiology ProgramPublications - Plant Biology ProgramSpace Biology Science DigestWhat We Study - Cell & Molecular Biology ProgramWhat We Study - Developmental, Reproductive & Evolutionary Biology ProgramWhat We Study - Microbiology ProgramWhat We Study - Plant Biology ProgramPhysical SciencesBiophysicsCombustion ScienceFluid PhysicsFundamental PhysicsLife Science Flight ProjectsMaterials ScienceSTAR 2020 ParticipantsSTAR-2 (2021-2022) Course ParticipantsSTAR-3 (2022-2023) Course ParticipantsSoft MatterMissionsInvestigationsDataDocumentsCommercialNews & MediaWhat are the Van Allen Belts and why do they matter?MissionsScience-enabling TechnologyOverviewSMD Technology ProgramsTechnology HighlightsOutput and ResultsOverviewOverviewWorkshop OverviewForum AgendaGoogle DocsSpeaker Presentations & VideoSpeaker Presentations & VideosSteering CommitteeOrganizersSpeakers and PanelistsQuestions & AnswersLunar Discovery and ExplorationOverviewWhat We StudyPlanetary ProcessesVolatile CyclesImpact History of Earth/MoonRecord of the Ancient SunBiological Systems on the MoonPhysical Sciences on the MoonPlatform to the UniverseElementsCommercial Lunar Payload ServicesLunar Instrument DevelopmentSmallSats and CubeSatsLunar Surface Science Mobility StrategyLunar Reconnaissance OrbiterApollo Next Generation Sample AnalysisCLPS DeliveriesTO2-ABTO2-IMTO19CTO19DTO20A (VIPER)PRIME-1CP-11CP-12CS-3DataResourcesScience ActivationNewsScience@NASAPress ReleasesWatchScienceCastsWe Asked a NASA ExpertNASA Science LiveEZ ScienceFor ResearchersOverviewNASA Science Social Media Consolidation FAQFAQSolicitationsSMD Bridge ProgramQuestions and Answers for SMD Bridge Program Workshop Organizing CommitteeROSES BlogNAC Science CommitteeOverviewMeetingsMembersScience Advisory CommitteesAstrophysics Advisory CommitteeAstrophysics Analysis GroupsEarth Science Advisory CommitteeHeliophysics Advisory CommitteePlanetary Science Advisory CommitteePlanetary Science Analysis GroupsBiological and Physical Sciences Advisory CommitteeApplied Sciences Advisory CommitteeSubcommitteesNASA Postdoc ProgramTeamProgram Officers ListAdvisory CommitteesPI Resources2021 Virtual Launchpad InformationAccessibility StatementAccessibility StatementPI Launchpad Workshop ContentPI Launchpad Workshop VideosPI Launchpad: Developing Your First Flight Mission ProposalPI Launchpad: Pre-application Information SessionPI Workshop SessionsQuestions and Answers about the PI Launchpad 2021 Virtual WorkshopQuestions and Answers about the PI Launchpad 2023 In-Person WorkshopResourcesScience Mission Directorate PI Launchpad WorkshopScience DataFAQ for SMD Information policyOpen-Source Science InitiativeOverviewWhy Do Open Science?Transform to Open Science (TOPS)SMD AI InitiativeData and Computing Architecture StudySeries A WorkshopsSeries C WorkshopsUpcoming and Past EventsOpen-Source Science WorkshopOverviewAgendaCode of ConductScience Information PolicyHelp & SupportHow to GuidesVolunteer for Review PanelsSuborbital ProgramUAPLearnersOverviewAstrobiology Standards AlignmentsAstrophysics Standards AlignmentsBack to SchoolEarth Science Standards AlignmentsHeliophysics Standards AlignmentsPlanetary Science Standards AlignmentsThank You, Teachers!TeamsExplore Science ActivationScience Activation TeamsResourcesSME MapNationwide Eclipse Ballooning Project (NEBP)Ocean Community Engagement and Awareness using NASA Earth Observations and Science for Hispanic/Latino studentsOpportunitiesNewsHighlightsHotlineSpace PlaceGet InvolvedNASA Science at HomeArt and ScienceUpcoming EventsConnectEmail Sign UpFollow UsResourcesToolkitsDIY - Paper Spacecraft ModelsMission Posters: Solar SystemNew Horizons FlybyVisual Presentations Earth Day 2022Citizen ScienceProjectsHighlightsPublicationsNASA Citizen ScientistsAbout UsOverviewScience Mission DirectorateLeadershipPeopleResourcesScience StrategyScience StrategyDecadal SurveysYear in Review20152014201320122011201020082007200620052004Workforce InitiativesBest Practices for Establishing Part-Time/Time-Limited Supervisory OpportunitiesNew Hires Orientation WorkshopRotational Program for ScientistsScience Career Opportunities Planning and Exploration WorkshopScience Career Opportunities Planning and Exploration WorkshopCareersIDEAConnectCommunicationsContact UsEspañolScience in Spanish.
+.
+.
+.
+.
+.
+.
+.
+.
+.
