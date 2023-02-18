@@ -1,7 +1,7 @@
 # NLP
 Deep Dive into NLP
 
-## Table of Conents
+## Table of Contents
 - [Overview](#Overview)
 - [Guessing Game](#Guessing-Game)
 
