@@ -45,7 +45,7 @@ Deep Dive into NLP
     1. Synset
 
   * ### Report
-    * [WordNet Report](WordNet/WordNet.pdf)
+    * [WordNet Report](WordNet/wordnet.pdf)
 
 ## Ngrams
   * ### Code
