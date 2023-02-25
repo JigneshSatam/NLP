@@ -5,6 +5,8 @@ Deep Dive into NLP
 - [Overview](#Overview)
 - [Guessing Game](#Guessing-Game)
 - [Web Crawler](#Web-Crawler)
+- [WordNet](#WordNet)
+- [Ngrams](#Ngrams)
 
 ## Overview
   * ### Report
