@@ -14,7 +14,7 @@ Deep Dive into NLP
 
 ## Guessing Game
   * ### Code
-    * [Guessing Game](02-Guessing-Game)
+    * [Guessing Game](Guessing-Game)
 
   * ### Topics Covered
     1. Removing non-alpha tokens
