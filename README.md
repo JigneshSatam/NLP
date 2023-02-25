@@ -2,11 +2,11 @@
 Deep Dive into NLP
 
 ## Table of Contents
-- [Overview](#Overview)
-- [Guessing Game](#Guessing-Game)
-- [Web Crawler](#Web-Crawler)
-- [WordNet](#WordNet)
-- [Ngrams](#Ngrams)
+- [Overview](#overview)
+- [Guessing Game](#guessing-game)
+- [Web Crawler](#web-crawler)
+- [WordNet](#wordnet)
+- [Ngrams](#ngrams)
 
 ## Overview
   * ### Report
