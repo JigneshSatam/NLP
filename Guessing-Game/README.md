@@ -20,9 +20,9 @@ pipenv run python3 main.py -i anat19.txt
 ### Summary
 On reading the input file the program will provide the summary of the file
 
-![summary](Guessing-Game/docs/Summary.png)
+![summary](./docs/Summary.png)
 
 ### No parameter error
 If no `input file` is provided the program will show following error
 
-![error](Guessing-Game/docs/Error.png)
+![error](./docs/Error.png)
