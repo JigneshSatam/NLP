@@ -34,3 +34,24 @@ Deep Dive into NLP
 
   * ### Report
     * [Web Crawler Report](Web-Crawler/Web-Crawler.pdf)
+
+## WordNet
+  * ### Code
+    * [WordNet](WordNet)
+
+  * ### Topics Covered
+    1. Synset
+
+  * ### Report
+    * [WordNet Report](WordNet/WordNet.pdf)
+
+## Ngrams
+  * ### Code
+    * [Ngrams](Ngrams)
+
+  * ### Topics Covered
+    1. Unigram
+    1. Bigrams
+
+  * ### Narrative
+    * [Ngrams Narrative](Ngrams/Ngrams-Narrative.pdf)
