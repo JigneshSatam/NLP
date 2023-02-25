@@ -7,17 +7,17 @@
 4. POS tagging
 
 ## Table of Contents
-- [Running Guessing Game](#Running-Guessing-Game)
-  - [Input parameters](#Input-parameters)
-  - [Starting guessig game](#Starting-guessig-game)
-  - [Summary](#Summary)
-  - [No parameter error](#No-parameter-error)
-  - [Beginning](#Beginning)
-  - [Correct Guess](#Correct-Guess)
-  - [Incorrect](#Inorrect-Guess)
-  - [Win](#Win)
-  - [Loose](#Loose)
-  - [Stop](#Stop)
+- [Running Guessing Game](#running-guessing-game)
+  - [Input parameters](#input-parameters)
+  - [Starting guessig game](#starting-guessig-game)
+  - [Summary](#summary)
+  - [No parameter error](#no-parameter-error)
+  - [Beginning](#beginning)
+  - [Correct Guess](#correct-guess)
+  - [Incorrect](#inorrect-guess)
+  - [Win](#win)
+  - [Loose](#loose)
+  - [Stop](#stop)
 
 ## Running Guessing Game
 
