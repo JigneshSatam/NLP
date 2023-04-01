@@ -1,0 +1,7 @@
+from model_generator.recommendation_engine.create_model import create_model_cuisine_predictions, train_embeddings
+from model_generator.data_store.generate_db import create_and_populate_db
+
+
+create_model_cuisine_predictions()
+create_and_populate_db()
+train_embeddings()
