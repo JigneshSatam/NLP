@@ -62,3 +62,7 @@ Deep Dive into NLP
 
   * ### Narrative
     * [Ngrams Narrative](Ngrams/Ngrams-Narrative.pdf)
+
+## Sentence Parsing
+  * ### Summary
+    * [Sentence Parsing](Sentence-Parsing/Sentence-Parsing.pdf)
