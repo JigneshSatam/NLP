@@ -29,16 +29,16 @@ class Crawler:
     # self.ua = UserAgent()
 
   def crawl(self, max_limit: int) -> None:
-    self.set_relevant_articles(max_limit)
-    self.save_urls()
+    # self.set_relevant_articles(max_limit)
+    # self.save_urls()
     # print(self.relevant_articles)
     # print(len(self.relevant_articles))
-    self.crawl_relevant_articles()
+    # self.crawl_relevant_articles()
     self.clean_documents()
-    self.extract_all_documents_tokens()
-    self.calculate_tf_idf()
+    # self.extract_all_documents_tokens()
+    # self.calculate_tf_idf()
     self.create_knowledge_base()
-    self.store_knowledge_base()
+    # self.store_knowledge_base()
 
   def get_headers(self) -> dict[str, str]:
     ua = UserAgent()
@@ -121,12 +121,12 @@ class Crawler:
               # print(line)
               text = line
               # text = f.read()
-              text = text.replace("\n", ".")
-              text = text.replace("\t", ".")
               text = text.replace("'", "")
               text = text.replace('"', "")
-              text = text.replace("(opens in new tab)", ".")
-              text = re.sub("\.{2,}", ".", text)
+              text = text.replace("(opens in new tab)", "\n")
+              text = text.replace("\t", "")
+              # text = text.replace("\n", "")
+              # text = re.sub("\.{2,}", "", text)
               # sent = sent_tokenize(text)
               sent.append(text)
 
@@ -196,7 +196,19 @@ class Crawler:
           raw_text = f.read()
       sentences = sent_tokenize(raw_text)
       for sent in sentences:
-        tokens = [t.lower() for t in word_tokenize(sent)]
+        # long_lower_alpha_tokens = [t.lower()
+        #                            for t in word_tokenize(sent) if t.isalpha()]
+
+        # english_stopwords = set(stopwords.words('english'))
+        # non_stopwords_tokens = [
+        #     t for t in long_lower_alpha_tokens if (t not in english_stopwords)]
+        # tokens = non_stopwords_tokens
+
+        # wnl = WordNetLemmatizer()
+        # lemmas = [wnl.lemmatize(t) for t in non_stopwords_tokens]
+        # tokens = lemmas
+
+        tokens = [t.lower() for t in word_tokenize(sent) if t.isalpha()]
         # tokens = [lemmatizer.lemmatize(t)
         #           for t in tokens if t not in englis_stopwords]
         if len(tokens) > 3:
@@ -204,6 +216,10 @@ class Crawler:
           self.corpus.append(sent)
 
     # print(self.corpus)
+    with open("facts.txt", "w") as f:
+      for sent in self.corpus:
+        f.write(sent + " \n")
+
     for sent in self.corpus:
       for term in related_terms:
         if term in sent:

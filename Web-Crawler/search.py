@@ -9,5 +9,6 @@ except:
 
 kb = KnowledgeBase()
 facts = kb.find(name)
+kb.select_all()
 
 print(name, facts)

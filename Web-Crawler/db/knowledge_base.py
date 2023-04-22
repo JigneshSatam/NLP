@@ -72,6 +72,24 @@ class KnowledgeBase:
 
     conn.close()
 
+  def select_all(self) -> None:
+    query = "select facts from knowledge_base;"
+    try:
+      conn = Database.create_connection()
+      rows = conn.execute(query)
+      facts = None
+      for row in rows:
+        facts = json.loads(row[0])
+
+      with open("facts.txt", "w") as f:
+        for fact in facts:
+          f.write(fact + " \n")
+    except Error as e:
+      print("Records delete error.")
+      print(e)
+
+    conn.close()
+
 
 if __name__ == 'db.knowledge_base':
   KnowledgeBase.create_knowledge_base()
