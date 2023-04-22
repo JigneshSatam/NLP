@@ -84,5 +84,19 @@ Deep Dive into NLP
   * ### Adaptive Testing and Debugging of NLP Models
     * [Review](ACL-Paper-Summary/Review-Adaptive-Testing-and-Debugging-of-NLP-Models.pdf)
 
+## Text Classification 1
+  * ### Code
+    * [Text Classification 1](Text-Classification-1)
+
+  * ### Summary
+    * [Report](Text-Classification-1/Text-Classification-1.pdf)
+
+## Text Classification 2
+  * ### Code
+    * [Text Classification 2](Text-Classification-2)
+
+  * ### Summary
+    * [Report](Text-Classification-2/Text_Classification_2.pdf)
+
 ## Special Thanks
   Grateful for [Dr. Mazidi, Karen ](https://github.com/kjmazidi)'s exceptional dedication to teaching and creating a supportive learning environment.
