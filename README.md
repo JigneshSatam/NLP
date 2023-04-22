@@ -9,7 +9,7 @@ Deep Dive into NLP
 - [Ngrams](#ngrams)
 - [Sentence Parsing](#sentence-parsing)
 - [Chatbot](#chatbot)
-- [ACL Paper Summary](#acl-paper-summary)
+- [ACL Paper Summary](#ACL-paper-summary)
 - [Text Classification 1](#text-classification-1)
 - [Text Classification 2](#text-classification-2)
 - [Special Thanks](#special-thanks)
@@ -79,6 +79,10 @@ Deep Dive into NLP
 
   * ### Summary
     * [Chatbot Report](ChatBot/Chatbot-Report.pdf)
+
+## ACL Paper Summary
+  * ### Adaptive Testing and Debugging of NLP Models
+    * [Review](ACL-Paper-Summary/Review-Adaptive-Testing-and-Debugging-of-NLP-Models.pdf)
 
 ## Special Thanks
   Grateful for [Dr. Mazidi, Karen ](https://github.com/kjmazidi)'s exceptional dedication to teaching and creating a supportive learning environment.
