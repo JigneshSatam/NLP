@@ -79,5 +79,5 @@ Deep Dive into NLP
   * ### Summary
     * [Chatbot Report](ChatBot/Chatbot-Report.pdf)
 
-## Special Thanks
-  Grateful for Professor [Karen Mazidi](https://github.com/kjmazidi)'s exceptional dedication to teaching and creating a supportive learning environment.
+## Credits
+  Grateful for [Dr. Mazidi, Karen ](https://github.com/kjmazidi)'s exceptional dedication to teaching and creating a supportive learning environment.
