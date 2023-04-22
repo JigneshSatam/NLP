@@ -8,6 +8,10 @@ Deep Dive into NLP
 - [WordNet](#wordnet)
 - [Ngrams](#ngrams)
 - [Sentence Parsing](#sentence-parsing)
+- [Chatbot](#chatbot)
+- [ACL Paper Summary](#acl-paper-summary)
+- [Text Classification 1](#text-classification-1)
+- [Text Classification 1](#text-classification-2)
 
 ## Overview
   * ### Report
