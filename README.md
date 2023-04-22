@@ -7,6 +7,7 @@ Deep Dive into NLP
 - [Web Crawler](#web-crawler)
 - [WordNet](#wordnet)
 - [Ngrams](#ngrams)
+- [Sentence Parsing](#sentence-parsing)
 
 ## Overview
   * ### Report
