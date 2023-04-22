@@ -12,7 +12,7 @@ Deep Dive into NLP
 - [ACL Paper Summary](#acl-paper-summary)
 - [Text Classification 1](#text-classification-1)
 - [Text Classification 2](#text-classification-2)
-- [Credits](#credits)
+- [Special Thanks](#special-thanks)
 
 ## Overview
   * ### Report
@@ -80,5 +80,5 @@ Deep Dive into NLP
   * ### Summary
     * [Chatbot Report](ChatBot/Chatbot-Report.pdf)
 
-## Credits
+## Special Thanks
   Grateful for [Dr. Mazidi, Karen ](https://github.com/kjmazidi)'s exceptional dedication to teaching and creating a supportive learning environment.
