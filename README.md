@@ -12,6 +12,7 @@ Deep Dive into NLP
 - [ACL Paper Summary](#acl-paper-summary)
 - [Text Classification 1](#text-classification-1)
 - [Text Classification 2](#text-classification-2)
+- [Credits](#credits)
 
 ## Overview
   * ### Report
