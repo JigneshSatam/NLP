@@ -64,5 +64,10 @@ Deep Dive into NLP
     * [Ngrams Narrative](Ngrams/Ngrams-Narrative.pdf)
 
 ## Sentence Parsing
+  * ### Topics Covered
+    1. PSG Tree
+    1. Dependency Parser
+    1. SRL Parser
+
   * ### Summary
     * [Sentence Parsing](Sentence-Parsing/Sentence_Parsing.pdf)
