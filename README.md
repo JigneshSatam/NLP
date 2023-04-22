@@ -65,4 +65,4 @@ Deep Dive into NLP
 
 ## Sentence Parsing
   * ### Summary
-    * [Sentence Parsing](Sentence-Parsing/Sentence-Parsing.pdf)
+    * [Sentence Parsing](Sentence-Parsing/Sentence_Parsing.pdf)
