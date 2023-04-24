@@ -72,7 +72,7 @@ title: NLP
 
 <div class="row g-2">
   <h2>About Me</h2>
-  <p>I am passionate about NLP and constantly seek to learn more about this rapidly changing field. I have plans to work on personal projects that involve creating a chatbot using deep learning and building a recommendation system for online news articles. To keep up with the latest developments, I read research papers, participate in online communities, and attend conferences and workshops.</p>
+  <p>I am passionate about NLP and constantly seek to learn more about this rapidly changing field. I have plans to work on personal projects that involve updating the chatbot and building a recommendation system for online news articles. To keep up with the latest developments, I read research papers, participate in online communities, and attend conferences and workshops.</p>
   <p>I am also interested in possible employment opportunities that allow me to apply my skills and contribute to the NLP community.</p>
 </div>
 
