@@ -43,12 +43,14 @@ title: NLP
 <div class="row g-2">
   <h2>Technical Skills</h2>
   <ul>
-    <li>Natural Language Processing</li>
-    <li>Python</li>
-    <li>Jupyter Notebooks</li>
-    <li>Git</li>
-    <li>Jekyll</li>
-    <li>Machine Learning</li>
+    <li>Programming Languages: Golang , Ruby , Python , Java , JavaScript<li>
+    <li>Frameworks: Python Flask, Ruby on Rails , Python Django , Angular - 5 , React , Android<li>
+    <li>Server-side Technologies: Jupyter Notebooks, Jekyll, PostgreSQL , RabbitMQ , Redis , MySQL , SQLite<li>
+    <li>Client-side Technologies: HTML , CSS , JQuery , Bootstrap , Semantic UI , SCSS</li>
+    <li>Hosting: Amazon Web Services - AWS , Google Cloud Platform - GCP , Heroku</li>
+    <li>Containerization & Orchestration: - Docker & Kubernetes</li>
+    <li>Testing Frameworks: RSpec , Mocha-Chai</li>
+    <li>Version Control Tools: Git</li>
   </ul>
   <p>
   </p>
