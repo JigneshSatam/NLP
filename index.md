@@ -30,7 +30,7 @@ title: NLP
               </ul>
             {% endif %}
             <p>
-              {% if topic.folder %} | <a href="https://github.com/jigneshsatam/NLP/tree/main/{{topic.folder}}">View on GitHub</a> {% endif %}
+              {% if topic.folder %} | <a href="https://github.com/jigneshsatam/NLP/tree/main/{{topic.folder}}" target="_blank">View on GitHub</a> {% endif %}
               {% if topic.report %} | <a href="{{topic.report}}">Report</a> {% endif %} |
             </p>
           </div>
