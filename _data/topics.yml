@@ -134,7 +134,7 @@
   collapsed: collapsed
   # folder: ACL-Paper-Summary
   descriptions:
-    - <a href="https://aclweb.org/anthology/2021.acl-long.55/"> Adaptive Testing and Debugging of NLP Models</a> is an academic paper that refer to the process of iteratively testing and improving an NLP model based on feedback from users or other sources.
+    - <a href="https://aclanthology.org/2022.acl-long.230.pdf"> Adaptive Testing and Debugging of NLP Models</a> is an academic paper that refer to the process of iteratively testing and improving an NLP model based on feedback from users or other sources.
     - In adaptive testing, the NLP model is modified based on the results of previous tests. For example, if the model consistently fails to correctly identify a certain type of entity, such as a person's name, the model can be adjusted to improve its performance in that area. Adaptive testing can be used to improve the accuracy and efficiency of NLP models over time, as the model is updated to better handle real-world data and use cases.
     - Debugging NLP models involves identifying and fixing errors or bugs in the model's code or design. This can involve manually reviewing the model's output and identifying areas where it is not performing as expected, or using automated debugging tools to identify and fix issues more quickly.
     - Both adaptive testing and debugging are important processes in the development and optimization of NLP models, as they help to ensure that the model is accurate, efficient, and effective at handling real-world data and use cases.
