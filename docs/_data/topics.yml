@@ -1,0 +1,13 @@
+- name: Guessing Game
+  label: Guessing-Game
+  id: 1
+  descriptions:
+    - 'The <a href="https://github.com/your-username/guessing-game">Guessing Game</a> is a simple NLP project that uses machine learning to guess a number between 1 and 100 based on user input.'
+    - 'This project is a simple word guessing game where the user thinks of a word, and the program tries to guess the word by asking a series of questions. It is an NLP project that uses Natural Language Processing techniques to process user input and generate appropriate questions.'
+  img: "/assets/images/guessing-game.gif"
+  class: show
+  expanded: "true"
+- name: Web Crawler
+  label: Web-Crawler
+  id: 2
+  collapsed: collapsed
