@@ -57,7 +57,7 @@ title: NLP
   <h2>Soft Skills</h2>
   <ul>
     <li>Communication: During team meetings, I listen carefully to your colleague's concerns and suggestions, and then summarize what you heard to ensure that you understood their perspective correctly.</li>
-    <li>Scheduling: I have several tasks to complete by in a sprint, so I prioritize them based on their importance and deadline, and work on the most urgent ones first.</li>
+    <li>Scheduling: I have several tasks to complete in a sprint, so I prioritize them based on their importance and deadline, and work on the most urgent ones first.</li>
     <li>Time and Project Management: I am working on a long-term project, so I break it down into smaller, more manageable goals with clear deadlines, and regularly review my progress to ensure that I are on track.</li>
     <li>Analytical Thinking: In a case of any problem in the project, I gather and analyze data, brainstorm potential solutions, and then evaluate and implement the most effective option.</li>
     <li>Flexibility: My company had a major reorganization, so I adapt to the new structure and responsibilities, and look for ways to contribute to the team's success in the new environment.</li>
